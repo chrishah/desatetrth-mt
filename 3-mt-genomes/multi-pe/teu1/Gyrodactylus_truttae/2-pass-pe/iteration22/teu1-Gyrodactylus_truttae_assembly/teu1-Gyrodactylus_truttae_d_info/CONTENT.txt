@@ -1,0 +1,11 @@
+total 184M
+-rwxr-xr-x 1    0 Nov  4  2016 teu1-Gyrodactylus_truttae_info_WARNINGS_medium.txt
+-rwxr-xr-x 1    0 Nov  4  2016 teu1-Gyrodactylus_truttae_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  4  2016 teu1-Gyrodactylus_truttae_info_readrepeats.lst
+-rwxr-xr-x 1  260 Nov  4  2016 teu1-Gyrodactylus_truttae_info_contigstats.txt
+-rwxr-xr-x 1 164M Nov  4  2016 teu1-Gyrodactylus_truttae_info_readtaglist.txt
+-rwxr-xr-x 1  20M Nov  4  2016 teu1-Gyrodactylus_truttae_info_contigreadlist.txt
+-rwxr-xr-x 1  37K Nov  4  2016 teu1-Gyrodactylus_truttae_info_consensustaglist.txt
+-rwxr-xr-x 1  13K Nov  4  2016 teu1-Gyrodactylus_truttae_info_debrislist.txt
+-rwxr-xr-x 1 2.6K Nov  4  2016 teu1-Gyrodactylus_truttae_info_assembly.txt
+-rwxr-xr-x 1  443 Nov  4  2016 teu1-Gyrodactylus_truttae_info_WARNINGS_minor.txt

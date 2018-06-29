@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Nov  1  2016 tru1-G.salaris.mt_d_tmp
+drwxr-xr-x 2 4.0K Nov  1  2016 tru1-G.salaris.mt_d_info
+drwxr-xr-x 2 4.0K Nov  1  2016 tru1-G.salaris.mt_d_chkpt
+drwxr-xr-x 2 4.0K Nov  1  2016 tru1-G.salaris.mt_d_results

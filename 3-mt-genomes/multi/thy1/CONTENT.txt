@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 4 4.0K Oct 30  2016 seed_der-teu-sal
+drwxr-xr-x 7 4.0K Nov  1  2016 seed_der-teu-sal_pe
+-rwxr-xr-x 1   68 Nov  3  2016 thy1_sp-proportions.txt
+-rwxr-xr-x 1  743 Nov  3  2016 HOWTO

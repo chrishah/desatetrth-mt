@@ -1,0 +1,21 @@
+total 84K
+drwxr-xr-x 4 4.0K Oct 28  2016 tru1
+drwxr-xr-x 4 4.0K Oct 28  2016 let
+drwxr-xr-x 4 4.0K Oct 28  2016 teu4
+drwxr-xr-x 4 4.0K Oct 28  2016 mix
+drwxr-xr-x 4 4.0K Oct 28  2016 thy1
+drwxr-xr-x 4 4.0K Oct 28  2016 der
+drwxr-xr-x 4 4.0K Oct 28  2016 teu2
+drwxr-xr-x 4 4.0K Oct 28  2016 tru2
+drwxr-xr-x 4 4.0K Oct 28  2016 teu3
+drwxr-xr-x 4 4.0K Oct 28  2016 teu1
+drwxr-xr-x 4 4.0K Oct 28  2016 thy2
+drwxr-xr-x 4 4.0K Oct 28  2016 Palsbu
+drwxr-xr-x 4 4.0K Oct 28  2016 Rauma
+drwxr-xr-x 4 4.0K Oct 29  2016 sal
+-rwxr-xr-x 1  561 Nov  3  2016 selective_mapping_summary.tsv
+-rwxr-xr-x 1 2.8K Nov  3  2016 HOWTO.md
+-rwxr-xr-x 1   38 Nov  3  2016 species.txt
+-rwxr-xr-x 1  444 Nov  3  2016 table.tsv
+-rwxr-xr-x 1  792 Nov  3  2016 MITObim.template.slurm.sh
+-rwxr-xr-x 1 6.2K Nov  3  2016 GyrodactylusCOI.fasta

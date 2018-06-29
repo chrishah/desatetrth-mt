@@ -1,0 +1,7 @@
+total 19M
+-rwxr-xr-x 1  15K Nov  4  2016 temp_baitfile.fasta
+-rwxr-xr-x 1 452K Nov  4  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  4  2016 backbone_it1_initial_Gyrodactylus_truttae.fna
+-rwxr-xr-x 1  19M Nov  4  2016 tru2-readpool-it1.fastq
+-rwxr-xr-x 1  422 Nov  4  2016 manifest.conf
+drwxr-xr-x 6 4.0K Nov  4  2016 tru2-Gyrodactylus_truttae_assembly

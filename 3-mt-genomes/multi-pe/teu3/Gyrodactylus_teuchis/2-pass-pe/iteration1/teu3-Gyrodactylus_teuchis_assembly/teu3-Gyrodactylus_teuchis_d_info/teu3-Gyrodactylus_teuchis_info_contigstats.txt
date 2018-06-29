@@ -1,0 +1,2 @@
+# name              	length	av.qual	#-reads	mx.cov.	av.cov	GC%	CnIUPAC	CnFunny	CnN	CnX	CnGap	CnNoCov
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb	14891	90	173444	1342	1112.15	33.46	0	0	0	0	11	0

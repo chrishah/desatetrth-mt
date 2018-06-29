@@ -1,0 +1,7 @@
+total 50M
+drwxr-xr-x 6 4.0K Nov  1  2016 teu1-G.der.teu.tru.mt_assembly
+-rwxr-xr-x 1 825K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  49M Nov  3  2016 teu1-readpool-it1.fastq
+-rwxr-xr-x 1  45K Nov  3  2016 backbone_it1_initial_G.der.teu.tru.mt.fna
+-rwxr-xr-x 1  410 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  44K Nov  3  2016 temp_baitfile.fasta

@@ -1,0 +1,18 @@
+total 148M
+-rwxr-xr-x 1  30K Nov  3  2016 let-G.sal.der.mt_out_let.unpadded.fasta
+-rwxr-xr-x 1  89K Nov  3  2016 let-G.sal.der.mt_out_let.padded.fasta.qual
+-rwxr-xr-x 1  30K Nov  3  2016 let-G.sal.der.mt_out_let.padded.fasta
+-rwxr-xr-x 1  30K Nov  3  2016 let-G.sal.der.mt_out_G.sal.der.mt.unpadded.fasta
+-rwxr-xr-x 1  89K Nov  3  2016 let-G.sal.der.mt_out_let.unpadded.fasta.qual
+-rwxr-xr-x 1  30K Nov  3  2016 let-G.sal.der.mt_out.wig
+-rwxr-xr-x 1  46M Nov  3  2016 let-G.sal.der.mt_out.maf
+-rwxr-xr-x 1   78 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1  30K Nov  3  2016 let-G.sal.der.mt_out_G.sal.der.mt.padded.fasta
+-rwxr-xr-x 1  247 Nov  3  2016 let-G.sal.der.mt_out.tcs
+-rwxr-xr-x 1  89K Nov  3  2016 let-G.sal.der.mt_out_G.sal.der.mt.padded.fasta.qual
+-rwxr-xr-x 1  89K Nov  3  2016 let-G.sal.der.mt_out_G.sal.der.mt.unpadded.fasta.qual
+-rwxr-xr-x 1  89K Nov  3  2016 let-G.sal.der.mt_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1  30K Nov  3  2016 let-G.sal.der.mt_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1  89K Nov  3  2016 let-G.sal.der.mt_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1  30K Nov  3  2016 let-G.sal.der.mt_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 102M Nov  3  2016 let-G.sal.der.mt_out.caf

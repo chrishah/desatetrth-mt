@@ -1,0 +1,11 @@
+total 6.2M
+-rwxr-xr-x 1    0 Nov  4  2016 mix-Gyrodactylus_truttae_info_WARNINGS_medium.txt
+-rwxr-xr-x 1    0 Nov  4  2016 mix-Gyrodactylus_truttae_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  4  2016 mix-Gyrodactylus_truttae_info_readrepeats.lst
+-rwxr-xr-x 1  443 Nov  4  2016 mix-Gyrodactylus_truttae_info_WARNINGS_minor.txt
+-rwxr-xr-x 1 5.6M Nov  4  2016 mix-Gyrodactylus_truttae_info_readtaglist.txt
+-rwxr-xr-x 1  26K Nov  4  2016 mix-Gyrodactylus_truttae_info_debrislist.txt
+-rwxr-xr-x 1  193 Nov  4  2016 mix-Gyrodactylus_truttae_info_contigstats.txt
+-rwxr-xr-x 1 596K Nov  4  2016 mix-Gyrodactylus_truttae_info_contigreadlist.txt
+-rwxr-xr-x 1  26K Nov  4  2016 mix-Gyrodactylus_truttae_info_consensustaglist.txt
+-rwxr-xr-x 1 2.6K Nov  4  2016 mix-Gyrodactylus_truttae_info_assembly.txt

@@ -1,0 +1,12 @@
+total 728K
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration1
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration2
+-rwxr-xr-x 1  15K Nov  3  2016 Gyrodactylus_truttae_ciruclar_14823.reference.fasta
+-rwxr-xr-x 1  613 Nov  3  2016 HOWTO
+-rwxr-xr-x 1    0 Nov  3  2016 log.138869.err
+-rwxr-xr-x 1 656K Nov  3  2016 mix.Gyrodactylus_truttae_ciruclar_14823.interleaved.fastq.gz
+-rwxr-xr-x 1 1013 Nov  3  2016 mix.tru.14828.for-testing.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 mix.tru.circular.14828.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 mix.tru.circular.14828.renamed.fasta
+-rwxr-xr-x 1 2.5K Nov  3  2016 log.138869.out
+-rwxr-xr-x 1  716 Nov  3  2016 mix.Gyrodactylus_truttae_ciruclar_14823.MITObim.slurm.sh

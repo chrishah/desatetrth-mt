@@ -1,0 +1,11 @@
+total 8.8M
+-rwxr-xr-x 1  15K Nov  4  2016 Gyrodactylus_teuchis_ciruclar_14789.reference.fasta
+-rwxr-xr-x 1  727 Nov  4  2016 teu1.Gyrodactylus_teuchis_ciruclar_14789.MITObim.slurm.sh
+-rwxr-xr-x 1    0 Nov  4  2016 log.139552.err
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration1
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration2
+-rwxr-xr-x 1 2.5K Nov  4  2016 log.139552.out
+-rwxr-xr-x 1 1.9K Nov  4  2016 HOWTO
+-rwxr-xr-x 1  75K Nov  4  2016 teu1.Gyrodactylus_teuchis_ciruclar_14789.se.readlist.txt
+-rwxr-xr-x 1 8.7M Nov  4  2016 teu1.Gyrodactylus_teuchis_ciruclar_14789.pe.readlist.txt
+drwxr-xr-x 4 4.0K Nov  4  2016 teu1.Gyrodactylus_teuchis_ciruclar_14789

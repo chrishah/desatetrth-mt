@@ -1,0 +1,5 @@
+	der
+derjavinoides	0.450
+salaris	0.550
+teuchis	0.000
+truttae	0.000

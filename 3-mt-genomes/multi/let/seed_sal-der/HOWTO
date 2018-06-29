@@ -1,0 +1,14 @@
+Test for circularity in G. derjavinoides mt genome.
+
+```bash
+mkdir G.derjavinoides.circular
+cd G.derjavinoides.circular
+```
+
+###############
+Test for circularity in G. salaris mt genome.
+
+```bash
+mkdir G.salaris.circular
+cd G.salaris.circular
+```

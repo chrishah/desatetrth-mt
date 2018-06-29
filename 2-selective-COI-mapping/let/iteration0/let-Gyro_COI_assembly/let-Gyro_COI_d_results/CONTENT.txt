@@ -1,0 +1,18 @@
+total 14M
+-rwxr-xr-x 1 6.0K Nov  3  2016 let-Gyro_COI_out.wig
+-rwxr-xr-x 1  16K Nov  3  2016 let-Gyro_COI_out_let.unpadded.fasta.qual
+-rwxr-xr-x 1  16K Nov  3  2016 let-Gyro_COI_out_let.padded.fasta.qual
+-rwxr-xr-x 1  19K Nov  3  2016 let-Gyro_COI_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 4.3M Nov  3  2016 let-Gyro_COI_out.maf
+-rwxr-xr-x 1   66 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1  19K Nov  3  2016 let-Gyro_COI_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1  373 Nov  3  2016 let-Gyro_COI_out.tcs
+-rwxr-xr-x 1 6.2K Nov  3  2016 let-Gyro_COI_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 9.3M Nov  3  2016 let-Gyro_COI_out.caf
+-rwxr-xr-x 1 6.2K Nov  3  2016 let-Gyro_COI_out_let.unpadded.fasta
+-rwxr-xr-x 1  19K Nov  3  2016 let-Gyro_COI_out_Gyro_COI.padded.fasta.qual
+-rwxr-xr-x 1 6.2K Nov  3  2016 let-Gyro_COI_out_Gyro_COI.padded.fasta
+-rwxr-xr-x 1  19K Nov  3  2016 let-Gyro_COI_out_Gyro_COI.unpadded.fasta.qual
+-rwxr-xr-x 1 6.2K Nov  3  2016 let-Gyro_COI_out_let.padded.fasta
+-rwxr-xr-x 1 6.2K Nov  3  2016 let-Gyro_COI_out_Gyro_COI.unpadded.fasta
+-rwxr-xr-x 1 6.2K Nov  3  2016 let-Gyro_COI_out_AllStrains.unpadded.fasta

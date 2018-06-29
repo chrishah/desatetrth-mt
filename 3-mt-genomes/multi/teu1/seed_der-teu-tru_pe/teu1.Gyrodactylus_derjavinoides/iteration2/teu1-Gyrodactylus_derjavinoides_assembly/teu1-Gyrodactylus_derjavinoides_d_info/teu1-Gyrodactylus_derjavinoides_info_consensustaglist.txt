@@ -1,0 +1,94 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	6558	6558	6558	6558	1	IUPc							Strain 'teu1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	6558	6558	6558	6558	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	6558	6558	6558	6558	1	UNSc							medium
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	6601	6601	6601	6601	1	SRMc	83	0	83	0	84	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9315	9315	9315	9315	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9316	9316	9316	9316	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9329	9329	9329	9329	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9335	9335	9335	9335	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9337	9337	9337	9337	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9347	9347	9347	9347	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9353	9353	9353	9353	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9355	9355	9355	9355	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9356	9356	9356	9356	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9358	9358	9358	9358	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9361	9361	9361	9361	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9362	9362	9362	9362	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9374	9374	9374	9374	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9375	9375	9375	9375	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9383	9383	9383	9383	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9384	9384	9384	9384	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9395	9395	9395	9395	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9407	9407	9407	9407	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9412	9412	9412	9412	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9413	9413	9413	9413	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9417	9417	9417	9417	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9418	9418	9418	9418	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9420	9420	9420	9420	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9425	9425	9425	9425	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9433	9433	9433	9433	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9437	9437	9437	9437	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9438	9438	9438	9438	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9441	9441	9441	9441	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9449	9449	9449	9449	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9453	9453	9453	9453	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9463	9463	9463	9463	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9479	9479	9479	9479	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9487	9487	9487	9487	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9488	9488	9488	9488	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9489	9489	9489	9489	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9490	9490	9490	9490	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9491	9491	9491	9491	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9493	9493	9493	9493	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9500	9500	9500	9500	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9506	9506	9506	9506	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9514	9514	9514	9514	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9515	9515	9515	9515	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9518	9518	9518	9518	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9526	9526	9526	9526	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9531	9531	9531	9531	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9537	9537	9537	9537	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9543	9543	9543	9543	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9548	9548	9548	9548	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9553	9553	9553	9553	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9554	9554	9554	9554	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9556	9556	9556	9556	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9558	9558	9558	9558	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9560	9560	9560	9560	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9561	9561	9561	9561	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9567	9567	9567	9567	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9583	9583	9583	9583	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9585	9585	9585	9585	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9599	9599	9599	9599	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9601	9601	9601	9601	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9609	9609	9609	9609	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9611	9611	9611	9611	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9620	9620	9620	9620	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9638	9638	9638	9638	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9639	9639	9639	9639	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9640	9640	9640	9640	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9645	9645	9645	9645	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9649	9649	9649	9649	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9658	9658	9658	9658	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9660	9660	9660	9660	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9661	9661	9661	9661	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9667	9667	9667	9667	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9671	9671	9671	9671	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9680	9680	9680	9680	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9681	9681	9681	9681	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9686	9686	9686	9686	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9687	9687	9687	9687	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9689	9689	9689	9689	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9691	9691	9691	9691	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9694	9694	9694	9694	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9699	9699	9699	9699	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9700	9700	9700	9700	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9710	9710	9710	9710	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9712	9712	9712	9712	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9716	9716	9716	9716	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9734	9734	9734	9734	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb	9751	9751	9751	9751	1	ESDN							

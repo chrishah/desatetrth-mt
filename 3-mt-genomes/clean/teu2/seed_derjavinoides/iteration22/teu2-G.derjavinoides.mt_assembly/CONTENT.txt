@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Oct 29  2016 teu2-G.derjavinoides.mt_d_tmp
+drwxr-xr-x 2 4.0K Oct 29  2016 teu2-G.derjavinoides.mt_d_info
+drwxr-xr-x 2 4.0K Oct 29  2016 teu2-G.derjavinoides.mt_d_chkpt
+drwxr-xr-x 2 4.0K Jun  7 23:16 teu2-G.derjavinoides.mt_d_results

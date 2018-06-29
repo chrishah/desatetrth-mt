@@ -1,0 +1,10 @@
+total 60K
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration17
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration18
+-rwxr-xr-x 1  715 Nov  3  2016 HOWTO
+-rwxr-xr-x 1  733 Nov  3  2016 MITObim.salaris.seed.slurm.sh
+-rwxr-xr-x 1    0 Nov  3  2016 log.138454.err
+-rwxr-xr-x 1  15K Nov  3  2016 teu4.circular.14792.renamed.fasta
+-rwxr-xr-x 1 1013 Nov  3  2016 teu4.14792.for-testing.fasta
+-rwxr-xr-x 1 7.2K Nov  3  2016 log.138454.out
+-rwxr-xr-x 1  15K Nov  3  2016 teu4.circular.14792.fasta

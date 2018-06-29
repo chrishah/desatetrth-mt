@@ -1,0 +1,11 @@
+total 59M
+-rwxr-xr-x 1 2.5K Nov  3  2016 der-Gyrodactylus_derjavinoides_info_assembly.txt
+-rwxr-xr-x 1    0 Nov  3  2016 der-Gyrodactylus_derjavinoides_info_WARNINGS_medium.txt
+-rwxr-xr-x 1  193 Nov  3  2016 der-Gyrodactylus_derjavinoides_info_contigstats.txt
+-rwxr-xr-x 1    0 Nov  3  2016 der-Gyrodactylus_derjavinoides_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  3  2016 der-Gyrodactylus_derjavinoides_info_debrislist.txt
+-rwxr-xr-x 1 5.6M Nov  3  2016 der-Gyrodactylus_derjavinoides_info_contigreadlist.txt
+-rwxr-xr-x 1  443 Nov  3  2016 der-Gyrodactylus_derjavinoides_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 der-Gyrodactylus_derjavinoides_info_readrepeats.lst
+-rwxr-xr-x 1  55K Nov  3  2016 der-Gyrodactylus_derjavinoides_info_consensustaglist.txt
+-rwxr-xr-x 1  54M Nov  3  2016 der-Gyrodactylus_derjavinoides_info_readtaglist.txt

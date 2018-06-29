@@ -1,0 +1,12 @@
+total 16M
+-rwxr-xr-x 1  751 Nov  4  2016 MITObim.slurm.sh
+-rwxr-xr-x 1 1.4K Nov  4  2016 bait.pe.slurm.sh
+-rwxr-xr-x 1    0 Nov  4  2016 job.140106.err
+-rwxr-xr-x 1 317K Nov  4  2016 teu1.Gyrodactylus_truttae.se.readlist.txt
+-rwxr-xr-x 1 5.7M Nov  4  2016 teu1.Gyrodactylus_truttae.pe.readlist.txt
+-rwxr-xr-x 1 9.8M Nov  4  2016 teu1.Gyrodactylus_truttae.interleaved.fastq.gz
+-rwxr-xr-x 1  462 Nov  4  2016 job.140106.out
+-rwxr-xr-x 1    0 Nov  4  2016 log.140107.err
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration21
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration22
+-rwxr-xr-x 1 8.5K Nov  4  2016 log.140107.out

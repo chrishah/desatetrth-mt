@@ -1,0 +1,7 @@
+total 2.5M
+drwxr-xr-x 6 4.0K Nov  1  2016 mix-Gyrodactylus_truttae_ciruclar_14823_assembly
+-rwxr-xr-x 1 448K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  3  2016 backbone_it1_initial_Gyrodactylus_truttae_ciruclar_14823.fna
+-rwxr-xr-x 1 2.0M Nov  3  2016 mix-readpool-it1.fastq
+-rwxr-xr-x 1  464 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  15K Nov  3  2016 temp_baitfile.fasta

@@ -1,0 +1,391 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+NC_008815.1|Gyrodactylus_salaris_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+NC_008815.1|Gyrodactylus_salaris_bb_bb	0	29	0	29	30	MCVc							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	22	22	22	22	1	SRMc	85	89	0	85	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	161	161	161	161	1	SRMc	87	0	87	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	422	422	422	422	1	SRMc	85	0	85	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	502	502	502	502	1	SRMc	84	0	84	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	541	541	541	541	1	SRMc	83	0	87	83	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	566	566	566	566	1	SRMc	87	0	87	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	596	596	596	596	1	SRMc	87	0	89	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	673	673	673	673	1	SRMc	79	0	89	0	79	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	676	676	676	676	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	691	691	691	691	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	773	773	773	773	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	786	786	786	786	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	883	883	883	883	1	SRMc	81	89	81	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	942	942	942	942	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	951	951	951	951	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	957	957	957	957	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1033	1033	1033	1033	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1050	1050	1050	1050	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1113	1113	1113	1113	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1137	1137	1137	1137	1	SRMc	82	0	0	90	82	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1143	1143	1143	1143	1	SRMc	79	0	88	0	79	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1155	1155	1155	1155	1	SRMc	83	0	90	0	83	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1212	1212	1212	1212	1	IUPc							Strain 'der': Y
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1212	1212	1212	1212	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1212	1212	1212	1212	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1225	1225	1225	1225	1	SRMc	88	88	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1236	1236	1236	1236	1	SRMc	88	0	88	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1266	1266	1266	1266	1	SRMc	81	90	0	0	81	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1321	1321	1321	1321	1	SRMc	88	0	88	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1340	1340	1340	1340	1	IUPc							Strain 'der': W
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1340	1340	1340	1340	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1340	1340	1340	1340	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1416	1416	1416	1416	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1458	1458	1458	1458	1	SRMc	86	90	0	86	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1468	1468	1468	1468	1	SRMc	88	88	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1530	1530	1530	1530	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1533	1533	1533	1533	1	SRMc	85	0	90	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1547	1547	1547	1547	1	SRMc	35	0	90	35	86	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1550	1550	1550	1550	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1572	1572	1572	1572	1	SRMc	84	0	84	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1599	1599	1599	1599	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1608	1608	1608	1608	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1636	1636	1636	1636	1	SRMc	86	89	0	86	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1647	1647	1647	1647	1	SRMc	77	90	0	90	77	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1657	1657	1657	1657	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1716	1716	1716	1716	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1758	1758	1758	1758	1	SRMc	33	0	90	33	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1912	1912	1912	1912	1	SRMc	81	0	0	90	81	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	1940	1940	1940	1940	1	SRMc	30	0	90	0	89	30	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2009	2009	2009	2009	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2024	2024	2024	2024	1	SRMc	90	90	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2078	2078	2078	2078	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2138	2138	2138	2138	1	SRMc	34	0	90	0	81	34	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2140	2140	2140	2140	1	SRMc	87	0	90	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2143	2143	2143	2143	1	SRMc	25	89	90	0	25	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2158	2158	2158	2158	1	SRMc	83	90	0	83	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2260	2260	2260	2260	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2271	2271	2271	2271	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2272	2272	2272	2272	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2374	2374	2374	2374	1	SRMc	89	89	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2489	2489	2489	2489	1	SRMc	86	0	86	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2500	2500	2500	2500	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2537	2537	2537	2537	1	SRMc	81	0	90	89	81	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2611	2611	2611	2611	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2656	2656	2656	2656	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2677	2677	2677	2677	1	SRMc	88	88	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2683	2683	2683	2683	1	SRMc	73	0	90	90	73	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2692	2692	2692	2692	1	SRMc	89	89	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2693	2693	2693	2693	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2725	2725	2725	2725	1	SRMc	87	89	0	87	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2729	2729	2729	2729	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2815	2815	2815	2815	1	SRMc	83	83	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2859	2859	2859	2859	1	SRMc	88	88	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2899	2899	2899	2899	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	2981	2981	2981	2981	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3007	3007	3007	3007	1	SRMc	33	88	33	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3012	3012	3012	3012	1	SRMc	85	0	90	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3034	3034	3034	3034	1	SRMc	79	90	79	86	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3064	3064	3064	3064	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3166	3166	3166	3166	1	SRMc	90	90	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3169	3169	3169	3169	1	SRMc	88	88	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3178	3178	3178	3178	1	SRMc	87	90	0	87	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3184	3184	3184	3184	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3269	3269	3269	3269	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3388	3388	3387	3387	1	SRMc	90	90	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3481	3481	3480	3480	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3482	3482	3481	3481	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3549	3549	3548	3548	1	SRMc	89	89	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3596	3596	3595	3595	1	SRMc	79	89	0	79	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3603	3603	3602	3602	1	SRMc	81	81	0	87	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3704	3704	3702	3702	1	WRMc	83	90	0	0	0	83	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3707	3707	3705	3705	1	SRMc	77	77	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3873	3873	3871	3871	1	SRMc	80	83	0	0	89	80	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3962	3962	3960	3960	1	SRMc	85	0	0	90	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	3970	3970	3968	3968	1	SRMc	77	0	77	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4010	4010	4008	4008	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4071	4071	4069	4069	1	SRMc	83	0	83	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4215	4215	4213	4213	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4240	4240	4237	4237	1	SRMc	29	90	0	90	29	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4256	4256	4253	4253	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4258	4258	4255	4255	1	SRMc	86	0	90	0	86	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4291	4291	4288	4288	1	SRMc	27	90	0	27	84	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4361	4361	4358	4358	1	SRMc	73	86	0	90	73	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4390	4390	4387	4387	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4415	4415	4412	4412	1	SRMc	89	89	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4416	4416	4413	4413	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4516	4516	4513	4513	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4571	4571	4568	4568	1	SRMc	85	86	0	85	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4663	4663	4660	4660	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4708	4708	4705	4705	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4796	4796	4793	4793	1	SRMc	88	89	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4876	4876	4873	4873	1	SRMc	79	79	0	87	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4934	4934	4931	4931	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4966	4966	4963	4963	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	4969	4969	4966	4966	1	SRMc	87	89	0	87	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5008	5008	5005	5005	1	SRMc	82	0	0	86	82	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5072	5072	5069	5069	1	SRMc	88	0	88	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5075	5075	5072	5072	1	SRMc	76	90	0	76	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5170	5170	5167	5167	1	SRMc	90	90	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5231	5231	5228	5228	1	SRMc	84	90	84	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5239	5239	5236	5236	1	SRMc	85	86	0	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5278	5278	5275	5275	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5302	5302	5299	5299	1	SRMc	87	0	90	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5318	5318	5315	5315	1	SRMc	84	84	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5329	5329	5326	5326	1	SRMc	81	0	81	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5336	5336	5333	5333	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5420	5420	5417	5417	1	SRMc	89	0	0	89	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5450	5450	5447	5447	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5461	5461	5458	5458	1	SRMc	84	84	88	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5504	5504	5501	5501	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5585	5585	5582	5582	1	IUPc							Strain 'der': W
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5585	5585	5582	5582	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5585	5585	5582	5582	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5679	5679	5674	5674	1	SRMc	81	0	88	0	81	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5710	5710	5705	5705	1	IUPc							Strain 'der': R
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5710	5710	5705	5705	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5710	5710	5705	5705	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5753	5753	5748	5748	1	SRMc	83	0	90	0	83	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5866	5866	5861	5861	1	SRMc	83	86	0	83	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	5966	5966	5961	5961	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6012	6012	6007	6007	1	SRMc	84	90	0	84	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6061	6061	6056	6056	1	SRMc	88	88	0	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6083	6083	6078	6078	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6097	6097	6092	6092	1	SRMc	27	90	0	90	0	27	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6232	6232	6227	6227	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6246	6246	6241	6241	1	SRMc	86	0	86	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6256	6256	6251	6251	1	SRMc	85	90	0	85	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6319	6319	6314	6314	1	SRMc	87	87	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6388	6388	6383	6383	1	SRMc	89	89	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6469	6469	6464	6464	1	SRMc	85	0	85	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6470	6470	6465	6465	1	SRMc	80	85	0	80	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6482	6482	6477	6477	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6503	6503	6498	6498	1	SRMc	88	0	0	0	90	88	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6526	6526	6521	6521	1	SRMc	80	0	89	0	80	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6568	6568	6563	6563	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6610	6610	6605	6605	1	SRMc	81	89	0	81	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6620	6620	6615	6615	1	SRMc	84	84	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6628	6628	6623	6623	1	WRMc	89	0	0	90	0	89	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6644	6644	6639	6639	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6645	6645	6640	6640	1	SRMc	89	0	89	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6671	6671	6666	6666	1	SRMc	83	86	0	83	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6673	6673	6668	6668	1	SRMc	85	0	85	0	86	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6678	6678	6673	6673	1	SRMc	84	0	84	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6680	6680	6675	6675	1	SRMc	87	0	87	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6692	6692	6687	6687	1	SRMc	79	0	79	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6696	6696	6691	6691	1	WRMc	81	81	0	0	0	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6697	6697	6692	6692	1	WRMc	77	77	0	0	0	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6698	6698	6693	6693	1	WRMc	78	78	0	0	0	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6699	6699	6694	6694	1	WRMc	77	77	0	0	0	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6700	6700	6695	6695	1	WRMc	76	0	0	76	0	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6712	6712	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6713	6713	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6714	6714	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6777	6777	6769	6769	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6779	6779	6771	6771	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6833	6833	6825	6825	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6840	6840	6832	6832	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6845	6845	6837	6837	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6946	6946	6938	6938	1	SRMc	22	90	89	0	22	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6955	6955	6947	6947	1	SRMc	39	90	0	88	39	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6967	6967	6959	6959	1	WRMc	73	0	90	0	0	73	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	6968	6968	6960	6960	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7042	7042	7034	7034	1	SRMc	39	39	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7147	7147	7139	7139	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7170	7170	7162	7162	1	SRMc	85	0	90	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7291	7291	7283	7283	1	SRMc	84	90	0	84	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7316	7316	7308	7308	1	SRMc	90	0	0	90	0	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7395	7395	7387	7387	1	SRMc	87	0	87	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7456	7456	7448	7448	1	SRMc	85	90	0	85	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7465	7465	7457	7457	1	SRMc	74	90	0	74	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7519	7519	7511	7511	1	SRMc	25	89	83	0	0	25	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7552	7552	7544	7544	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7555	7555	7547	7547	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7567	7567	7559	7559	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7631	7631	7622	7622	1	SRMc	88	88	89	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7718	7718	7709	7709	1	SRMc	83	83	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7736	7736	7727	7727	1	SRMc	87	87	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7751	7751	7742	7742	1	SRMc	87	87	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7796	7796	7787	7787	1	SRMc	85	0	85	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7850	7850	7841	7841	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7862	7862	7853	7853	1	SRMc	83	0	90	83	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7880	7880	7871	7871	1	SRMc	82	0	82	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7910	7910	7901	7901	1	SRMc	90	0	0	90	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7922	7922	7913	7913	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	7971	7971	7962	7962	1	SRMc	87	0	90	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8036	8036	8027	8027	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8117	8117	8108	8108	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8129	8129	8120	8120	1	SRMc	81	81	0	82	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8255	8255	8246	8246	1	SRMc	26	26	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8441	8441	8432	8432	1	SRMc	78	90	0	78	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8472	8472	8463	8463	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8495	8495	8486	8486	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8607	8607	8597	8597	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8614	8614	8604	8604	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8625	8625	8615	8615	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8628	8628	8618	8618	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8730	8730	8720	8720	1	SRMc	36	0	90	0	81	36	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8743	8743	8733	8733	1	SRMc	88	89	88	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8760	8760	8750	8750	1	SRMc	88	0	88	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8772	8772	8762	8762	1	SRMc	79	0	90	0	79	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8838	8838	8828	8828	1	SRMc	34	0	90	0	86	34	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8895	8895	8885	8885	1	SRMc	84	0	87	0	84	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8935	8935	8925	8925	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	8998	8998	8988	8988	1	SRMc	87	90	0	87	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9020	9020	9010	9010	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9023	9023	9013	9013	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9037	9037	9027	9027	1	SRMc	88	0	88	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9072	9072	9060	9060	1	SRMc	86	86	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9087	9087	9075	9075	1	SRMc	84	0	0	90	84	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9199	9199	9187	9187	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9206	9206	9194	9194	1	SRMc	89	90	89	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9267	9267	9255	9255	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9306	9306	9294	9294	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9334	9334	9322	9322	1	SRMc	87	0	0	90	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9357	9357	9345	9345	1	SRMc	83	90	0	83	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9366	9366	9354	9354	1	SRMc	89	89	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9468	9468	9456	9456	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9473	9473	9461	9461	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9574	9574	9562	9562	1	SRMc	35	35	90	0	75	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9758	9758	9746	9746	1	SRMc	88	0	88	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9764	9764	9752	9752	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9812	9812	9800	9800	1	SRMc	86	0	86	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9856	9856	9844	9844	1	SRMc	90	90	0	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9960	9960	9948	9948	1	SRMc	86	90	0	0	86	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9961	9961	-1	-1	1	WRMc	86	0	0	0	86	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	9976	9976	9963	9963	1	SRMc	84	0	90	0	84	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10147	10147	10134	10134	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10170	10170	10157	10157	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10254	10254	10241	10241	1	SRMc	86	0	86	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10282	10282	10269	10269	1	SRMc	88	89	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10291	10291	10278	10278	1	SRMc	88	88	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10307	10307	10294	10294	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10355	10355	10342	10342	1	SRMc	84	84	0	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10357	10357	10344	10344	1	SRMc	84	84	85	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10358	10358	10345	10345	1	SRMc	85	0	87	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10360	10360	10347	10347	1	SRMc	84	89	0	84	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10402	10402	10389	10389	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10552	10552	10539	10539	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10558	10558	10545	10545	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10578	10578	10565	10565	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10579	10579	10566	10566	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10593	10593	10580	10580	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10602	10602	10589	10589	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10606	10606	10593	10593	1	IUPc							Strain 'der': R
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10606	10606	10593	10593	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10606	10606	10593	10593	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10613	10613	10600	10600	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10651	10651	10638	10638	1	ESDN							
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10753	10753	10740	10740	1	SRMc	76	0	89	0	76	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10795	10795	10782	10782	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10846	10846	10833	10833	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10869	10869	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	10951	10951	10937	10937	1	SRMc	81	81	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11053	11053	11039	11039	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11149	11149	11135	11135	1	SRMc	32	0	90	0	74	32	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11155	11155	11141	11141	1	SRMc	79	0	90	0	79	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11194	11194	11180	11180	1	SRMc	87	0	87	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11200	11200	11186	11186	1	SRMc	86	90	86	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11230	11230	11216	11216	1	SRMc	88	0	88	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11248	11248	11234	11234	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11278	11278	11264	11264	1	SRMc	78	88	0	0	78	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11325	11325	11311	11311	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11346	11346	11331	11331	1	SRMc	41	41	90	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11380	11380	11365	11365	1	SRMc	86	86	0	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11401	11401	11386	11386	1	SRMc	88	0	0	90	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11496	11496	11481	11481	1	SRMc	85	0	90	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11536	11536	11521	11521	1	SRMc	83	0	0	90	83	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11654	11654	11639	11639	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11768	11768	11753	11753	1	SRMc	62	90	0	78	0	62	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11772	11772	11757	11757	1	SRMc	88	88	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11792	11792	11777	11777	1	SRMc	85	0	85	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11852	11852	11837	11837	1	IUPc							Strain 'der': R
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11852	11852	11837	11837	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11852	11852	11837	11837	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	11909	11909	11894	11894	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12113	12113	12095	12095	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12120	12120	12102	12102	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12121	12121	12103	12103	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12123	12123	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12144	12144	12125	12125	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12149	12149	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12151	12151	12131	12131	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12155	12155	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12157	12157	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12203	12203	-1	-1	1	WRMc	83	83	0	0	0	83	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12306	12306	12283	12283	1	SRMc	85	90	0	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12381	12381	12358	12358	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12382	12382	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12496	12496	12472	12472	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12503	12503	12479	12479	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12604	12604	12579	12579	1	SRMc	83	83	0	0	0	89	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12607	12607	12582	12582	1	IUPc							Strain 'der': R
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12607	12607	12582	12582	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12607	12607	12582	12582	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12621	12621	12596	12596	1	IUPc							Strain 'der': Y
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12621	12621	12596	12596	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12621	12621	12596	12596	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12622	12622	12597	12597	1	IUPc							Strain 'der': R
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12622	12622	12597	12597	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12622	12622	12597	12597	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12624	12624	12599	12599	1	SRMc	71	71	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12741	12741	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12746	12746	12720	12720	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12756	12756	12730	12730	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12761	12761	12735	12735	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12763	12763	-1	-1	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12794	12794	12767	12767	1	SRMc	45	0	81	45	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12795	12795	12768	12768	1	SRMc	45	45	0	79	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12865	12865	12836	12836	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12873	12873	12844	12844	1	SRMc	89	0	89	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12913	12913	12884	12884	1	SRMc	88	88	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12974	12974	12945	12945	1	SRMc	81	0	81	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	12991	12991	12962	12962	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13000	13000	12971	12971	1	SRMc	86	0	86	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13018	13018	12989	12989	1	SRMc	82	82	0	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13101	13101	13072	13072	1	SRMc	90	0	0	0	90	90	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13114	13114	13085	13085	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13167	13167	13138	13138	1	SRMc	75	75	90	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13359	13359	13330	13330	1	SRMc	89	90	0	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13365	13365	13336	13336	1	SRMc	86	0	0	90	86	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13383	13383	13354	13354	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13398	13398	13369	13369	1	SRMc	83	83	0	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13409	13409	13379	13379	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13413	13413	13383	13383	1	SRMc	85	0	0	90	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13497	13497	13460	13460	1	SRMc	89	90	0	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13532	13532	13495	13495	1	SRMc	83	0	83	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13550	13550	13513	13513	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13554	13554	13517	13517	1	SRMc	89	90	0	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13581	13581	13544	13544	1	SRMc	90	0	90	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13613	13613	13576	13576	1	SRMc	85	0	90	0	85	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13617	13617	13580	13580	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13656	13656	13619	13619	1	SRMc	89	0	0	90	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13661	13661	13624	13624	1	SRMc	89	0	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13699	13699	13662	13662	1	SRMc	83	0	83	89	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13748	13748	13711	13711	1	WRMc	72	0	87	0	0	72	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13760	13760	13723	13723	1	SRMc	81	0	86	81	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13898	13898	13861	13861	1	SRMc	87	0	0	87	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13900	13900	13863	13863	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13905	13905	13868	13868	1	SRMc	87	0	90	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13930	13930	13893	13893	1	SRMc	88	0	90	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	13950	13950	13913	13913	1	SRMc	88	0	88	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14073	14073	14036	14036	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14162	14162	14125	14125	1	IUPc							Strain 'der': M
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14162	14162	14125	14125	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14162	14162	14125	14125	1	UNSc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14258	14258	14221	14221	1	SRMc	83	0	83	0	83	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14300	14300	14263	14263	1	SROc							high
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14325	14325	14288	14288	1	SRMc	89	0	89	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14380	14380	14343	14343	1	SRMc	83	0	83	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14382	14382	14345	14345	1	SRMc	87	87	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14460	14460	14423	14423	1	SRMc	87	0	88	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14486	14486	14449	14449	1	SRMc	88	0	88	0	88	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14498	14498	14461	14461	1	SRMc	83	83	0	87	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14521	14521	14484	14484	1	SRMc	85	0	85	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14609	14609	14572	14572	1	SRMc	80	0	90	0	80	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14647	14647	14610	14610	1	SRMc	25	25	90	0	82	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14658	14658	14621	14621	1	SRMc	88	90	0	88	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14665	14665	14628	14628	1	SRMc	81	90	0	0	81	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14675	14675	14638	14638	1	SRMc	38	38	90	0	89	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14713	14713	14676	14676	1	SRMc	81	81	90	0	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14771	14771	14734	14734	1	SRMc	85	90	0	85	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14812	14812	14775	14775	1	SRMc	90	0	90	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14835	14835	14798	14798	1	SRMc	89	89	0	0	90	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14836	14836	14799	14799	1	SRMc	87	0	90	0	87	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14843	14843	14806	14806	1	SRMc	90	90	0	90	0	0	
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14892	14920	14855	14883	29	MCVc							

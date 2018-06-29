@@ -1,0 +1,18 @@
+total 96M
+-rwxr-xr-x 1 15K Nov  3  2016 let-Gyrodactylus_salaris_out_let.padded.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 let-Gyrodactylus_salaris_out_Gyrodactylus_salaris.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 let-Gyrodactylus_salaris_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 let-Gyrodactylus_salaris_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 66M Nov  3  2016 let-Gyrodactylus_salaris_out.caf
+-rwxr-xr-x 1 15K Nov  3  2016 let-Gyrodactylus_salaris_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 102 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1 45K Nov  3  2016 let-Gyrodactylus_salaris_out_Gyrodactylus_salaris.unpadded.fasta.qual
+-rwxr-xr-x 1 30M Nov  3  2016 let-Gyrodactylus_salaris_out.maf
+-rwxr-xr-x 1 15K Nov  3  2016 let-Gyrodactylus_salaris_out.wig
+-rwxr-xr-x 1 184 Nov  3  2016 let-Gyrodactylus_salaris_out.tcs
+-rwxr-xr-x 1 45K Nov  3  2016 let-Gyrodactylus_salaris_out_let.unpadded.fasta.qual
+-rwxr-xr-x 1 15K Nov  3  2016 let-Gyrodactylus_salaris_out_let.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 let-Gyrodactylus_salaris_out_let.padded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 let-Gyrodactylus_salaris_out_Gyrodactylus_salaris.padded.fasta.qual
+-rwxr-xr-x 1 15K Nov  3  2016 let-Gyrodactylus_salaris_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 let-Gyrodactylus_salaris_out_Gyrodactylus_salaris.padded.fasta

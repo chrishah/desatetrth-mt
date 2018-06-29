@@ -1,0 +1,9 @@
+total 48K
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration32
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration33
+-rwxr-xr-x 1 1013 Nov  3  2016 tru1.14810.for-testing.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 tru1.circular.14810.fasta
+-rwxr-xr-x 1    0 Nov  3  2016 log.138459.err
+-rwxr-xr-x 1  741 Nov  3  2016 HOWTO
+-rwxr-xr-x 1  12K Nov  3  2016 log.138459.out
+-rwxr-xr-x 1  733 Nov  3  2016 MITObim.salaris.seed.slurm.sh

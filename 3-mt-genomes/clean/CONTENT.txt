@@ -1,0 +1,8 @@
+total 28K
+drwxr-xr-x 3 4.0K Oct 29  2016 Palsbu
+drwxr-xr-x 3 4.0K Oct 29  2016 Rauma
+drwxr-xr-x 3 4.0K Oct 29  2016 sal
+drwxr-xr-x 3 4.0K Oct 29  2016 thy2
+drwxr-xr-x 4 4.0K Oct 29  2016 teu2
+drwxr-xr-x 4 4.0K Oct 29  2016 teu4
+drwxr-xr-x 6 4.0K Nov  1  2016 tru1

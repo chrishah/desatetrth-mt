@@ -1,0 +1,7 @@
+total 4.4M
+-rwxr-xr-x 1 3.9M Nov  4  2016 tru2-readpool-it5.fastq
+-rwxr-xr-x 1  15K Nov  4  2016 temp_baitfile.fasta
+-rwxr-xr-x 1  422 Nov  4  2016 manifest.conf
+-rwxr-xr-x 1 438K Nov  4  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  4  2016 backbone_it5_initial_Gyrodactylus_teuchis.fna
+drwxr-xr-x 6 4.0K Nov  4  2016 tru2-Gyrodactylus_teuchis_assembly

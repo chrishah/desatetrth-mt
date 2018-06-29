@@ -1,0 +1,19 @@
+total 322M
+-rwxr-xr-x 1  16K Nov  4  2016 teu1-Gyrodactylus_truttae_out.wig
+-rwxr-xr-x 1  45K Nov  4  2016 teu1-Gyrodactylus_truttae_out_teu1.unpadded.fasta.qual
+-rwxr-xr-x 1  15K Nov  4  2016 teu1-Gyrodactylus_truttae_out_teu1.unpadded.fasta
+-rwxr-xr-x 1  45K Nov  4  2016 teu1-Gyrodactylus_truttae_out_teu1.padded.fasta.qual
+-rwxr-xr-x 1  15K Nov  4  2016 teu1-Gyrodactylus_truttae_out_teu1.padded.fasta
+-rwxr-xr-x 1  184 Nov  4  2016 teu1-Gyrodactylus_truttae_out.tcs
+-rwxr-xr-x 1  45K Nov  4  2016 teu1-Gyrodactylus_truttae_out_Gyrodactylus_truttae.unpadded.fasta.qual
+-rwxr-xr-x 1  15K Nov  4  2016 teu1-Gyrodactylus_truttae_out_Gyrodactylus_truttae.unpadded.fasta
+-rwxr-xr-x 1  45K Nov  4  2016 teu1-Gyrodactylus_truttae_out_Gyrodactylus_truttae.padded.fasta.qual
+-rwxr-xr-x 1  15K Nov  4  2016 teu1-Gyrodactylus_truttae_out_Gyrodactylus_truttae.padded.fasta
+-rwxr-xr-x 1  45K Nov  4  2016 teu1-Gyrodactylus_truttae_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1  15K Nov  4  2016 teu1-Gyrodactylus_truttae_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1  45K Nov  4  2016 teu1-Gyrodactylus_truttae_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1  15K Nov  4  2016 teu1-Gyrodactylus_truttae_out_AllStrains.padded.fasta
+-rwxr-xr-x 1  105 Nov  4  2016 _tmprecreate
+-rwxr-xr-x 1  61M Nov  4  2016 teu1-Gyrodactylus_truttae_out.maf
+-rwxr-xr-x 1 137M Nov  4  2016 teu1-Gyrodactylus_truttae_out.caf
+-rw-rw-r-- 1 124M Jun  7 22:57 teu1-Gyrodactylus_truttae_out.ace

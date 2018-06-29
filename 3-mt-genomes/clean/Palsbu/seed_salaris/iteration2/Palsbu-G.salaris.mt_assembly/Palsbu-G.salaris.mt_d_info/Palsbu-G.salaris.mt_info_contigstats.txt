@@ -1,0 +1,2 @@
+# name              	length	av.qual	#-reads	mx.cov.	av.cov	GC%	CnIUPAC	CnFunny	CnN	CnX	CnGap	CnNoCov
+NC_008815.1|Gyrodactylus_salaris_bb_bb_bb	15113	88	31206	477	345.52	37.22	0	0	0	0	101	0

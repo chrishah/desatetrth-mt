@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Nov  4  2016 der-Gyrodactylus_salaris_d_tmp
+drwxr-xr-x 2 4.0K Nov  4  2016 der-Gyrodactylus_salaris_d_info
+drwxr-xr-x 2 4.0K Nov  4  2016 der-Gyrodactylus_salaris_d_chkpt
+drwxr-xr-x 2 4.0K Nov  4  2016 der-Gyrodactylus_salaris_d_results

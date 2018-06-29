@@ -1,0 +1,20 @@
+MITObim was run via the slurm submission script 'MITObim.salaris.seed.slurm.sh'.
+
+The final result from MITObim is checked for circularity using the script 'circules.py' that comes with MITObim.
+
+```bash
+~/src/MITObim/MITObim/misc_scripts/circules.py -f iteration18/temp_baitfile.fasta -k 31
+```
+
+Found several candidate. Refine and extract.
+
+```bash
+~/src/MITObim/MITObim/misc_scripts/circules.py -f iteration18/temp_baitfile.fasta -k 91 -e 15000 -t 0.02 -p teu4
+
+```
+
+Rename sequence in final result.
+
+```bash
+cat teu4.circular.14792.fasta | perl -ne 'chomp; if ($_ =~ />/){@a=split("_"); $out=">teu4|Gyrodactylus_teuchis_$a[-2]_$a[-1]"; print "$out\n"}else{print "$_\n"}' > teu4.circular.14792.renamed.fasta
+```

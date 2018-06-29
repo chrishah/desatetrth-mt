@@ -1,0 +1,3 @@
+total 8.0K
+drwxr-xr-x 4 4.0K Nov  4  2016 Gyrodactylus_derjavinoides
+drwxr-xr-x 4 4.0K Nov  4  2016 Gyrodactylus_salaris

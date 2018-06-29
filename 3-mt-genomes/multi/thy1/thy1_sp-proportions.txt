@@ -1,0 +1,5 @@
+	thy1
+derjavinoides	0.015
+salaris	0.983
+teuchis	0.002
+truttae	0.000

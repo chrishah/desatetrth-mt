@@ -1,0 +1,6 @@
+total 32K
+-rwxr-xr-x 1  802 Nov  4  2016 MITObim.slurm.sh
+-rwxr-xr-x 1    0 Nov  4  2016 log.140108.err
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration49
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration50
+-rwxr-xr-x 1  18K Nov  4  2016 log.140108.out

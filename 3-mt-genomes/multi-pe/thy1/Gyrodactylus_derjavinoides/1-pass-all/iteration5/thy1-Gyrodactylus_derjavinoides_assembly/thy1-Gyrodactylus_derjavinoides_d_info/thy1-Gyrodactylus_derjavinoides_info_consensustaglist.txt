@@ -1,0 +1,287 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	92	92	92	92	1	SRMc	85	0	88	0	85	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	111	111	111	111	1	SRMc	84	0	87	84	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	472	472	472	472	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	472	472	472	472	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	472	472	472	472	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	496	496	496	496	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	505	505	505	505	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	506	506	506	506	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	511	511	511	511	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	515	515	515	515	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	521	521	521	521	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	523	523	523	523	1	SRMc	84	87	0	84	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	527	527	527	527	1	SRMc	85	85	0	88	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	529	529	529	529	1	SRMc	86	0	0	87	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	532	532	532	532	1	SRMc	89	0	89	89	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	539	539	539	539	1	SRMc	89	89	89	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	550	550	550	550	1	SRMc	90	90	0	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	554	554	554	554	1	SRMc	90	90	90	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	574	574	574	574	1	SRMc	88	90	88	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	617	617	617	617	1	SRMc	86	0	90	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	628	628	628	628	1	SRMc	80	0	90	0	90	80	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	631	631	631	631	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	650	650	650	650	1	WRMc	85	0	0	0	90	85	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	651	651	651	651	1	WRMc	85	0	0	0	90	85	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	652	652	652	652	1	WRMc	85	90	0	0	0	85	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	653	653	653	653	1	WRMc	85	90	0	0	0	85	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	654	654	654	654	1	WRMc	85	0	0	90	0	85	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	683	683	683	683	1	SRMc	87	87	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	712	712	712	712	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	726	726	726	726	1	SRMc	85	0	90	0	85	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	727	727	727	727	1	SRMc	85	85	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	796	796	795	795	1	SRMc	84	86	0	0	84	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	802	802	801	801	1	SRMc	82	89	0	0	82	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	808	808	807	807	1	SRMc	83	0	88	0	83	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	839	839	838	838	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	839	839	838	838	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	839	839	838	838	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	991	991	990	990	1	SRMc	82	0	82	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1401	1401	1400	1400	1	SRMc	83	83	0	86	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1489	1489	1488	1488	1	IUPc							Strain 'thy1': R
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1489	1489	1488	1488	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1489	1489	1488	1488	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1558	1558	1557	1557	1	IUPc							Strain 'thy1': W
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1558	1558	1557	1557	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1558	1558	1557	1557	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1802	1802	1801	1801	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1837	1837	1836	1836	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	1853	1853	1852	1852	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	2275	2275	2274	2274	1	IUPc							Strain 'thy1': K
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	2275	2275	2274	2274	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	2275	2275	2274	2274	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	2507	2507	2506	2506	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	2916	2916	2915	2915	1	SRMc	83	0	83	0	85	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3328	3328	3327	3327	1	IUPc							Strain 'thy1': W
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3328	3328	3327	3327	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3328	3328	3327	3327	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3494	3494	3493	3493	1	SRMc	86	86	0	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3520	3520	3519	3519	1	SRMc	83	0	89	0	83	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3626	3626	-1	-1	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3629	3629	3627	3627	1	SRMc	25	88	25	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3643	3643	3641	3641	1	SRMc	86	0	90	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3644	3644	3642	3642	1	SRMc	47	90	47	87	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3646	3646	3644	3644	1	SRMc	87	89	0	87	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3786	3786	-1	-1	1	SRMc	90	90	0	0	0	90	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3787	3787	3783	3783	1	SRMc	86	90	0	0	0	86	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3797	3797	3793	3793	1	SRMc	88	90	0	0	90	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3851	3851	3847	3847	1	SRMc	89	89	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3855	3855	3851	3851	1	SRMc	84	0	0	89	84	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3857	3857	-1	-1	1	WRMc	87	0	0	87	0	87	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3858	3858	3853	3853	1	SRMc	34	0	87	88	34	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3869	3869	3864	3864	1	WRMc	84	0	0	0	84	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3871	3871	3866	3866	1	SRMc	84	89	0	0	84	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3876	3876	-1	-1	1	SRMc	83	89	0	0	0	83	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3908	3908	3902	3902	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3908	3908	3902	3902	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3908	3908	3902	3902	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3914	3914	3908	3908	1	IUPc							Strain 'thy1': K
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3914	3914	3908	3908	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3914	3914	3908	3908	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3935	3935	3929	3929	1	IUPc							Strain 'thy1': K
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3935	3935	3929	3929	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	3935	3935	3929	3929	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4274	4274	4268	4268	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4592	4592	4586	4586	1	SRMc	81	0	81	0	89	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4608	4608	4602	4602	1	SRMc	86	0	89	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4695	4695	4689	4689	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4801	4801	4795	4795	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4801	4801	4795	4795	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4801	4801	4795	4795	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	4805	4805	4799	4799	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5387	5387	5381	5381	1	SRMc	87	87	0	88	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5450	5450	5444	5444	1	IUPc							Strain 'thy1': M
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5450	5450	5444	5444	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5450	5450	5444	5444	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5479	5479	5472	5472	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5541	5541	5534	5534	1	SRMc	89	0	0	90	89	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5575	5575	5568	5568	1	SRMc	84	90	0	84	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5585	5585	5578	5578	1	SRMc	87	0	90	0	87	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5648	5648	5641	5641	1	SRMc	88	89	0	88	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5649	5649	5642	5642	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5653	5653	5646	5646	1	SRMc	82	0	90	0	82	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5671	5671	5664	5664	1	SRMc	86	90	86	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5680	5680	5673	5673	1	SRMc	87	0	90	0	87	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5685	5685	5678	5678	1	SRMc	73	90	0	73	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5697	5697	5690	5690	1	SRMc	86	90	0	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5830	5830	5823	5823	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5832	5832	5825	5825	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5836	5836	5829	5829	1	IUPc							Strain 'thy1': K
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5836	5836	5829	5829	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5836	5836	5829	5829	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5838	5838	5831	5831	1	IUPc							Strain 'thy1': W
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5838	5838	5831	5831	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	5838	5838	5831	5831	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6068	6068	6061	6061	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6172	6172	6165	6165	1	SRMc	84	89	0	0	84	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6377	6377	6370	6370	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6534	6534	-1	-1	1	WRMc	79	0	0	0	79	89	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6536	6536	6528	6528	1	SRMc	82	90	0	82	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6548	6548	6540	6540	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6549	6549	6541	6541	1	SRMc	90	0	0	90	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6550	6550	6542	6542	1	SRMc	89	0	89	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6552	6552	6544	6544	1	SRMc	90	90	0	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6554	6554	6546	6546	1	SRMc	89	90	0	0	89	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6556	6556	6548	6548	1	SRMc	90	0	0	90	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6559	6559	6551	6551	1	SRMc	89	90	0	89	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6572	6572	6564	6564	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6578	6578	6570	6570	1	SRMc	88	0	90	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6624	6624	-1	-1	1	SRMc	90	90	0	0	0	90	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6683	6683	6674	6674	1	SRMc	90	90	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6706	6706	6697	6697	1	WRMc	77	0	90	0	0	77	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6707	6707	6698	6698	1	SRMc	76	90	0	0	76	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6738	6738	6729	6729	1	SRMc	88	90	0	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6829	6829	-1	-1	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6834	6834	6824	6824	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6889	6889	6879	6879	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6889	6889	6879	6879	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6889	6889	6879	6879	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	6895	6895	6885	6885	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7109	7109	7099	7099	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7109	7109	7099	7099	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7109	7109	7099	7099	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7298	7298	7286	7286	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7702	7702	7689	7689	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7892	7892	7879	7879	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7892	7892	7879	7879	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7892	7892	7879	7879	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	7966	7966	7953	7953	1	SRMc	86	86	87	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	8149	8149	8136	8136	1	SRMc	87	88	87	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	8323	8323	8310	8310	1	SRMc	84	88	0	84	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	8446	8446	8433	8433	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	8801	8801	8788	8788	1	SRMc	84	0	84	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9284	9284	9270	9270	1	SRMc	81	0	90	81	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9286	9286	9272	9272	1	SRMc	30	30	0	90	0	77	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9287	9287	9273	9273	1	SRMc	77	89	0	0	77	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9294	9294	9280	9280	1	SRMc	84	89	0	84	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9312	9312	9298	9298	1	SRMc	88	90	88	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9319	9319	9305	9305	1	SRMc	86	88	0	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9324	9324	9310	9310	1	SRMc	90	90	0	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9343	9343	9329	9329	1	SRMc	86	86	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9370	9370	9356	9356	1	SRMc	24	40	90	24	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9514	9514	9498	9498	1	SRMc	86	90	0	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9518	9518	9502	9502	1	SRMc	89	0	89	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9519	9519	9503	9503	1	SRMc	85	0	0	85	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9522	9522	9506	9506	1	SRMc	85	85	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9523	9523	9507	9507	1	SRMc	78	0	0	78	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9618	9618	9601	9601	1	SRMc	35	35	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9689	9689	9672	9672	1	SRMc	85	0	85	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9695	9695	9678	9678	1	SRMc	86	0	86	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9743	9743	9726	9726	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9762	9762	9745	9745	1	SRMc	78	0	87	90	78	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9892	9892	-1	-1	1	SRMc	90	0	0	0	90	90	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9901	9901	9883	9883	1	SRMc	86	0	86	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9907	9907	9889	9889	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	9944	9944	9926	9926	1	SRMc	90	90	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10075	10075	10057	10057	1	WRMc	77	90	0	0	0	77	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10078	10078	10060	10060	1	SRMc	85	90	0	85	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10085	10085	10067	10067	1	SRMc	88	0	90	88	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10093	10093	10075	10075	1	SRMc	40	0	90	40	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10101	10101	10083	10083	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10228	10228	10210	10210	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10250	10250	10232	10232	1	SRMc	87	87	90	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10289	10289	10271	10271	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10329	10329	10311	10311	1	SRMc	84	0	90	0	84	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10427	10427	10409	10409	1	SRMc	90	0	90	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10447	10447	10429	10429	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10509	10509	10491	10491	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10523	10523	10505	10505	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10533	10533	10515	10515	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10559	10559	10541	10541	1	SRMc	38	38	90	0	84	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10678	10678	10660	10660	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10738	10738	10720	10720	1	SRMc	90	90	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10746	10746	10728	10728	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10746	10746	10728	10728	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10746	10746	10728	10728	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10752	10752	10734	10734	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10802	10802	10784	10784	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10809	10809	-1	-1	1	WRMc	88	88	0	0	0	89	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10814	10814	10795	10795	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10815	10815	10796	10796	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10885	10885	10866	10866	1	SRMc	85	0	85	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10903	10903	10884	10884	1	SRMc	87	87	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10977	10977	10958	10958	1	SRMc	83	0	88	0	83	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	10996	10996	10977	10977	1	SRMc	86	0	90	0	86	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11056	11056	11037	11037	1	SRMc	86	90	86	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11080	11080	11061	11061	1	SRMc	79	0	90	0	79	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11086	11086	11067	11067	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11125	11125	11106	11106	1	SRMc	83	0	86	90	83	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11179	11179	11160	11160	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11236	11236	11217	11217	1	SRMc	87	0	87	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11269	11269	11249	11249	1	SRMc	90	90	0	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11470	11470	11448	11448	1	SRMc	90	90	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11477	11477	-1	-1	1	SRMc	35	35	0	0	75	90	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11499	11499	11472	11472	1	SRMc	31	31	90	0	85	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11593	11593	11565	11565	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11606	11606	11578	11578	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11632	11632	11604	11604	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11659	11659	11631	11631	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11695	11695	11667	11667	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11698	11698	11670	11670	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11806	11806	11778	11778	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11811	11811	-1	-1	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11906	11906	11877	11877	1	SRMc	87	0	87	0	89	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11927	11927	11898	11898	1	SRMc	89	89	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11981	11981	11952	11952	1	SRMc	82	90	0	0	82	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	11985	11985	11956	11956	1	SRMc	88	0	0	90	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12022	12022	11993	11993	1	SRMc	82	82	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12043	12043	12014	12014	1	SRMc	40	90	0	40	0	89	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12051	12051	12021	12021	1	SRMc	88	0	0	90	0	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12058	12058	12028	12028	1	SRMc	73	83	0	86	73	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12141	12141	-1	-1	1	WRMc	89	89	0	0	0	90	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12142	12142	12107	12107	1	SRMc	89	90	0	0	0	89	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12144	12144	12108	12108	1	SRMc	43	90	0	83	0	43	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12161	12161	12125	12125	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12233	12233	12196	12196	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12265	12265	12228	12228	1	SRMc	88	0	90	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12287	12287	12250	12250	1	SRMc	25	0	85	25	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12321	12321	12284	12284	1	SRMc	90	0	90	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12443	12443	12406	12406	1	SRMc	40	90	0	90	40	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12471	12471	12434	12434	1	SRMc	90	0	0	90	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12510	12510	12473	12473	1	SRMc	84	0	0	84	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12513	12513	12476	12476	1	SRMc	88	0	90	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12514	12514	12477	12477	1	SRMc	88	90	0	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12543	12543	-1	-1	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12546	12546	12508	12508	1	SRMc	83	83	0	90	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12667	12667	12629	12629	1	SRMc	84	90	84	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12809	12809	12769	12769	1	SRMc	90	0	90	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12819	12819	12779	12779	1	SRMc	86	0	0	0	90	86	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12820	12820	12780	12780	1	SRMc	68	90	0	0	90	68	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12821	12821	-1	-1	1	WRMc	88	88	0	0	0	90	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12822	12822	12781	12781	1	SRMc	87	90	0	0	89	87	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12846	12846	12805	12805	1	SRMc	23	85	90	28	23	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12881	12881	12840	12840	1	SRMc	72	72	90	0	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12915	12915	12874	12874	1	SRMc	90	90	0	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12917	12917	12876	12876	1	SRMc	88	0	0	0	90	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12918	12918	12877	12877	1	SRMc	27	90	0	0	27	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12919	12919	12878	12878	1	SRMc	31	90	0	0	31	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12920	12920	12879	12879	1	SRMc	30	0	90	30	0	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12921	12921	12880	12880	1	SRMc	88	0	0	0	90	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12922	12922	12881	12881	1	SRMc	88	0	0	90	0	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12937	12937	12896	12896	1	SRMc	86	0	86	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12955	12955	12914	12914	1	SRMc	85	85	0	0	90	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	12981	12981	12940	12940	1	SRMc	71	0	0	90	71	75	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13050	13050	13009	13009	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13052	13052	13011	13011	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13166	13166	13125	13125	1	SRMc	74	86	0	74	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13168	13168	13127	13127	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13190	13190	13149	13149	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13193	13193	13152	13152	1	SROc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13472	13472	13431	13431	1	SRMc	87	88	0	87	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13727	13727	13686	13686	1	SRMc	75	75	0	89	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13919	13919	13878	13878	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13919	13919	13878	13878	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	13919	13919	13878	13878	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14096	14096	14055	14055	1	SRMc	88	0	89	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14109	14109	14068	14068	1	SRMc	86	0	86	0	88	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14303	14303	14262	14262	1	SRMc	85	86	0	85	0	0	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14501	14501	14460	14460	1	IUPc							Strain 'thy1': R
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14501	14501	14460	14460	1	STMS							Solved vote:  / txt (4) G 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14501	14501	14460	14460	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14543	14543	14502	14502	1	IUPc							Strain 'thy1': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14543	14543	14502	14502	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14543	14543	14502	14502	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb	14668	14668	14627	14627	1	ESDN							

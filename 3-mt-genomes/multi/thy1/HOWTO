@@ -1,0 +1,26 @@
+Extract the relevant information from the results table of the selective COI mapping.
+
+```bash
+cat ../../../2-selective-COI-mapping/table.tsv | cut -f 1,10 > teu3_sp-proportions.txt
+```
+
+Prepare reference to be used for this sample.
+
+```bash
+mkdir seed_der-teu-sal
+cat ../../references/G.* ../../clean/teu2/seed_salaris/teu2.circular.14789.renamed.fasta > seed_der-teu-sal/G.der-teu-sal.mt.fasta
+```
+
+Run MITObim using both mitogenomes as reference at the same time and allowing for only 2 mismatches per read.
+
+
+
+###
+Rerun with paired end data.
+
+```bash
+mkdir seed_der-teu-sal_pe
+cat ../../references/G.* ../../clean/teu2/seed_salaris/teu2.circular.14789.renamed.fasta > seed_der-teu-sal_pe/G.der-teu-sal.mt.fasta
+cd seed_der-teu-sal_pe
+```
+

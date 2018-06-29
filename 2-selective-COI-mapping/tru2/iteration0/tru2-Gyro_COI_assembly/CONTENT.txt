@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Oct 28  2016 tru2-Gyro_COI_d_tmp
+drwxr-xr-x 2 4.0K Oct 28  2016 tru2-Gyro_COI_d_info
+drwxr-xr-x 2 4.0K Oct 28  2016 tru2-Gyro_COI_d_chkpt
+drwxr-xr-x 2 4.0K Oct 28  2016 tru2-Gyro_COI_d_results

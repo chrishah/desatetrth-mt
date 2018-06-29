@@ -1,0 +1,7 @@
+total 30M
+-rwxr-xr-x 1  15K Nov  4  2016 temp_baitfile.fasta
+-rwxr-xr-x 1 428K Nov  4  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  4  2016 backbone_it43_initial_Gyrodactylus_derjavinoides.fna
+-rwxr-xr-x 1  29M Nov  4  2016 teu3-readpool-it43.fastq
+-rwxr-xr-x 1  443 Nov  4  2016 manifest.conf
+drwxr-xr-x 6 4.0K Nov  4  2016 teu3-Gyrodactylus_derjavinoides_assembly

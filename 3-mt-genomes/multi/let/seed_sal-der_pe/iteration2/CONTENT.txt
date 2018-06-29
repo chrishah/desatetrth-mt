@@ -1,0 +1,7 @@
+total 24M
+drwxr-xr-x 6 4.0K Nov  1  2016 let-G.sal.der.mt_assembly
+-rwxr-xr-x 1  23M Nov  3  2016 let-readpool-it2.fastq
+-rwxr-xr-x 1  395 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  30K Nov  3  2016 temp_baitfile.fasta
+-rwxr-xr-x 1  30K Nov  3  2016 backbone_it2_initial_G.sal.der.mt.fna
+-rwxr-xr-x 1 879K Nov  3  2016 hashstat.bin

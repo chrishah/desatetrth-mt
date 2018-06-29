@@ -1,0 +1,2 @@
+# name              	length	av.qual	#-reads	mx.cov.	av.cov	GC%	CnIUPAC	CnFunny	CnN	CnX	CnGap	CnNoCov
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb	14921	89	53121	588	340.93	32.92	0	0	0	0	19	0

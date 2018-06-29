@@ -1,0 +1,7 @@
+total 648K
+drwxr-xr-x 6 4.0K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_assembly
+-rwxr-xr-x 1 386K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  3  2016 backbone_it1_initial_Gyrodactylus_truttae_ciruclar_14823.fna
+-rwxr-xr-x 1 217K Nov  3  2016 teu1-readpool-it1.fastq
+-rwxr-xr-x 1  467 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  15K Nov  3  2016 temp_baitfile.fasta

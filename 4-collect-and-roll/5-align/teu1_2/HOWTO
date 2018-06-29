@@ -1,0 +1,5 @@
+cat ../Gyro\ Mito\ alignment.fas | grep "teuchis 1" -A 1 | sed 's/-//g' > teu1.curated.fasta
+makeblastdb -in teu1.curated.fasta -dbtype nucl -out teu1_curated
+blastn -query ../../roll-to_COXIII/teu1.teu.circular.14798.renamed.rolled.fasta -db teu1_curated -out teu1.blastn.out
+
+

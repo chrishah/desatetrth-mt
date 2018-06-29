@@ -1,0 +1,11 @@
+total 16M
+-rwxr-xr-x 1 2.5K Nov  3  2016 der-Gyro_COI_info_assembly.txt
+-rwxr-xr-x 1  443 Nov  3  2016 der-Gyro_COI_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 der-Gyro_COI_info_WARNINGS_medium.txt
+-rwxr-xr-x 1    0 Nov  3  2016 der-Gyro_COI_info_readrepeats.lst
+-rwxr-xr-x 1    0 Nov  3  2016 der-Gyro_COI_info_WARNINGS_critical.txt
+-rwxr-xr-x 1  417 Nov  3  2016 der-Gyro_COI_info_contigstats.txt
+-rwxr-xr-x 1  15M Nov  3  2016 der-Gyro_COI_info_readtaglist.txt
+-rwxr-xr-x 1 6.4K Nov  3  2016 der-Gyro_COI_info_debrislist.txt
+-rwxr-xr-x 1 1.1M Nov  3  2016 der-Gyro_COI_info_contigreadlist.txt
+-rwxr-xr-x 1  14K Nov  3  2016 der-Gyro_COI_info_consensustaglist.txt

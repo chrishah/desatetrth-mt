@@ -1,0 +1,7 @@
+Palsbu	Gyrodactylus_salaris
+Rauma	Gyrodactylus_salaris
+sal	Gyrodactylus_salaris
+teu2	Gyrodactylus_teuchis
+teu4	Gyrodactylus_teuchis
+thy2	Gyrodactylus_salaris
+tru1	Gyrodactylus_truttae

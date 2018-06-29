@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Oct 29  2016 Rauma-G.salaris.mt_d_tmp
+drwxr-xr-x 2 4.0K Oct 29  2016 Rauma-G.salaris.mt_d_results
+drwxr-xr-x 2 4.0K Oct 29  2016 Rauma-G.salaris.mt_d_info
+drwxr-xr-x 2 4.0K Oct 29  2016 Rauma-G.salaris.mt_d_chkpt

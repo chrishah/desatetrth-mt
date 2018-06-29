@@ -1,0 +1,374 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+KR080729.1|Gyrodactylus_truttae_COI_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+KR080712.1|Gyrodactylus_teuchis_COI_bb	18	18	18	18	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	25	25	25	25	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	29	29	29	29	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	33	33	33	33	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	35	35	35	35	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	37	37	37	37	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	38	38	38	38	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	49	49	49	49	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	52	52	52	52	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	62	62	62	62	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	63	63	63	63	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	70	70	70	70	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	72	72	72	72	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	73	73	73	73	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	79	79	79	79	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	80	80	80	80	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	82	82	82	82	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	87	87	87	87	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	89	89	89	89	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	92	92	92	92	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	94	94	94	94	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	114	114	114	114	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	130	130	130	130	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	131	131	131	131	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	137	137	137	137	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	144	144	144	144	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	151	151	151	151	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	152	152	152	152	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	157	157	157	157	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	161	161	161	161	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	164	164	164	164	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	180	180	180	180	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	191	191	191	191	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	198	198	198	198	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	210	210	210	210	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	211	211	211	211	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	214	214	214	214	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	217	217	217	217	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	221	221	221	221	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	223	223	223	223	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	232	232	232	232	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	233	233	233	233	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	234	234	234	234	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	240	240	240	240	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	242	242	242	242	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	247	247	247	247	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	249	249	249	249	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	252	252	252	252	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	254	254	254	254	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	255	255	255	255	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	256	256	256	256	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	259	259	259	259	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	263	263	263	263	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	265	265	265	265	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	270	270	270	270	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	273	273	273	273	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	276	276	276	276	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	276	276	276	276	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	278	278	278	278	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	283	283	283	283	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	288	288	288	288	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	289	289	289	289	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	293	293	293	293	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	294	294	294	294	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	308	308	308	308	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	322	322	322	322	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	323	323	323	323	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	326	326	326	326	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	329	329	329	329	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	330	330	330	330	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	337	337	337	337	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	340	340	340	340	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	341	341	341	341	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	343	343	343	343	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	344	344	344	344	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	347	347	347	347	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	349	349	349	349	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	350	350	350	350	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	353	353	353	353	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	354	354	354	354	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	362	362	362	362	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	366	366	366	366	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	374	374	374	374	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	380	380	380	380	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	383	383	383	383	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	387	387	387	387	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	389	389	389	389	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	392	392	392	392	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	394	394	394	394	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	398	398	398	398	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	399	399	399	399	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	403	403	403	403	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	404	404	404	404	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	405	405	405	405	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	407	407	407	407	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	410	410	410	410	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	410	410	410	410	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	411	411	411	411	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	413	413	413	413	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	417	417	417	417	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	420	420	420	420	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	430	430	430	430	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	431	431	431	431	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	433	433	433	433	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	443	443	443	443	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	445	445	445	445	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	449	449	449	449	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	462	462	462	462	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	471	471	471	471	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	480	480	480	480	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	487	487	487	487	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	489	489	489	489	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	491	491	491	491	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	496	496	496	496	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	500	500	500	500	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	502	502	502	502	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	513	513	513	513	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	514	514	514	514	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	517	517	517	517	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	518	518	518	518	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	519	519	519	519	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	522	522	522	522	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	524	524	524	524	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	527	527	527	527	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	529	529	529	529	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	530	530	530	530	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	533	533	533	533	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	535	535	535	535	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	537	537	537	537	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	538	538	538	538	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	561	561	561	561	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	565	565	565	565	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	567	567	567	567	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	573	573	573	573	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	578	578	578	578	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	585	585	585	585	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	587	587	587	587	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	590	590	590	590	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	591	591	591	591	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	598	598	598	598	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	604	604	604	604	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	607	607	607	607	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	609	609	609	609	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	613	613	613	613	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	615	615	615	615	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	623	623	623	623	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	626	626	626	626	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	630	630	630	630	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	635	635	635	635	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	639	639	639	639	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	640	640	640	640	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	647	647	647	647	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	650	650	650	650	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	654	654	654	654	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	656	656	656	656	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	658	658	658	658	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	659	659	659	659	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	662	662	662	662	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	663	663	663	663	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	664	664	664	664	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	668	668	668	668	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	670	670	670	670	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	671	671	671	671	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	672	672	672	672	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	673	673	673	673	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	674	674	674	674	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	674	674	674	674	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	676	676	676	676	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	677	677	677	677	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	679	679	679	679	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	680	680	680	680	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	683	683	683	683	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	686	686	686	686	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	698	698	698	698	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	707	707	707	707	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	709	709	709	709	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	710	710	710	710	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	714	714	714	714	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	721	721	721	721	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	722	722	722	722	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	725	725	725	725	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	726	726	726	726	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	727	727	727	727	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	741	741	741	741	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	743	743	743	743	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	745	745	745	745	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	747	747	747	747	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	748	748	748	748	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	753	753	753	753	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	755	755	755	755	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	760	760	760	760	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	764	764	764	764	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	770	770	770	770	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	775	775	775	775	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	776	776	776	776	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	776	776	776	776	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	783	783	783	783	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	790	790	790	790	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	792	792	792	792	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	795	795	795	795	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	799	799	799	799	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	800	800	800	800	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	801	801	801	801	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	803	803	803	803	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	807	807	807	807	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	817	817	817	817	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	820	820	820	820	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	836	836	836	836	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	842	842	842	842	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	843	843	843	843	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	844	844	844	844	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	850	850	850	850	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	857	857	857	857	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	864	864	864	864	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	868	868	868	868	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	876	876	876	876	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	878	878	878	878	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	879	879	879	879	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	882	882	882	882	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	886	886	886	886	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	891	891	891	891	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	894	894	894	894	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	895	895	895	895	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	900	900	900	900	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	902	902	902	902	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	905	905	905	905	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	909	909	909	909	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	916	916	916	916	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	918	918	918	918	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	919	919	919	919	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	930	930	930	930	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	931	931	931	931	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	937	937	937	937	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	938	938	938	938	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	940	940	940	940	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	943	943	943	943	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	954	954	954	954	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	955	955	955	955	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	963	963	963	963	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	972	972	972	972	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	982	982	982	982	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	997	997	997	997	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1003	1003	1003	1003	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1008	1008	1008	1008	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1014	1014	1014	1014	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1015	1015	1015	1015	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1018	1018	1018	1018	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1023	1023	1023	1023	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1028	1028	1028	1028	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1030	1030	1030	1030	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1031	1031	1031	1031	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1038	1038	1038	1038	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1043	1043	1043	1043	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1046	1046	1046	1046	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1047	1047	1047	1047	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1049	1049	1049	1049	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1050	1050	1050	1050	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1068	1068	1068	1068	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1078	1078	1078	1078	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1079	1079	1079	1079	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1082	1082	1082	1082	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1084	1084	1084	1084	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1092	1092	1092	1092	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1099	1099	1099	1099	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1101	1101	1101	1101	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1104	1104	1104	1104	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1107	1107	1107	1107	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1109	1109	1109	1109	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1115	1115	1115	1115	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1117	1117	1117	1117	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1119	1119	1119	1119	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1125	1125	1125	1125	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1132	1132	1132	1132	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1134	1134	1134	1134	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1144	1144	1144	1144	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1148	1148	1148	1148	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1148	1148	1148	1148	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1149	1149	1149	1149	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1159	1159	1159	1159	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1162	1162	1162	1162	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1178	1178	1178	1178	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1182	1182	1182	1182	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1184	1184	1184	1184	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1204	1204	1204	1204	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1207	1207	1207	1207	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1211	1211	1211	1211	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1215	1215	1215	1215	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1216	1216	1216	1216	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1217	1217	1217	1217	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1230	1230	1230	1230	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1231	1231	1231	1231	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1235	1235	1235	1235	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1235	1235	1235	1235	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1237	1237	1237	1237	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1241	1241	1241	1241	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1245	1245	1244	1244	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1248	1248	1247	1247	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1253	1253	1252	1252	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1254	1254	1253	1253	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1255	1255	1254	1254	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1258	1258	1257	1257	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1262	1262	1261	1261	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1269	1269	1268	1268	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1283	1283	1282	1282	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1287	1287	1286	1286	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1289	1289	1288	1288	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1292	1292	1291	1291	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1295	1295	1294	1294	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1296	1296	1295	1295	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1301	1301	1300	1300	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1302	1302	1301	1301	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1303	1303	1302	1302	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1305	1305	1304	1304	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1309	1309	1308	1308	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1316	1316	1315	1315	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1324	1324	1323	1323	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1325	1325	1324	1324	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1326	1326	1325	1325	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	0	46	0	46	47	MCVc							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	48	741	48	741	694	MCVc							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	761	761	761	761	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	764	764	764	764	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	765	765	765	765	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	767	767	767	767	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	770	770	770	770	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	776	776	776	776	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	785	785	785	785	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	797	797	797	797	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	800	800	800	800	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	806	806	806	806	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	812	812	812	812	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	821	821	821	821	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	824	824	824	824	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	830	830	830	830	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	833	833	833	833	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	843	843	843	843	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	845	845	845	845	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	851	851	851	851	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	857	857	857	857	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	863	863	863	863	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	869	869	869	869	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	875	875	875	875	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	890	890	890	890	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	893	893	893	893	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	905	905	905	905	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	908	908	908	908	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	911	911	911	911	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	923	923	923	923	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	952	952	952	952	1	SROc							weak
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	959	1656	959	1656	698	MCVc							
+AF479750.4|Gyrodactylus_salaris_COI_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+AF479750.4|Gyrodactylus_salaris_COI_bb	0	783	0	783	784	MCVc							
+AF479750.4|Gyrodactylus_salaris_COI_bb	795	795	795	795	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	801	801	801	801	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	804	804	804	804	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	807	807	807	807	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	810	810	810	810	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	811	811	811	811	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	816	816	816	816	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	819	819	819	819	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	822	822	822	822	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	825	825	825	825	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	834	834	834	834	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	858	858	858	858	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	873	873	873	873	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	885	885	885	885	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	903	903	903	903	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	913	913	913	913	1	SROc							weak
+AF479750.4|Gyrodactylus_salaris_COI_bb	924	1686	924	1686	763	MCVc							

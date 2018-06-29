@@ -1,0 +1,5 @@
+total 32M
+-rwxr-xr-x 1  32M Nov  4  2016 readpool.maf
+-rwxr-xr-x 1    2 Nov  4  2016 passInfo.txt
+-rwxr-xr-x 1 259K Nov  4  2016 maxCovReached.txt
+-rwxr-xr-x 1  906 Nov  4  2016 bannedOverlaps.txt

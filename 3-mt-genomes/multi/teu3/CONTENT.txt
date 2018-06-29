@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 4 4.0K Oct 30  2016 seed_der-teu
+drwxr-xr-x 6 4.0K Nov  1  2016 seed_der-teu_pe
+-rwxr-xr-x 1  757 Nov  3  2016 HOWTO
+-rwxr-xr-x 1   68 Nov  3  2016 teu3_sp-proportions.txt

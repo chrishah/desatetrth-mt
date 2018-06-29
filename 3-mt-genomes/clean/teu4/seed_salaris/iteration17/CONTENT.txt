@@ -1,0 +1,7 @@
+total 8.6M
+drwxr-xr-x 6 4.0K Oct 29  2016 teu4-G.salaris.mt_assembly
+-rwxr-xr-x 1  391 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  15K Nov  3  2016 temp_baitfile.fasta
+-rwxr-xr-x 1 8.1M Nov  3  2016 teu4-readpool-it17.fastq
+-rwxr-xr-x 1  16K Nov  3  2016 backbone_it17_initial_G.salaris.mt.fna
+-rwxr-xr-x 1 443K Nov  3  2016 hashstat.bin

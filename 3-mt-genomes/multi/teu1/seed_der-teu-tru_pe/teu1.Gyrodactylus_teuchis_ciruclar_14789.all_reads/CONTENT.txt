@@ -1,0 +1,3 @@
+total 20K
+-rwxr-xr-x 1 15K Nov  4  2016 Gyrodactylus_teuchis_ciruclar_14789.reference.fasta
+-rwxr-xr-x 1 719 Nov  4  2016 teu1.Gyrodactylus_teuchis_ciruclar_14789.MITObim.slurm.sh

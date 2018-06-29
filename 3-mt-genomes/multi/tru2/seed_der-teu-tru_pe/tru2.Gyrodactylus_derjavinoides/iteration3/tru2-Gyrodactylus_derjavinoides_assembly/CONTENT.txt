@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Nov  3  2016 tru2-Gyrodactylus_derjavinoides_d_tmp
+drwxr-xr-x 2 4.0K Nov  3  2016 tru2-Gyrodactylus_derjavinoides_d_info
+drwxr-xr-x 2 4.0K Nov  3  2016 tru2-Gyrodactylus_derjavinoides_d_chkpt
+drwxr-xr-x 2 4.0K Nov  3  2016 tru2-Gyrodactylus_derjavinoides_d_results

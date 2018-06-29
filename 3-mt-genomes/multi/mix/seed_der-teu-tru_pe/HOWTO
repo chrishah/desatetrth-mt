@@ -1,0 +1,36 @@
+#run MITObim
+sbatch MITObim.slurm.sh
+
+#Rerun MITObim for each species that seems to be contained in the sample
+prefix=mix
+contigreadlist=./iteration4/mix-G.der.teu.tru.mt_assembly/mix-G.der.teu.tru.mt_d_info/mix-G.der.teu.tru.mt_info_contigreadlist.txt
+fastq=/home/478358/WORKING/GYRO/mt-genomes/1-trimmed-data/mix-trimmed-min50-interleaved.fastq.gz
+references=G.der-teu-tru.mt.fasta
+
+#Extract ids of good paired end reads from MIRA result
+for ref in $(cat $contigreadlist | grep "#" -v | cut -f 1 | sort -n | uniq)
+do 
+	seed=$(echo -e "$ref" | cut -d "|" -f 2 | sed 's/_bb//g')
+	grep -P "$ref" $contigreadlist | cut -f 2 | sed 's/\/[1-2]$//' | sort -n | uniq -c | perl -ne 'chomp; @a=split(" "); if ($a[0] == 2){print "$a[1]/1\n$a[1]/2\n"}else{print STDERR "$a[1]\n"}' 1> $prefix.$seed.pe.readlist.txt 2> $prefix.$seed.se.readlist.txt
+done
+
+#Extract only good read pairs that had hit this species first
+#Rerun MITObim
+for sp in $(ls -1 *.pe.*)
+do 
+	seed=$(echo -e "$sp" | cut -d "." -f 2)
+	echo -e "$seed"
+	mkdir $prefix.$seed
+	cd $prefix.$seed
+	#Prepare reference file containing only one species
+	grep -P "$seed" -A 1 ../$references > $seed.reference.fasta
+	#extract reads based on the paired end readlist
+	miraconvert -n ../$prefix.$seed.pe.readlist.txt $fastq $prefix.$seed.interleaved.fastq
+	gzip $prefix.$seed.interleaved.fastq
+	#prepare MITObim submission script
+	cat ../MITObim.slurm.sh | sed "s/readsSE=.*/readsSE=$prefix.$seed.interleaved.fastq.gz/" | sed "s/seed=.*/seed=$seed.reference.fasta/" | sed "s/ref=.*/ref=$seed/" > $prefix.$seed.MITObim.slurm.sh
+	#submit MITObim job
+	sbatch $prefix.$seed.MITObim.slurm.sh
+	cd ..
+done
+

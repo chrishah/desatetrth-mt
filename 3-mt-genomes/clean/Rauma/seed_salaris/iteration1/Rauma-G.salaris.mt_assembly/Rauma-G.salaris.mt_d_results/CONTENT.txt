@@ -1,0 +1,17 @@
+total 63M
+-rwxr-xr-x 1 184 Nov  3  2016 Rauma-G.salaris.mt_out.tcs
+-rwxr-xr-x 1 46K Nov  3  2016 Rauma-G.salaris.mt_out_Rauma.padded.fasta.qual
+-rwxr-xr-x 1 16K Nov  3  2016 Rauma-G.salaris.mt_out_G.salaris.mt.padded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 Rauma-G.salaris.mt_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 Rauma-G.salaris.mt_out_Rauma.unpadded.fasta.qual
+-rwxr-xr-x 1 16K Nov  3  2016 Rauma-G.salaris.mt_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 21M Nov  3  2016 Rauma-G.salaris.mt_out.maf
+-rwxr-xr-x 1 42M Nov  3  2016 Rauma-G.salaris.mt_out.caf
+-rwxr-xr-x 1 16K Nov  3  2016 Rauma-G.salaris.mt_out.wig
+-rwxr-xr-x 1 15K Nov  3  2016 Rauma-G.salaris.mt_out_Rauma.unpadded.fasta
+-rwxr-xr-x 1 46K Nov  3  2016 Rauma-G.salaris.mt_out_G.salaris.mt.padded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 Rauma-G.salaris.mt_out_G.salaris.mt.unpadded.fasta.qual
+-rwxr-xr-x 1 16K Nov  3  2016 Rauma-G.salaris.mt_out_Rauma.padded.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 Rauma-G.salaris.mt_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 Rauma-G.salaris.mt_out_G.salaris.mt.unpadded.fasta
+-rwxr-xr-x 1 46K Nov  3  2016 Rauma-G.salaris.mt_out_AllStrains.padded.fasta.qual

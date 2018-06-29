@@ -1,0 +1,11 @@
+Loading from fastq, saving to: fastq
+Loading data from fastq ...Localtime: Fri Nov  4 12:04:57 2016
+Loading data from FASTQ file: /home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/multi-pe/../../1-trimmed-data/der-trimmed-min50-interleaved.fastq.gz
+(sorry, no progress indicator for that, possible only with zlib >=1.34)
+
+
+Done.
+Loaded 23017634 reads, Localtime: Fri Nov  4 12:06:16 2016
+ done.
+
+Data conversion process finished, no obvious errors encountered.

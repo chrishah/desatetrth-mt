@@ -1,0 +1,17 @@
+total 46M
+-rwxr-xr-x 1 16K Nov  3  2016 teu2-G.derjavinoides.mt_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 16K Nov  3  2016 teu2-G.derjavinoides.mt_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 47K Nov  3  2016 teu2-G.derjavinoides.mt_out_teu2.unpadded.fasta.qual
+-rwxr-xr-x 1 47K Nov  3  2016 teu2-G.derjavinoides.mt_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 16K Nov  3  2016 teu2-G.derjavinoides.mt_out_G.derjavinoides.mt.unpadded.fasta
+-rwxr-xr-x 1 15M Nov  3  2016 teu2-G.derjavinoides.mt_out.maf
+-rwxr-xr-x 1 47K Nov  3  2016 teu2-G.derjavinoides.mt_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 184 Nov  3  2016 teu2-G.derjavinoides.mt_out.tcs
+-rwxr-xr-x 1 47K Nov  3  2016 teu2-G.derjavinoides.mt_out_teu2.padded.fasta.qual
+-rwxr-xr-x 1 47K Nov  3  2016 teu2-G.derjavinoides.mt_out_G.derjavinoides.mt.unpadded.fasta.qual
+-rwxr-xr-x 1 16K Nov  3  2016 teu2-G.derjavinoides.mt_out_G.derjavinoides.mt.padded.fasta
+-rwxr-xr-x 1 16K Nov  3  2016 teu2-G.derjavinoides.mt_out.wig
+-rwxr-xr-x 1 16K Nov  3  2016 teu2-G.derjavinoides.mt_out_teu2.unpadded.fasta
+-rwxr-xr-x 1 47K Nov  3  2016 teu2-G.derjavinoides.mt_out_G.derjavinoides.mt.padded.fasta.qual
+-rwxr-xr-x 1 16K Nov  3  2016 teu2-G.derjavinoides.mt_out_teu2.padded.fasta
+-rwxr-xr-x 1 31M Nov  3  2016 teu2-G.derjavinoides.mt_out.caf

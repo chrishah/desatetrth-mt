@@ -1,0 +1,2 @@
+# name              	length	av.qual	#-reads	mx.cov.	av.cov	GC%	CnIUPAC	CnFunny	CnN	CnX	CnGap	CnNoCov
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	15660	85	20084	286	124.35	32.80	0	0	732	0	104	0

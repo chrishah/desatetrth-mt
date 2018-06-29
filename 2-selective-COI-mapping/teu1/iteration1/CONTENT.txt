@@ -1,0 +1,7 @@
+total 4.1M
+drwxr-xr-x 6 4.0K Oct 28  2016 teu1-Gyro_COI_assembly
+-rwxr-xr-x 1  83K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1 6.2K Nov  3  2016 backbone_it1_initial_Gyro_COI.fna
+-rwxr-xr-x 1 4.0M Nov  3  2016 teu1-readpool-it1.fastq
+-rwxr-xr-x 1  387 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1 6.1K Nov  3  2016 temp_baitfile.fasta

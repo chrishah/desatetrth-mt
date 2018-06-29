@@ -1,0 +1,12 @@
+total 3.6M
+-rwxr-xr-x 1  735 Nov  4  2016 MITObim.slurm.sh
+-rwxr-xr-x 1 1.4K Nov  4  2016 bait.pe.slurm.sh
+-rwxr-xr-x 1    0 Nov  4  2016 job.140088.err
+-rwxr-xr-x 1 202K Nov  4  2016 let.Gyrodactylus_derjavinoides.se.readlist.txt
+-rwxr-xr-x 1 1.2M Nov  4  2016 let.Gyrodactylus_derjavinoides.pe.readlist.txt
+-rwxr-xr-x 1    0 Nov  4  2016 log.140089.err
+-rwxr-xr-x 1 2.2M Nov  4  2016 let.Gyrodactylus_derjavinoides.interleaved.fastq.gz
+-rwxr-xr-x 1  461 Nov  4  2016 job.140088.out
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration1
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration2
+-rwxr-xr-x 1 2.4K Nov  4  2016 log.140089.out

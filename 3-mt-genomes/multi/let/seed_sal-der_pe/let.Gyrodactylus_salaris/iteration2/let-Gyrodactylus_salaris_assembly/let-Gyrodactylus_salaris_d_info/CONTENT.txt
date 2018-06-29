@@ -1,0 +1,11 @@
+total 53M
+-rwxr-xr-x 1    0 Nov  3  2016 let-Gyrodactylus_salaris_info_readrepeats.lst
+-rwxr-xr-x 1  61K Nov  3  2016 let-Gyrodactylus_salaris_info_consensustaglist.txt
+-rwxr-xr-x 1 5.4M Nov  3  2016 let-Gyrodactylus_salaris_info_contigreadlist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 let-Gyrodactylus_salaris_info_WARNINGS_medium.txt
+-rwxr-xr-x 1 2.6K Nov  3  2016 let-Gyrodactylus_salaris_info_assembly.txt
+-rwxr-xr-x 1  188 Nov  3  2016 let-Gyrodactylus_salaris_info_contigstats.txt
+-rwxr-xr-x 1  48M Nov  3  2016 let-Gyrodactylus_salaris_info_readtaglist.txt
+-rwxr-xr-x 1   54 Nov  3  2016 let-Gyrodactylus_salaris_info_debrislist.txt
+-rwxr-xr-x 1  443 Nov  3  2016 let-Gyrodactylus_salaris_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 let-Gyrodactylus_salaris_info_WARNINGS_critical.txt

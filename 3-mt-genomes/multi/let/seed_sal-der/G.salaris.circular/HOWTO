@@ -1,0 +1,16 @@
+Check for circularity.
+
+```bash
+~/src/MITObim/MITObim/misc_scripts/circules.py -f <(cat ../iteration2/temp_baitfile.fasta |grep "salar" -A 1) -k 31
+```
+
+THis yields a single candidate of length 14786 bp. Let's extract it.
+```bash
+~/src/MITObim/MITObim/misc_scripts/circules.py -f <(cat ../iteration2/temp_baitfile.fasta |grep "salar" -A 1) -k 31 -p let.sal -e 14700
+```
+
+Rename the sequence.
+```bash
+cat let.sal.circular.14786.fasta | perl -ne 'chomp; if ($_ =~ />/){@a=split("_"); $out=">let|Gyrodactylus_salaris_$a[-2]_$a[-1]"; print "$out\n"}else{print "$_\n"}' > let.sal.circular.14786.renamed.fasta
+```
+

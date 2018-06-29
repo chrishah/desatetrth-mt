@@ -1,0 +1,7 @@
+total 11M
+drwxr-xr-x 6 4.0K Nov  3  2016 tru2-Gyrodactylus_teuchis_ciruclar_14789_assembly
+-rwxr-xr-x 1  467 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1 443K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  3  2016 backbone_it4_initial_Gyrodactylus_teuchis_ciruclar_14789.fna
+-rwxr-xr-x 1  15K Nov  3  2016 temp_baitfile.fasta
+-rwxr-xr-x 1 9.8M Nov  3  2016 tru2-readpool-it4.fastq

@@ -1,0 +1,21 @@
+Test for circularity in G. derjavinoides mt genome.
+
+```bash
+mkdir G.derjavinoides.circular
+cd G.derjavinoides.circular
+```
+
+###############
+Test for circularity in G. truttae mt genome.
+
+```bash
+mkdir G.truttae.circular
+cd G.truttae.circular
+```
+
+Test for circularity in G. truttae mt genome.
+
+```bash
+mkdir G.teuchis.circular
+cd G.teuchis.circular
+```

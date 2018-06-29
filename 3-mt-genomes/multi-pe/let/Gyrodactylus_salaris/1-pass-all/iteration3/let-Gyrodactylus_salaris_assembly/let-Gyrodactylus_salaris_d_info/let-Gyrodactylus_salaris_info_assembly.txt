@@ -1,0 +1,107 @@
+Localtime: Fri Nov  4 11:59:59 2016
+
+Assembly information:
+=====================
+
+Localtime: Fri Nov  4 11:59:59 2016
+MIRA version: 4.0.2 
+
+Num. reads assembled: 60714
+Num. singlets: 0
+
+
+Coverage assessment (calculated from contigs >= 5000 with coverage >= 0):
+=========================================================
+  Avg. total coverage: 389.04
+  Avg. coverage per sequencing technology
+	Sanger:	0.00
+	454:	0.00
+	IonTor:	0.00
+	PcBioHQ:	0.00
+	PcBioLQ:	0.00
+	Text:	2.97
+	Solexa:	386.06
+	Solid:	0.00
+
+
+Large contigs (makes less sense for EST assemblies):
+====================================================
+With	Contig size		>= 500
+	AND (Total avg. Cov	>= 195
+	     OR Cov(san)	>= 0
+	     OR Cov(454)	>= 0
+	     OR Cov(ion)	>= 0
+	     OR Cov(pbh)	>= 0
+	     OR Cov(pbl)	>= 0
+	     OR Cov(txt)	>= 1
+	     OR Cov(sxa)	>= 193
+	     OR Cov(sid)	>= 0
+	    )
+
+  Length assessment:
+  ------------------
+  Number of contigs:	1
+  Total consensus:	14882
+  Largest contig:	14882
+  N50 contig size:	14882
+  N90 contig size:	14882
+  N95 contig size:	14882
+
+  Coverage assessment:
+  --------------------
+  Max coverage (total):	821
+  Max coverage per sequencing technology
+	Sanger:	0
+	454:	0
+	IonTor:	0
+	PcBioHQ:	0
+	PcBioLQ:	0
+	Text:	3
+	Solexa:	818
+	Solid:	0
+
+  Quality assessment:
+  -------------------
+  Average consensus quality:			90
+  Consensus bases with IUPAC:			0	(excellent)
+  Strong unresolved repeat positions (SRMc):	71	(you might want to check these)
+  Weak unresolved repeat positions (WRMc):	5	(you might want to check these)
+  Sequencing Type Mismatch Unsolved (STMU):	0	(excellent)
+  Contigs having only reads wo qual:		0	(excellent)
+  Contigs with reads wo qual values:		1	(you might want to check these)
+
+
+All contigs:
+============
+  Length assessment:
+  ------------------
+  Number of contigs:	1
+  Total consensus:	14882
+  Largest contig:	14882
+  N50 contig size:	14882
+  N90 contig size:	14882
+  N95 contig size:	14882
+
+  Coverage assessment:
+  --------------------
+  Max coverage (total):	821
+  Max coverage per sequencing technology
+	Sanger:	0
+	454:	0
+	IonTor:	0
+	PcBioHQ:	0
+	PcBioLQ:	0
+	Text:	3
+	Solexa:	818
+	Solid:	0
+
+  Quality assessment:
+  -------------------
+  Average consensus quality:			90
+  Consensus bases with IUPAC:			0	(excellent)
+  Strong unresolved repeat positions (SRMc):	71	(you might want to check these)
+  Weak unresolved repeat positions (WRMc):	5	(you might want to check these)
+  Sequencing Type Mismatch Unsolved (STMU):	0	(excellent)
+  Contigs having only reads wo qual:		0	(excellent)
+  Contigs with reads wo qual values:		1	(you might want to check these)
+

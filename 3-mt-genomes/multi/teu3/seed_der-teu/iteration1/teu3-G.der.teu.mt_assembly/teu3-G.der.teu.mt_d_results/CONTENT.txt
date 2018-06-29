@@ -1,0 +1,17 @@
+total 38M
+-rwxr-xr-x 1 12M Nov  3  2016 teu3-G.der.teu.mt_out.maf
+-rwxr-xr-x 1 82K Nov  3  2016 teu3-G.der.teu.mt_out_teu3.unpadded.fasta.qual
+-rwxr-xr-x 1 82K Nov  3  2016 teu3-G.der.teu.mt_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 82K Nov  3  2016 teu3-G.der.teu.mt_out_teu3.padded.fasta.qual
+-rwxr-xr-x 1 30K Nov  3  2016 teu3-G.der.teu.mt_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 82K Nov  3  2016 teu3-G.der.teu.mt_out_G.der.teu.mt.unpadded.fasta.qual
+-rwxr-xr-x 1 30K Nov  3  2016 teu3-G.der.teu.mt_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 30K Nov  3  2016 teu3-G.der.teu.mt_out_teu3.padded.fasta
+-rwxr-xr-x 1 82K Nov  3  2016 teu3-G.der.teu.mt_out_G.der.teu.mt.padded.fasta.qual
+-rwxr-xr-x 1 30K Nov  3  2016 teu3-G.der.teu.mt_out_G.der.teu.mt.unpadded.fasta
+-rwxr-xr-x 1 247 Nov  3  2016 teu3-G.der.teu.mt_out.tcs
+-rwxr-xr-x 1 30K Nov  3  2016 teu3-G.der.teu.mt_out_teu3.unpadded.fasta
+-rwxr-xr-x 1 30K Nov  3  2016 teu3-G.der.teu.mt_out_G.der.teu.mt.padded.fasta
+-rwxr-xr-x 1 23K Nov  3  2016 teu3-G.der.teu.mt_out.wig
+-rwxr-xr-x 1 82K Nov  3  2016 teu3-G.der.teu.mt_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 26M Nov  3  2016 teu3-G.der.teu.mt_out.caf

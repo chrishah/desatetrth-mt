@@ -1,0 +1,97 @@
+BLASTX 2.4.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: COXIII_DB/COXIII.fasta
+           2 sequences; 424 total letters
+
+
+
+Query= teu4|Gyrodactylus_teuchis_ciruclar_14792
+
+Length=14792
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  ABX59348.1 cytochrome c oxidase subunit III (mitochondrion) [Gy...  268     6e-86
+  ABI74676.1 cytochrome c oxidase subunit III (mitochondrion) [Gy...  258     1e-82
+
+
+> ABX59348.1 cytochrome c oxidase subunit III (mitochondrion) [Gyrodactylus 
+derjavinoides]
+Length=212
+
+ Score = 268 bits (684),  Expect = 6e-86, Method: Compositional matrix adjust.
+ Identities = 170/212 (80%), Positives = 185/212 (87%), Gaps = 0/212 (0%)
+ Frame = +3
+
+Query  30   MK*ASLYRRIIFSAMlvglil*ipllvlSAFVMVIIGAVWFLNDRFIQTSHYLKGFFLFI  209
+            M  ASLY  IIFS ML+GLIL IPLLVLS F+M ++G VWFLND F+ TSHYL GFFLFI
+Sbjct  1    MNWASLYSSIIFSFMLIGLILWIPLLVLSGFIMTLVGVVWFLNDTFVNTSHYLNGFFLFI  60
+
+Query  210  LREVLIFARLFVTCLWFRDHKDVRISEYNElpllgsflllgssVTATSYHMQMKISSLQL  389
+            L EVLIFA LFVTCLWFRD  D+ ISEYNELPLLGSFLLLGSSVTAT YH+QM ++SLQL
+Sbjct  61   LSEVLIFASLFVTCLWFRDSNDINISEYNELPLLGSFLLLGSSVTATCYHLQMNLNSLQL  120
+
+Query  390  VLTIVLGVLFILLQGLEYDERTVMLFSRVYHARCFTTISLHFRHVliglfllcgllVYTP  569
+            VLTIVLG+LFI+LQG+EYDE TV LFS VYHA CFTTISLHF HVLIGLFLLCGLL+YTP
+Sbjct  121  VLTIVLGMLFIILQGVEYDESTVNLFSSVYHASCFTTISLHFSHVLIGLFLLCGLLIYTP  180
+
+Query  570  KMIKLYYSNLVI*Y*HFVDYIWLLVYSIVYIF  665
+            KM+KLYYSNLVI Y HFV YIWLLVYS+VYIF
+Sbjct  181  KMVKLYYSNLVIWYWHFVGYIWLLVYSVVYIF  212
+
+
+> ABI74676.1 cytochrome c oxidase subunit III (mitochondrion) [Gyrodactylus 
+salaris]
+Length=212
+
+ Score = 258 bits (660),  Expect = 1e-82, Method: Compositional matrix adjust.
+ Identities = 164/212 (77%), Positives = 183/212 (86%), Gaps = 0/212 (0%)
+ Frame = +3
+
+Query  30   MK*ASLYRRIIFSAMlvglil*ipllvlSAFVMVIIGAVWFLNDRFIQTSHYLKGFFLFI  209
+            M  ASLY   IFS ML+GLIL IPLLVL   +M+++G +WFLND F+QTSHYL GFFLFI
+Sbjct  1    MNWASLYSSGIFSLMLIGLILWIPLLVLFGLIMIVVGMLWFLNDTFVQTSHYLNGFFLFI  60
+
+Query  210  LREVLIFARLFVTCLWFRDHKDVRISEYNElpllgsflllgssVTATSYHMQMKISSLQL  389
+            L EVLIFA LFVTCLWFRD  D+ ISEYNELPLLGSFLLLGSSVTAT YH+QMK+SSL L
+Sbjct  61   LSEVLIFASLFVTCLWFRDPNDINISEYNELPLLGSFLLLGSSVTATCYHLQMKLSSLHL  120
+
+Query  390  VLTIVLGVLFILLQGLEYDERTVMLFSRVYHARCFTTISLHFRHVliglfllcgllVYTP  569
+            +LTI+LGVLFI+LQG+EYDE TV LFS VYHA CFTTISLHF HVLIG+FLL GLL+YTP
+Sbjct  121  ILTILLGVLFIVLQGVEYDESTVNLFSSVYHASCFTTISLHFSHVLIGIFLLGGLLLYTP  180
+
+Query  570  KMIKLYYSNLVI*Y*HFVDYIWLLVYSIVYIF  665
+             ++KLYYSNLVI Y HFVDYIWLLVYS+VYIF
+Sbjct  181  SVVKLYYSNLVIWYWHFVDYIWLLVYSVVYIF  212
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1601296
+
+
+  Database: COXIII_DB/COXIII.fasta
+    Posted date:  Nov 3, 2016  10:01 AM
+  Number of letters in database: 424
+  Number of sequences in database:  2
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40

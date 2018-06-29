@@ -1,0 +1,11 @@
+total 46M
+-rwxr-xr-x 1 3.4M Nov  3  2016 teu2-G.derjavinoides.mt_info_contigreadlist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu2-G.derjavinoides.mt_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu2-G.derjavinoides.mt_info_readrepeats.lst
+-rwxr-xr-x 1  256 Nov  3  2016 teu2-G.derjavinoides.mt_info_contigstats.txt
+-rwxr-xr-x 1 133K Nov  3  2016 teu2-G.derjavinoides.mt_info_consensustaglist.txt
+-rwxr-xr-x 1  11K Nov  3  2016 teu2-G.derjavinoides.mt_info_debrislist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu2-G.derjavinoides.mt_info_WARNINGS_medium.txt
+-rwxr-xr-x 1  43M Nov  3  2016 teu2-G.derjavinoides.mt_info_readtaglist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu2-G.derjavinoides.mt_info_WARNINGS_minor.txt
+-rwxr-xr-x 1 2.6K Nov  3  2016 teu2-G.derjavinoides.mt_info_assembly.txt

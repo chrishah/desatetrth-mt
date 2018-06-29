@@ -1,0 +1,6 @@
+total 24K
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration21
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration22
+-rwxr-xr-x 1    0 Nov  3  2016 log.138458.err
+-rwxr-xr-x 1  743 Nov  3  2016 MITObim.salaris.seed.slurm.sh
+-rwxr-xr-x 1 8.5K Nov  3  2016 log.138458.out

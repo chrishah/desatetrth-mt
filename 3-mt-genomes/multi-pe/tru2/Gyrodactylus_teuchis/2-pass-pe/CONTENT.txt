@@ -1,0 +1,12 @@
+total 2.5M
+-rwxr-xr-x 1  748 Nov  4  2016 MITObim.slurm.sh
+-rwxr-xr-x 1 1.4K Nov  4  2016 bait.pe.slurm.sh
+-rwxr-xr-x 1    0 Nov  4  2016 job.140121.err
+-rwxr-xr-x 1 519K Nov  4  2016 tru2.Gyrodactylus_teuchis.se.readlist.txt
+-rwxr-xr-x 1 740K Nov  4  2016 tru2.Gyrodactylus_teuchis.pe.readlist.txt
+-rwxr-xr-x 1 1.3M Nov  4  2016 tru2.Gyrodactylus_teuchis.interleaved.fastq.gz
+-rwxr-xr-x 1    0 Nov  4  2016 log.140122.err
+-rwxr-xr-x 1  462 Nov  4  2016 job.140121.out
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration4
+drwxr-xr-x 3 4.0K Nov  4  2016 iteration5
+-rwxr-xr-x 1 3.3K Nov  4  2016 log.140122.out

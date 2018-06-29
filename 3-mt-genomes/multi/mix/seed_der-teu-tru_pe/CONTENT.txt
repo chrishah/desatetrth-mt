@@ -1,0 +1,17 @@
+total 4.2M
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration3
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration4
+drwxr-xr-x 4 4.0K Nov  1  2016 mix.Gyrodactylus_derjavinoides
+drwxr-xr-x 4 4.0K Nov  3  2016 mix.Gyrodactylus_teuchis_ciruclar_14789
+drwxr-xr-x 4 4.0K Nov  3  2016 mix.Gyrodactylus_truttae_ciruclar_14823
+-rwxr-xr-x 1  18K Nov  3  2016 mix.Gyrodactylus_teuchis_ciruclar_14789.se.readlist.txt
+-rwxr-xr-x 1 2.3M Nov  3  2016 mix.Gyrodactylus_teuchis_ciruclar_14789.pe.readlist.txt
+-rwxr-xr-x 1 9.2K Nov  3  2016 mix.Gyrodactylus_truttae_ciruclar_14823.se.readlist.txt
+-rwxr-xr-x 1 1.7K Nov  3  2016 HOWTO
+-rwxr-xr-x 1 1.3M Nov  3  2016 mix.Gyrodactylus_derjavinoides.pe.readlist.txt
+-rwxr-xr-x 1  70K Nov  3  2016 mix.Gyrodactylus_derjavinoides.se.readlist.txt
+-rwxr-xr-x 1  698 Nov  3  2016 MITObim.slurm.sh
+-rwxr-xr-x 1 366K Nov  3  2016 mix.Gyrodactylus_truttae_ciruclar_14823.pe.readlist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 log.138861.err
+-rwxr-xr-x 1  44K Nov  3  2016 G.der-teu-tru.mt.fasta
+-rwxr-xr-x 1 4.3K Nov  3  2016 log.138861.out

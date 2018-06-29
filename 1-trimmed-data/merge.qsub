@@ -1,0 +1,32 @@
+#!/bin/bash
+#
+#PBS -N flash
+#PBS -l walltime=20:00:00
+#PBS -l vmem=10gb
+#PBS -l nodes=1:ppn=10
+#PBS -m bea
+#PBS -M ch380@le.ac.uk
+
+# Set OMP_NUM_THREADS for OpenMP jobs
+export OMP_NUM_THREADS=$PBS_NUM_PPN
+
+# Execute the job code
+###LOAD MODULES
+module load flash/1.2.11
+
+#############################################################################
+##DO SOME WORK
+date
+echo
+
+#DEFINE INPUT FILES
+WORKING=/scratch/gentrait/ch380/working/GYRO/mt-genomes/1-trimmed-data
+threads=$((PBS_NUM_PPN-1))
+
+cd $WORKING
+
+for a in $(ls -1 *interleaved* | cut -d "-" -f 1 |sort -n | uniq)
+do 
+	echo -e "\nprocessing: $a"
+	flash --interleaved-input $a-trimmed-min50-interleaved.fastq.gz -t $threads --to-stdout 2> $a.flash.log| perl -ne '$h=$_; $s=<>; $p=<>; $q=<>; if (length($s) > 100){print "$h$s$p$q"}' | gzip > $a.extended.minlength-100bp.fastq.gz
+done

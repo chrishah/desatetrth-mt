@@ -1,0 +1,265 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	194	194	194	194	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	228	228	228	228	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	273	273	273	273	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	277	277	277	277	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	322	322	322	322	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	327	327	327	327	1	IUPc							Strain 'tru2': R
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	327	327	327	327	1	STMS							Solved vote:  / txt (4) G 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	327	327	327	327	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	399	399	399	399	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	440	440	440	440	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	457	457	457	457	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	458	458	458	458	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	461	461	461	461	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	619	619	619	619	1	SRMc	87	0	87	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	942	942	942	942	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	984	984	984	984	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1008	1008	1008	1008	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1015	1015	1015	1015	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1063	1063	1063	1063	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1071	1071	1071	1071	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1072	1072	1072	1072	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1078	1078	1078	1078	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1081	1081	1081	1081	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1099	1099	1099	1099	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1122	1122	1122	1122	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1135	1135	1135	1135	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1143	1143	1143	1143	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1157	1157	1157	1157	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1279	1279	1279	1279	1	SRMc	87	0	87	88	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1381	1381	1381	1381	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1469	1469	1469	1469	1	SRMc	73	0	73	0	88	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1517	1517	1517	1517	1	SRMc	82	0	82	0	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1526	1526	1526	1526	1	SRMc	81	81	90	0	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1556	1556	1556	1556	1	SRMc	89	0	90	0	89	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1670	1670	1670	1670	1	IUPc							Strain 'tru2': M
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1670	1670	1670	1670	1	STMS							Solved vote:  / txt (4) C 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1670	1670	1670	1670	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1686	1686	1685	1685	1	SRMc	80	80	0	80	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	1869	1869	1868	1868	1	SRMc	79	0	79	0	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2071	2071	2070	2070	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2217	2217	2216	2216	1	SRMc	86	90	0	86	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2420	2420	2419	2419	1	IUPc							Strain 'tru2': Y
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2420	2420	2419	2419	1	STMS							Solved vote:  / txt (4) T 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2420	2420	2419	2419	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2453	2453	2452	2452	1	SRMc	90	90	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2697	2697	2696	2696	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2767	2767	2766	2766	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	2972	2972	2971	2971	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3034	3034	3033	3033	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3037	3037	3036	3036	1	IUPc							Strain 'tru2': W
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3037	3037	3036	3036	1	STMS							Solved vote:  / txt (4) A 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3037	3037	3036	3036	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3247	3247	3246	3246	1	SRMc	82	88	82	0	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3348	3348	-1	-1	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3392	3392	3390	3390	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3437	3437	3435	3435	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3538	3538	3536	3536	1	SRMc	86	0	86	0	88	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3560	3560	3558	3558	1	SRMc	87	0	89	0	87	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3650	3650	3648	3648	1	SRMc	80	0	80	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3708	3708	3706	3706	1	SRMc	79	87	79	0	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3778	3778	3776	3776	1	SRMc	89	0	0	90	89	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	3947	3947	3945	3945	1	SRMc	86	0	90	0	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4101	4101	4099	4099	1	SRMc	86	0	86	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4122	4122	4120	4120	1	SRMc	86	0	0	90	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4223	4223	4221	4221	1	SRMc	86	0	86	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4389	4389	4385	4385	1	WRMc	85	90	0	0	0	85	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4416	4416	4412	4412	1	SRMc	86	0	86	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4543	4543	4539	4539	1	SRMc	82	0	90	0	82	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4633	4633	4629	4629	1	SRMc	26	90	0	26	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4704	4704	4700	4700	1	SRMc	89	89	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4763	4763	4759	4759	1	SRMc	88	0	88	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4817	4817	4813	4813	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4825	4825	4821	4821	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4871	4871	4867	4867	1	SRMc	81	0	82	0	81	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	4981	4981	4977	4977	1	SRMc	86	0	90	0	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5177	5177	5173	5173	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5317	5317	5313	5313	1	SRMc	80	0	80	0	83	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5527	5527	5523	5523	1	SRMc	82	0	82	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5658	5658	5654	5654	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5681	5681	5677	5677	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5716	5716	5712	5712	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5722	5722	5718	5718	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5725	5725	5721	5721	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5761	5761	5757	5757	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5768	5768	5764	5764	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5827	5827	5823	5823	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5834	5834	5830	5830	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5872	5872	5868	5868	1	IUPc							Strain 'tru2': Y
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5872	5872	5868	5868	1	STMS							Solved vote:  / txt (4) T 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5872	5872	5868	5868	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5898	5898	5894	5894	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5900	5900	5896	5896	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5903	5903	5899	5899	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5905	5905	5901	5901	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	5952	5952	5948	5948	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6063	6063	6059	6059	1	SRMc	90	90	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6246	6246	6242	6242	1	SRMc	90	90	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6326	6326	6322	6322	1	SRMc	37	88	0	78	0	37	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6468	6468	6464	6464	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6498	6498	6494	6494	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6528	6528	6524	6524	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6534	6534	6530	6530	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6540	6540	6536	6536	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6665	6665	6661	6661	1	SRMc	82	0	82	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6671	6671	6667	6667	1	SRMc	85	0	85	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6722	6722	6718	6718	1	SRMc	88	88	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6893	6893	6889	6889	1	SRMc	81	0	86	0	81	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	6905	6905	6901	6901	1	SRMc	81	0	86	0	81	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7026	7026	7022	7022	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7027	7027	7023	7023	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7044	7044	7040	7040	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7048	7048	7044	7044	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7049	7049	7045	7045	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7151	7151	7147	7147	1	SRMc	82	0	90	0	82	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7275	7275	7271	7271	1	IUPc							Strain 'tru2': S
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7275	7275	7271	7271	1	STMS							Solved vote:  / txt (4) G 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7275	7275	7271	7271	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7287	7287	7283	7283	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7288	7288	7284	7284	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7304	7304	7300	7300	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7360	7360	7352	7352	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7360	7360	7352	7352	1	STMS							Solved vote:  / txt (4) A 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7364	7364	7356	7356	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7364	7364	7356	7356	1	STMS							Solved vote:  / txt (4) T 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7382	7382	7374	7374	1	IUPc							Strain 'tru2': R
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7382	7382	7374	7374	1	STMS							Solved vote:  / txt (4) A 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7382	7382	7374	7374	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7402	7402	7394	7394	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7444	7444	7436	7436	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7488	7488	7480	7480	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7539	7539	7531	7531	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7553	7553	7545	7545	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7559	7559	7551	7551	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7568	7568	7560	7560	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7571	7571	7563	7563	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7578	7578	7570	7570	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7628	7628	7619	7619	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7629	7629	7620	7620	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7637	7637	7628	7628	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7971	7971	7962	7962	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7982	7982	7973	7973	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7983	7983	7974	7974	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7985	7985	7976	7976	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	7986	7986	7977	7977	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8013	8013	8004	8004	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8426	8426	8417	8417	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8505	8505	8496	8496	1	SRMc	82	0	90	0	82	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8574	8574	8565	8565	1	SRMc	89	0	89	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8610	8610	8601	8601	1	SRMc	86	0	90	0	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8763	8763	8754	8754	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8910	8910	8901	8901	1	SRMc	83	0	83	0	85	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	8973	8973	8964	8964	1	SRMc	85	0	85	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9104	9104	9095	9095	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9106	9106	9097	9097	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9123	9123	9114	9114	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9180	9180	9171	9171	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9190	9190	9181	9181	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9206	9206	9197	9197	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9232	9232	9223	9223	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9234	9234	9225	9225	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9235	9235	9226	9226	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9236	9236	9227	9227	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9238	9238	9229	9229	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9239	9239	9230	9230	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9243	9243	9234	9234	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9270	9270	9261	9261	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9285	9285	9276	9276	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9307	9307	9298	9298	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9310	9310	9301	9301	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9311	9311	9302	9302	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9414	9414	9405	9405	1	SRMc	86	90	0	86	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9417	9417	9408	9408	1	SRMc	86	86	0	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9564	9564	9553	9553	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9570	9570	9559	9559	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9578	9578	9567	9567	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9679	9679	9668	9668	1	SRMc	90	0	90	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9714	9714	9703	9703	1	SRMc	90	0	90	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9840	9840	9829	9829	1	SRMc	30	0	83	0	89	30	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	9843	9843	9832	9832	1	SRMc	74	0	0	74	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10016	10016	10005	10005	1	SRMc	69	0	0	90	89	69	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10122	10122	10111	10111	1	SRMc	89	0	89	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10393	10393	10382	10382	1	SRMc	86	86	0	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10457	10457	10446	10446	1	SRMc	87	0	87	0	89	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10632	10632	10621	10621	1	SRMc	83	0	87	0	83	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10673	10673	10662	10662	1	SRMc	81	0	81	88	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10674	10674	10663	10663	1	SRMc	81	0	89	81	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10680	10680	10669	10669	1	SRMc	84	89	0	84	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10681	10681	10670	10670	1	SRMc	82	0	0	87	82	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10682	10682	10671	10671	1	SRMc	81	88	0	0	81	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10772	10772	10761	10761	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10844	10844	10833	10833	1	SRMc	87	0	87	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	10985	10985	10974	10974	1	SRMc	87	0	90	0	87	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	11053	11053	11042	11042	1	SRMc	89	0	0	89	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	11130	11130	11119	11119	1	SRMc	89	0	90	0	89	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	11323	11323	11312	11312	1	SRMc	82	0	89	0	82	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	11733	11733	11722	11722	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	11821	11821	11810	11810	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	11963	11963	11941	11941	1	SRMc	87	89	0	87	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12107	12107	12085	12085	1	SRMc	87	87	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12141	12141	12119	12119	1	SRMc	85	0	85	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12244	12244	12222	12222	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12290	12290	12268	12268	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12368	12368	12346	12346	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12500	12500	12478	12478	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12567	12567	12545	12545	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12661	12661	12639	12639	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12665	12665	12643	12643	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12689	12689	12667	12667	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12815	12815	12793	12793	1	SRMc	88	0	90	0	88	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	12855	12855	12833	12833	1	SRMc	82	82	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13015	13015	12993	12993	1	SRMc	90	0	90	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13137	13137	13115	13115	1	SRMc	81	0	81	0	88	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13251	13251	13227	13227	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13257	13257	13233	13233	1	IUPc							Strain 'tru2': Y
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13257	13257	13233	13233	1	STMS							Solved vote:  / txt (4) C 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13257	13257	13233	13233	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13258	13258	13234	13234	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13272	13272	13248	13248	1	IUPc							Strain 'tru2': W
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13272	13272	13248	13248	1	STMS							Solved vote:  / txt (4) A 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13272	13272	13248	13248	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13274	13274	13250	13250	1	IUPc							Strain 'tru2': Y
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13274	13274	13250	13250	1	STMS							Solved vote:  / txt (4) C 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13274	13274	13250	13250	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13276	13276	13252	13252	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13278	13278	13254	13254	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13279	13279	13255	13255	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13281	13281	13257	13257	1	SROc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13290	13290	13266	13266	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13294	13294	13270	13270	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13295	13295	13271	13271	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13303	13303	13279	13279	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13305	13305	13281	13281	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13340	13340	13316	13316	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13460	13460	13435	13435	1	SRMc	89	0	90	0	89	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13550	13550	13525	13525	1	SRMc	86	90	0	0	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13695	13695	13670	13670	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13702	13702	13677	13677	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13709	13709	13684	13684	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13847	13847	13822	13822	1	SRMc	90	90	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	13893	13893	13868	13868	1	SRMc	90	90	0	90	0	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14012	14012	13987	13987	1	SRMc	82	0	82	0	89	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14043	14043	14018	14018	1	SRMc	87	0	87	0	90	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14141	14141	14116	14116	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14228	14228	14203	14203	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14256	14256	14231	14231	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14303	14303	14278	14278	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14387	14387	14362	14362	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14390	14390	14365	14365	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14414	14414	14389	14389	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14623	14623	14598	14598	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14687	14687	14662	14662	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14692	14692	14667	14667	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14695	14695	14670	14670	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14697	14697	14672	14672	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14700	14700	14675	14675	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14735	14735	14710	14710	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14757	14757	14732	14732	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14762	14762	14737	14737	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14785	14785	14760	14760	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14799	14799	14774	14774	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb_bb_bb	14801	14801	14776	14776	1	ESDN							

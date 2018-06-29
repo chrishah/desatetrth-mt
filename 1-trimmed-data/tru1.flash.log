@@ -1,0 +1,161 @@
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     tru1-trimmed-min50-interleaved.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     -
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           65
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      32
+[FLASH]     Input format:          FASTQ, phred_offset=33, interleaved
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 32 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 75000 read pairs
+[FLASH] Processed 100000 read pairs
+[FLASH] Processed 125000 read pairs
+[FLASH] Processed 150000 read pairs
+[FLASH] Processed 175000 read pairs
+[FLASH] Processed 200000 read pairs
+[FLASH] Processed 225000 read pairs
+[FLASH] Processed 250000 read pairs
+[FLASH] Processed 275000 read pairs
+[FLASH] Processed 300000 read pairs
+[FLASH] Processed 325000 read pairs
+[FLASH] Processed 350000 read pairs
+[FLASH] Processed 375000 read pairs
+[FLASH] Processed 400000 read pairs
+[FLASH] Processed 425000 read pairs
+[FLASH] Processed 450000 read pairs
+[FLASH] Processed 475000 read pairs
+[FLASH] Processed 500000 read pairs
+[FLASH] Processed 525000 read pairs
+[FLASH] Processed 550000 read pairs
+[FLASH] Processed 575000 read pairs
+[FLASH] Processed 600000 read pairs
+[FLASH] Processed 625000 read pairs
+[FLASH] Processed 650000 read pairs
+[FLASH] Processed 675000 read pairs
+[FLASH] Processed 700000 read pairs
+[FLASH] Processed 725000 read pairs
+[FLASH] Processed 750000 read pairs
+[FLASH] Processed 775000 read pairs
+[FLASH] Processed 800000 read pairs
+[FLASH] Processed 825000 read pairs
+[FLASH] Processed 850000 read pairs
+[FLASH] Processed 875000 read pairs
+[FLASH] Processed 900000 read pairs
+[FLASH] Processed 925000 read pairs
+[FLASH] Processed 950000 read pairs
+[FLASH] Processed 975000 read pairs
+[FLASH] Processed 1000000 read pairs
+[FLASH] Processed 1025000 read pairs
+[FLASH] Processed 1050000 read pairs
+[FLASH] Processed 1075000 read pairs
+[FLASH] Processed 1100000 read pairs
+[FLASH] Processed 1125000 read pairs
+[FLASH] Processed 1150000 read pairs
+[FLASH] Processed 1175000 read pairs
+[FLASH] Processed 1200000 read pairs
+[FLASH] Processed 1225000 read pairs
+[FLASH] Processed 1250000 read pairs
+[FLASH] Processed 1275000 read pairs
+[FLASH] Processed 1300000 read pairs
+[FLASH] Processed 1325000 read pairs
+[FLASH] Processed 1350000 read pairs
+[FLASH] Processed 1375000 read pairs
+[FLASH] Processed 1400000 read pairs
+[FLASH] Processed 1425000 read pairs
+[FLASH] Processed 1450000 read pairs
+[FLASH] Processed 1475000 read pairs
+[FLASH] Processed 1500000 read pairs
+[FLASH] Processed 1525000 read pairs
+[FLASH] Processed 1550000 read pairs
+[FLASH] Processed 1575000 read pairs
+[FLASH] Processed 1600000 read pairs
+[FLASH] Processed 1625000 read pairs
+[FLASH] Processed 1650000 read pairs
+[FLASH] Processed 1675000 read pairs
+[FLASH] Processed 1700000 read pairs
+[FLASH] Processed 1725000 read pairs
+[FLASH] Processed 1750000 read pairs
+[FLASH] Processed 1775000 read pairs
+[FLASH] Processed 1800000 read pairs
+[FLASH] Processed 1825000 read pairs
+[FLASH] Processed 1850000 read pairs
+[FLASH] Processed 1875000 read pairs
+[FLASH] Processed 1900000 read pairs
+[FLASH] Processed 1925000 read pairs
+[FLASH] Processed 1950000 read pairs
+[FLASH] Processed 1975000 read pairs
+[FLASH] Processed 2000000 read pairs
+[FLASH] Processed 2025000 read pairs
+[FLASH] Processed 2050000 read pairs
+[FLASH] Processed 2075000 read pairs
+[FLASH] Processed 2100000 read pairs
+[FLASH] Processed 2125000 read pairs
+[FLASH] Processed 2150000 read pairs
+[FLASH] Processed 2175000 read pairs
+[FLASH] Processed 2200000 read pairs
+[FLASH] Processed 2225000 read pairs
+[FLASH] Processed 2250000 read pairs
+[FLASH] Processed 2275000 read pairs
+[FLASH] Processed 2300000 read pairs
+[FLASH] Processed 2325000 read pairs
+[FLASH] Processed 2350000 read pairs
+[FLASH] Processed 2375000 read pairs
+[FLASH] Processed 2400000 read pairs
+[FLASH] Processed 2425000 read pairs
+[FLASH] Processed 2450000 read pairs
+[FLASH] Processed 2475000 read pairs
+[FLASH] Processed 2500000 read pairs
+[FLASH] Processed 2525000 read pairs
+[FLASH] Processed 2550000 read pairs
+[FLASH] Processed 2575000 read pairs
+[FLASH] Processed 2600000 read pairs
+[FLASH] Processed 2625000 read pairs
+[FLASH] Processed 2650000 read pairs
+[FLASH] Processed 2675000 read pairs
+[FLASH] Processed 2700000 read pairs
+[FLASH] Processed 2725000 read pairs
+[FLASH] Processed 2750000 read pairs
+[FLASH] Processed 2775000 read pairs
+[FLASH] Processed 2800000 read pairs
+[FLASH] Processed 2825000 read pairs
+[FLASH] Processed 2850000 read pairs
+[FLASH] Processed 2875000 read pairs
+[FLASH] Processed 2900000 read pairs
+[FLASH] Processed 2925000 read pairs
+[FLASH] Processed 2950000 read pairs
+[FLASH] Processed 2975000 read pairs
+[FLASH] Processed 3000000 read pairs
+[FLASH] Processed 3025000 read pairs
+[FLASH] Processed 3050000 read pairs
+[FLASH] Processed 3075000 read pairs
+[FLASH] Processed 3100000 read pairs
+[FLASH] Processed 3111919 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      3111919
+[FLASH]     Combined pairs:   1062013
+[FLASH]     Uncombined pairs: 2049906
+[FLASH]     Percent combined: 34.13%
+[FLASH]  
+[FLASH] WARNING: An unexpectedly high proportion of combined pairs (26.52%)
+overlapped by more than 65 bp, the --max-overlap (-M) parameter.  Consider
+increasing this parameter.  (As-is, FLASH is penalizing overlaps longer than
+65 bp when considering them for possible combining!)
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 36.917 seconds elapsed
+[FLASH] Finished with 1 warning (see above)

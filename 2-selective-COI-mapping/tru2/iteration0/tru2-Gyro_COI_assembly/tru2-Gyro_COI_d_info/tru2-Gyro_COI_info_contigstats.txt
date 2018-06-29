@@ -1,0 +1,5 @@
+# name              	length	av.qual	#-reads	mx.cov.	av.cov	GC%	CnIUPAC	CnFunny	CnN	CnX	CnGap	CnNoCov
+KR080729.1|Gyrodactylus_truttae_COI_bb	1349	90	4930	421	360.52	35.58	0	0	0	0	0	0
+KR080712.1|Gyrodactylus_teuchis_COI_bb	1355	88	2187	314	161.55	36.46	0	0	0	0	0	0
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1657	64	45	12	5.43	34.70	3	0	0	0	0	0
+AF479750.4|Gyrodactylus_salaris_COI_bb	1687	33	6	8	3.06	40.13	0	0	0	0	0	0

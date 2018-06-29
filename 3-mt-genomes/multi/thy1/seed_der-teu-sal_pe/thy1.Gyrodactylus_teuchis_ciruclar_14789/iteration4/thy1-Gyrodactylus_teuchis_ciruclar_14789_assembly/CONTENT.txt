@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Nov  1  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_d_tmp
+drwxr-xr-x 2 4.0K Nov  1  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_d_info
+drwxr-xr-x 2 4.0K Nov  1  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_d_chkpt
+drwxr-xr-x 2 4.0K Nov  1  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_d_results

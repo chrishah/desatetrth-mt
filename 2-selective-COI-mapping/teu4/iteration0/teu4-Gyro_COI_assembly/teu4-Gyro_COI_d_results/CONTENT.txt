@@ -1,0 +1,18 @@
+total 18M
+-rwxr-xr-x 1 6.2K Nov  3  2016 teu4-Gyro_COI_out_Gyro_COI.unpadded.fasta
+-rwxr-xr-x 1  14K Nov  3  2016 teu4-Gyro_COI_out_teu4.unpadded.fasta.qual
+-rwxr-xr-x 1 5.2K Nov  3  2016 teu4-Gyro_COI_out.wig
+-rwxr-xr-x 1  19K Nov  3  2016 teu4-Gyro_COI_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 6.2K Nov  3  2016 teu4-Gyro_COI_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1  19K Nov  3  2016 teu4-Gyro_COI_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 6.2K Nov  3  2016 teu4-Gyro_COI_out_teu4.padded.fasta
+-rwxr-xr-x 1  373 Nov  3  2016 teu4-Gyro_COI_out.tcs
+-rwxr-xr-x 1 6.2K Nov  3  2016 teu4-Gyro_COI_out_AllStrains.padded.fasta
+-rwxr-xr-x 1  19K Nov  3  2016 teu4-Gyro_COI_out_Gyro_COI.padded.fasta.qual
+-rwxr-xr-x 1 6.2K Nov  3  2016 teu4-Gyro_COI_out_teu4.unpadded.fasta
+-rwxr-xr-x 1 6.2K Nov  3  2016 teu4-Gyro_COI_out_Gyro_COI.padded.fasta
+-rwxr-xr-x 1  19K Nov  3  2016 teu4-Gyro_COI_out_Gyro_COI.unpadded.fasta.qual
+-rwxr-xr-x 1  12M Nov  3  2016 teu4-Gyro_COI_out.caf
+-rwxr-xr-x 1 5.4M Nov  3  2016 teu4-Gyro_COI_out.maf
+-rwxr-xr-x 1   69 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1  14K Nov  3  2016 teu4-Gyro_COI_out_teu4.padded.fasta.qual

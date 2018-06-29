@@ -1,0 +1,42 @@
+Check for circularity.
+
+```bash
+~/src/MITObim/MITObim/misc_scripts/circules.py -f <(cat ../iteration2/temp_baitfile.fasta |grep "der" -A 1) -k 31
+```
+
+This yields 2 candidates for circularity. One of length 14740 and one of length 14739. Let's extract them.
+```bash
+~/src/MITObim/MITObim/misc_scripts/circules.py -f <(cat ../iteration2/temp_baitfile.fasta |grep "der" -A 1) -k 31 -p mix.der -e 14700
+```
+
+Evaluate the candidate of 14739 bp length.
+```bash
+mkdir eval.14739
+cd eval.14739
+/home/478358/src/MITObim/MITObim/MITObim_1.8.pl -end 0 --quick ../mix.der.14739.for-testing.fasta -readpool ../../../../../../1-trimmed-data/mix.extended.minlength-100bp.fastq.gz -sample mix_der -ref join.14739 --trimoverhang --missmatch 2
+
+cd iteration0/mix_der-join.14739_assembly/mix_der-join.14739_d_results/
+miraconvert mix_der-join.14739_out.maf mix_der-join.14739_out.ace
+cd ../../../
+cd ..
+```
+
+
+Evaluate the candidate of 14739 bp length.
+```bash
+mkdir eval.14740
+cd eval.14740
+/home/478358/src/MITObim/MITObim/MITObim_1.8.pl -end 0 --quick ../mix.der.14740.for-testing.fasta -readpool ../../../../../../1-trimmed-data/mix.extended.minlength-100bp.fastq.gz -sample mix_der -ref join.14740 --trimoverhang --missmatch 2
+
+cd iteration0/mix_der-join.14740_assembly/mix_der-join.14740_d_results/
+miraconvert mix_der-join.14740_out.maf mix_der-join.14740_out.ace
+cd ../../../
+cd ..
+```
+
+
+Rename the sequence.
+```bash
+cat mix.der.circular.14740.fasta | perl -ne 'chomp; if ($_ =~ />/){@a=split("_"); $out=">mix|Gyrodactylus_derjavinoides_$a[-2]_$a[-1]"; print "$out\n"}else{print "$_\n"}' > mix.der.circular.14740.renamed.fasta
+```
+

@@ -1,0 +1,51 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	1187	1187	1187	1187	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	1208	1208	1208	1208	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2039	2039	2039	2039	1	IUPc							Strain 'tru2': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2039	2039	2039	2039	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2039	2039	2039	2039	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2046	2046	2046	2046	1	IUPc							Strain 'tru2': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2046	2046	2046	2046	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2046	2046	2046	2046	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2218	2218	2218	2218	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2325	2325	2325	2325	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	2640	2640	2640	2640	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	3694	3694	3693	3693	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	3725	3725	3724	3724	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	4699	4699	4698	4698	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	6834	6834	6833	6833	1	IUPc							Strain 'tru2': M
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	6834	6834	6833	6833	1	STMS							Solved vote:  / txt (4) C 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	6834	6834	6833	6833	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	9192	9192	9191	9191	1	IUPc							Strain 'tru2': R
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	9192	9192	9191	9191	1	STMS							Solved vote:  / txt (4) A 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	9192	9192	9191	9191	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	9289	9289	-1	-1	1	WRMc	75	0	0	0	75	88	
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	9641	9641	9639	9639	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	9776	9776	9774	9774	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	9970	9970	9968	9968	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	10067	10067	10065	10065	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	10331	10331	10329	10329	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	10635	10635	10633	10633	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11305	11305	11303	11303	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11325	11325	11323	11323	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11334	11334	11332	11332	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11347	11347	11345	11345	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11358	11358	11356	11356	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11386	11386	11384	11384	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11403	11403	11401	11401	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11404	11404	11402	11402	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11903	11903	11901	11901	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11935	11935	11933	11933	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	11974	11974	11972	11972	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	12190	12190	12188	12188	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	12467	12467	12465	12465	1	IUPc							Strain 'tru2': Y
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	12467	12467	12465	12465	1	STMS							Solved vote:  / txt (4) T 30  is in  
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	12467	12467	12465	12465	1	UNSc							high
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	12498	12498	12496	12496	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	12507	12507	12505	12505	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	13319	13319	13317	13317	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	14116	14116	14114	14114	1	ESDN							
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb_bb_bb_bb	14534	14534	14532	14532	1	ESDN							

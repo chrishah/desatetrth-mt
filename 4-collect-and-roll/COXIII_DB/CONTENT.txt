@@ -1,0 +1,5 @@
+total 16K
+-rwxr-xr-x 1 104 Nov  3  2016 COXIII_references.pin
+-rwxr-xr-x 1 296 Nov  3  2016 COXIII_references.phr
+-rwxr-xr-x 1 427 Nov  3  2016 COXIII_references.psq
+-rwxr-xr-x 1 608 Nov  3  2016 COXIII.fasta

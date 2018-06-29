@@ -1,0 +1,9 @@
+total 104K
+drwxr-xr-x 3 4.0K Nov  3  2016 iteration3
+drwxr-xr-x 3 4.0K Nov  3  2016 iteration4
+-rwxr-xr-x 1  15K Nov  3  2016 Gyrodactylus_derjavinoides.reference.fasta
+-rwxr-xr-x 1  692 Nov  3  2016 tru2.Gyrodactylus_derjavinoides.MITObim.slurm.sh
+-rwxr-xr-x 1    0 Nov  3  2016 log.139292.err
+-rwxr-xr-x 1  224 Nov  3  2016 HOWTO
+-rwxr-xr-x 1  65K Nov  3  2016 tru2.Gyrodactylus_derjavinoides.interleaved.fastq.gz
+-rwxr-xr-x 1 3.0K Nov  3  2016 log.139292.out

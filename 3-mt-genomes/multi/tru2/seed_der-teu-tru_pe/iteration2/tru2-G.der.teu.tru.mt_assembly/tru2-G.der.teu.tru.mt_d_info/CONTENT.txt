@@ -1,0 +1,11 @@
+total 166M
+-rwxr-xr-x 1  443 Nov  3  2016 tru2-G.der.teu.tru.mt_info_WARNINGS_minor.txt
+-rwxr-xr-x 1 218K Nov  3  2016 tru2-G.der.teu.tru.mt_info_debrislist.txt
+-rwxr-xr-x 1  56K Nov  3  2016 tru2-G.der.teu.tru.mt_info_consensustaglist.txt
+-rwxr-xr-x 1 155M Nov  3  2016 tru2-G.der.teu.tru.mt_info_readtaglist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 tru2-G.der.teu.tru.mt_info_WARNINGS_critical.txt
+-rwxr-xr-x 1 2.6K Nov  3  2016 tru2-G.der.teu.tru.mt_info_assembly.txt
+-rwxr-xr-x 1  385 Nov  3  2016 tru2-G.der.teu.tru.mt_info_contigstats.txt
+-rwxr-xr-x 1    0 Nov  3  2016 tru2-G.der.teu.tru.mt_info_readrepeats.lst
+-rwxr-xr-x 1    0 Nov  3  2016 tru2-G.der.teu.tru.mt_info_WARNINGS_medium.txt
+-rwxr-xr-x 1  11M Nov  3  2016 tru2-G.der.teu.tru.mt_info_contigreadlist.txt

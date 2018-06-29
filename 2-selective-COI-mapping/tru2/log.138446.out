@@ -1,0 +1,81 @@
+
+MITObim - mitochondrial baiting and iterative mapping
+version 1.8
+author: Christoph Hahn, (c) 2012-2016
+
+quick option selected! -maf option will be ignored (if given)
+
+Full command run:
+/home/478358/src/MITObim/MITObim/MITObim_1.8.pl -end 1 --quick /home/478358/WORKING/GYRO/mt-genomes/2-selective-COI-mapping/GyrodactylusCOI.fasta -readpool tru2-reads.fastq -ref Gyro_COI -sample tru2 --clean --trimoverhang --missmatch 4
+
+All paramters seem to make sense:
+startiteration: 0
+enditeration: 1
+sample: tru2
+refname: Gyro_COI
+readpool: /home/478358/WORKING/GYRO/mt-genomes/2-selective-COI-mapping/tru2/tru2-reads.fastq
+maf: 0
+quick: /home/478358/WORKING/GYRO/mt-genomes/2-selective-COI-mapping/GyrodactylusCOI.fasta
+paired: 0 (off=0, on=1)
+assembly mode: 0 (mapping=0, denovo=1)
+verbose: 0 (off=0, on=1)
+split: 0 (off=0, on=1)
+minimum avg. coverage: 0 (off=0)
+clean: 1 (off=0, on=1)
+trim reads: 0 (off=0, on=1)
+trim overhang: 1 (no=0, yes=1)
+platform: solexa
+kmer baiting: 31
+number of missmatches in mapping assembly: 4
+proofreading: off
+
+Starting MITObim 
+
+==============
+ ITERATION 0
+==============
+Oct 28 21:43:15
+
+
+quick option baits reads from provided reference in iteration 0
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 7164 reads
+assembly contains 4 contig(s)
+min contig length: 1349 bp
+max contig length: 1687 bp
+avg contig length: 1512 bp
+find details on individual contigs in: /home/478358/WORKING/GYRO/mt-genomes/2-selective-COI-mapping/tru2/iteration0/tru2-Gyro_COI_assembly/tru2-Gyro_COI_d_info/tru2-Gyro_COI_info_contigstats.txt
+
+==============
+ ITERATION 1
+==============
+Oct 28 21:44:55
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 8276 reads
+assembly contains 4 contig(s)
+min contig length: 1349 bp
+max contig length: 1687 bp
+avg contig length: 1512 bp
+find details on individual contigs in: /home/478358/WORKING/GYRO/mt-genomes/2-selective-COI-mapping/tru2/iteration1/tru2-Gyro_COI_assembly/tru2-Gyro_COI_d_info/tru2-Gyro_COI_info_contigstats.txt
+
+successfully completed 1 iterations with MITObim! Oct 28 21:46:29
+
+if you found MITObim useful, please cite:
+Hahn C, Bachmann L and Chevreux B. (2013) Reconstructing mitochondrial genomes directly from genomic next-generation sequencing reads -
+a baiting and iterative mapping approach. Nucl. Acids Res. 41(13):e129. doi: 10.1093/nar/gkt371
+
+removed ‘tru2-reads.fastq’

@@ -1,0 +1,18 @@
+total 237M
+-rwxr-xr-x 1  310 Nov  3  2016 thy1-G.der.teu.sal.mt_out.tcs
+-rwxr-xr-x 1  45K Nov  3  2016 thy1-G.der.teu.sal.mt_out_G.der.teu.sal.mt.padded.fasta
+-rwxr-xr-x 1  34K Nov  3  2016 thy1-G.der.teu.sal.mt_out.wig
+-rwxr-xr-x 1  45K Nov  3  2016 thy1-G.der.teu.sal.mt_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 157M Nov  3  2016 thy1-G.der.teu.sal.mt_out.caf
+-rwxr-xr-x 1 133K Nov  3  2016 thy1-G.der.teu.sal.mt_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 123K Nov  3  2016 thy1-G.der.teu.sal.mt_out_thy1.padded.fasta.qual
+-rwxr-xr-x 1  45K Nov  3  2016 thy1-G.der.teu.sal.mt_out_thy1.padded.fasta
+-rwxr-xr-x 1  45K Nov  3  2016 thy1-G.der.teu.sal.mt_out_AllStrains.padded.fasta
+-rwxr-xr-x 1   93 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1 133K Nov  3  2016 thy1-G.der.teu.sal.mt_out_G.der.teu.sal.mt.padded.fasta.qual
+-rwxr-xr-x 1  45K Nov  3  2016 thy1-G.der.teu.sal.mt_out_G.der.teu.sal.mt.unpadded.fasta
+-rwxr-xr-x 1 123K Nov  3  2016 thy1-G.der.teu.sal.mt_out_thy1.unpadded.fasta.qual
+-rwxr-xr-x 1 133K Nov  3  2016 thy1-G.der.teu.sal.mt_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1  45K Nov  3  2016 thy1-G.der.teu.sal.mt_out_thy1.unpadded.fasta
+-rwxr-xr-x 1 133K Nov  3  2016 thy1-G.der.teu.sal.mt_out_G.der.teu.sal.mt.unpadded.fasta.qual
+-rwxr-xr-x 1  80M Nov  3  2016 thy1-G.der.teu.sal.mt_out.maf

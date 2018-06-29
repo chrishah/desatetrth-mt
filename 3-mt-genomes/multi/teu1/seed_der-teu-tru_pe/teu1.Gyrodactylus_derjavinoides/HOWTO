@@ -1,0 +1,7 @@
+Check for circularity.
+
+```bash
+~/src/MITObim/MITObim/misc_scripts/circules.py -f <(cat iteration2/temp_baitfile.fasta |grep "der" -A 1) -k 31
+```
+
+No circularity found - mostly Ns.

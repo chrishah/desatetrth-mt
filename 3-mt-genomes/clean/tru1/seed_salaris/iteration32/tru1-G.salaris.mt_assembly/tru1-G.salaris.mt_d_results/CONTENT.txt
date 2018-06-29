@@ -1,0 +1,17 @@
+total 5.1M
+-rwxr-xr-x 1  12K Nov  3  2016 tru1-G.salaris.mt_out.wig
+-rwxr-xr-x 1  46K Nov  3  2016 tru1-G.salaris.mt_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 3.2M Nov  3  2016 tru1-G.salaris.mt_out.caf
+-rwxr-xr-x 1  46K Nov  3  2016 tru1-G.salaris.mt_out_G.salaris.mt.padded.fasta.qual
+-rwxr-xr-x 1  16K Nov  3  2016 tru1-G.salaris.mt_out_AllStrains.padded.fasta
+-rwxr-xr-x 1  16K Nov  3  2016 tru1-G.salaris.mt_out_tru1.padded.fasta
+-rwxr-xr-x 1  184 Nov  3  2016 tru1-G.salaris.mt_out.tcs
+-rwxr-xr-x 1  16K Nov  3  2016 tru1-G.salaris.mt_out_G.salaris.mt.unpadded.fasta
+-rwxr-xr-x 1  46K Nov  3  2016 tru1-G.salaris.mt_out_tru1.padded.fasta.qual
+-rwxr-xr-x 1  16K Nov  3  2016 tru1-G.salaris.mt_out_tru1.unpadded.fasta
+-rwxr-xr-x 1  16K Nov  3  2016 tru1-G.salaris.mt_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1  46K Nov  3  2016 tru1-G.salaris.mt_out_tru1.unpadded.fasta.qual
+-rwxr-xr-x 1  46K Nov  3  2016 tru1-G.salaris.mt_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 1.6M Nov  3  2016 tru1-G.salaris.mt_out.maf
+-rwxr-xr-x 1  46K Nov  3  2016 tru1-G.salaris.mt_out_G.salaris.mt.unpadded.fasta.qual
+-rwxr-xr-x 1  16K Nov  3  2016 tru1-G.salaris.mt_out_G.salaris.mt.padded.fasta

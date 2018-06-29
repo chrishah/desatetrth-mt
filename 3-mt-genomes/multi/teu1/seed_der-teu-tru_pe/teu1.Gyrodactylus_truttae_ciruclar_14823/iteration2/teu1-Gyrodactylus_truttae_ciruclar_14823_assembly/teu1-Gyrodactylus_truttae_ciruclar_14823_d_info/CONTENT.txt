@@ -1,0 +1,11 @@
+total 808K
+-rwxr-xr-x 1    0 Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_debrislist.txt
+-rwxr-xr-x 1  193 Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_contigstats.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_readrepeats.lst
+-rwxr-xr-x 1  87K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_contigreadlist.txt
+-rwxr-xr-x 1 4.2K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_consensustaglist.txt
+-rwxr-xr-x 1 2.5K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_assembly.txt
+-rwxr-xr-x 1  443 Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_WARNINGS_medium.txt
+-rwxr-xr-x 1 699K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_info_readtaglist.txt

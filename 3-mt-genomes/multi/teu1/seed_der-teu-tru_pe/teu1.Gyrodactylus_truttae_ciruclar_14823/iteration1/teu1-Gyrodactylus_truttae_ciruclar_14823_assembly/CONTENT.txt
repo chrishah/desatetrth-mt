@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 2 4.0K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_d_tmp
+drwxr-xr-x 2 4.0K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_d_info
+drwxr-xr-x 2 4.0K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_d_chkpt
+drwxr-xr-x 2 4.0K Nov  3  2016 teu1-Gyrodactylus_truttae_ciruclar_14823_d_results

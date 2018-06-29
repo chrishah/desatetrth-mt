@@ -1,0 +1,10 @@
+total 56K
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration4
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration5
+-rwxr-xr-x 1 1013 Nov  3  2016 sal.14785.for-testing.fasta
+-rwxr-xr-x 1 3.3K Nov  3  2016 log.138452.out
+-rwxr-xr-x 1  730 Nov  3  2016 MITObim.salaris.seed.slurm.sh
+-rwxr-xr-x 1    0 Nov  3  2016 log.138452.err
+-rwxr-xr-x 1  15K Nov  3  2016 sal.circular.14785.renamed.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 sal.circular.14785.fasta
+-rwxr-xr-x 1  708 Nov  3  2016 HOWTO

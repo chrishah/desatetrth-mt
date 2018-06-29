@@ -1,0 +1,11 @@
+total 160M
+-rwxr-xr-x 1    0 Nov  3  2016 sal-G.salaris.mt_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  3  2016 sal-G.salaris.mt_info_readrepeats.lst
+-rwxr-xr-x 1 8.8M Nov  3  2016 sal-G.salaris.mt_info_contigreadlist.txt
+-rwxr-xr-x 1  40K Nov  3  2016 sal-G.salaris.mt_info_consensustaglist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 sal-G.salaris.mt_info_WARNINGS_minor.txt
+-rwxr-xr-x 1 2.6K Nov  3  2016 sal-G.salaris.mt_info_assembly.txt
+-rwxr-xr-x 1  51K Nov  3  2016 sal-G.salaris.mt_info_debrislist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 sal-G.salaris.mt_info_WARNINGS_medium.txt
+-rwxr-xr-x 1 151M Nov  3  2016 sal-G.salaris.mt_info_readtaglist.txt
+-rwxr-xr-x 1  197 Nov  3  2016 sal-G.salaris.mt_info_contigstats.txt

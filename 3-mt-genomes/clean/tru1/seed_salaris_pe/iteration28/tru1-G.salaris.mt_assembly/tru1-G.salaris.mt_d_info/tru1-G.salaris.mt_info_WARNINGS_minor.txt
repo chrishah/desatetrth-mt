@@ -1,0 +1,10 @@
+MIRA warncode: READGROUP_UNEXPECTED_PAIRS
+Title: Unexpected pairs in readgroup
+
+In readgroup 2 (named: 'reads') paired reads were found but no pairing
+information given in the manifest. MIRA will estimate 'template_size' and
+'segment_placement'.
+You can suppress this warning by using the keyword 'autopairing' in the
+readgroup definition of the manifest file.
+
+--------------------------------------------------------------------------------

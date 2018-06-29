@@ -1,0 +1,11 @@
+total 14M
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-Gyro_COI_info_WARNINGS_critical.txt
+-rwxr-xr-x 1  13M Nov  3  2016 thy1-Gyro_COI_info_readtaglist.txt
+-rwxr-xr-x 1  443 Nov  3  2016 thy1-Gyro_COI_info_WARNINGS_minor.txt
+-rwxr-xr-x 1  437 Nov  3  2016 thy1-Gyro_COI_info_contigstats.txt
+-rwxr-xr-x 1 6.8K Nov  3  2016 thy1-Gyro_COI_info_consensustaglist.txt
+-rwxr-xr-x 1  20K Nov  3  2016 thy1-Gyro_COI_info_debrislist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-Gyro_COI_info_WARNINGS_medium.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-Gyro_COI_info_readrepeats.lst
+-rwxr-xr-x 1 923K Nov  3  2016 thy1-Gyro_COI_info_contigreadlist.txt
+-rwxr-xr-x 1 2.5K Nov  3  2016 thy1-Gyro_COI_info_assembly.txt

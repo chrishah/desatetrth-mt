@@ -1,0 +1,7 @@
+total 48M
+-rwxr-xr-x 1  15K Nov  4  2016 temp_baitfile.fasta
+-rwxr-xr-x 1 449K Nov  4  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  4  2016 backbone_it3_initial_Gyrodactylus_teuchis_ciruclar_14789.fna
+-rwxr-xr-x 1  48M Nov  4  2016 teu1-readpool-it3.fastq
+-rwxr-xr-x 1  467 Nov  4  2016 manifest.conf
+drwxr-xr-x 6 4.0K Nov  4  2016 teu1-Gyrodactylus_teuchis_ciruclar_14789_assembly

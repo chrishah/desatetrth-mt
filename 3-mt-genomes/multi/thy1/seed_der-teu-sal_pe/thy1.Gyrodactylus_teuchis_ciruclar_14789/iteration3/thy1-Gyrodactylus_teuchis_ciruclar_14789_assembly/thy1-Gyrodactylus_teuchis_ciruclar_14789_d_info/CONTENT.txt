@@ -1,0 +1,11 @@
+total 160K
+-rwxr-xr-x 1 2.5K Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_assembly.txt
+-rwxr-xr-x 1  197 Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_contigstats.txt
+-rwxr-xr-x 1  443 Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_WARNINGS_critical.txt
+-rwxr-xr-x 1  633 Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_readrepeats.lst
+-rwxr-xr-x 1  25K Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_contigreadlist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_debrislist.txt
+-rwxr-xr-x 1 1.9K Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_consensustaglist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_WARNINGS_medium.txt
+-rwxr-xr-x 1 112K Nov  3  2016 thy1-Gyrodactylus_teuchis_ciruclar_14789_info_readtaglist.txt

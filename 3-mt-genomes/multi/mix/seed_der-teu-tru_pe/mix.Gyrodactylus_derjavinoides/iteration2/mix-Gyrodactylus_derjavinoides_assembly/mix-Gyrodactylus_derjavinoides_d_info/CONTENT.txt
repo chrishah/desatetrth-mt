@@ -1,0 +1,11 @@
+total 41M
+-rwxr-xr-x 1  28K Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_consensustaglist.txt
+-rwxr-xr-x 1 2.7M Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_contigreadlist.txt
+-rwxr-xr-x 1  38M Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_readtaglist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_readrepeats.lst
+-rwxr-xr-x 1    0 Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_WARNINGS_critical.txt
+-rwxr-xr-x 1  194 Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_contigstats.txt
+-rwxr-xr-x 1 2.6K Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_assembly.txt
+-rwxr-xr-x 1  443 Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_WARNINGS_medium.txt
+-rwxr-xr-x 1 6.9K Nov  3  2016 mix-Gyrodactylus_derjavinoides_info_debrislist.txt

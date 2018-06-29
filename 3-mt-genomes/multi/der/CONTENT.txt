@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x 6 4.0K Oct 30  2016 seed_sal-der
+drwxr-xr-x 6 4.0K Nov  1  2016 seed_sal-der_pe
+-rwxr-xr-x 1   67 Nov  3  2016 der_sp-proportions.txt
+-rwxr-xr-x 1  591 Nov  3  2016 HOWTO

@@ -1,0 +1,7 @@
+total 8.2M
+drwxr-xr-x 6 4.0K Oct 29  2016 teu2-G.derjavinoides.mt_assembly
+-rwxr-xr-x 1 445K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  16K Nov  3  2016 backbone_it21_initial_G.derjavinoides.mt.fna
+-rwxr-xr-x 1 7.7M Nov  3  2016 teu2-readpool-it21.fastq
+-rwxr-xr-x 1  409 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  16K Nov  3  2016 temp_baitfile.fasta

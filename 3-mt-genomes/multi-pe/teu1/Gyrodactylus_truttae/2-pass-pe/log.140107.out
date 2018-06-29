@@ -1,0 +1,497 @@
+
+MITObim - mitochondrial baiting and iterative mapping
+version 1.8
+author: Christoph Hahn, (c) 2012-2016
+
+quick option selected! -maf option will be ignored (if given)
+
+Full command run:
+/home/478358/src/MITObim/MITObim/MITObim_1.8.pl -end 100 --quick /home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/clean/tru1/seed_salaris_pe/tru1.circular.14823.renamed.fasta -readpool teu1-reads.fastq -ref Gyrodactylus_truttae -sample teu1 --clean --missmatch 1
+
+All paramters seem to make sense:
+startiteration: 0
+enditeration: 100
+sample: teu1
+refname: Gyrodactylus_truttae
+readpool: /home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/multi-pe/teu1/Gyrodactylus_truttae/2-pass-pe/teu1-reads.fastq
+maf: 0
+quick: /home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/clean/tru1/seed_salaris_pe/tru1.circular.14823.renamed.fasta
+paired: 0 (off=0, on=1)
+assembly mode: 0 (mapping=0, denovo=1)
+verbose: 0 (off=0, on=1)
+split: 0 (off=0, on=1)
+minimum avg. coverage: 0 (off=0)
+clean: 1 (off=0, on=1)
+trim reads: 0 (off=0, on=1)
+trim overhang: 0 (no=0, yes=1)
+platform: solexa
+kmer baiting: 31
+number of missmatches in mapping assembly: 1
+proofreading: off
+
+Starting MITObim 
+
+==============
+ ITERATION 0
+==============
+Nov  4 13:14:15
+
+
+quick option baits reads from provided reference in iteration 0
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 15258 reads
+assembly contains 1 contig(s)
+contig length: 14909
+
+==============
+ ITERATION 1
+==============
+Nov  4 13:14:29
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 35784 reads
+assembly contains 1 contig(s)
+contig length: 14905
+
+==============
+ ITERATION 2
+==============
+Nov  4 13:14:49
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 50968 reads
+assembly contains 1 contig(s)
+contig length: 14895
+
+now removing directory iteration0
+
+==============
+ ITERATION 3
+==============
+Nov  4 13:15:15
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 61472 reads
+assembly contains 1 contig(s)
+contig length: 14901
+
+now removing directory iteration1
+
+==============
+ ITERATION 4
+==============
+Nov  4 13:15:46
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 73033 reads
+assembly contains 1 contig(s)
+contig length: 14896
+
+now removing directory iteration2
+
+==============
+ ITERATION 5
+==============
+Nov  4 13:16:21
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 79840 reads
+assembly contains 1 contig(s)
+contig length: 14901
+
+now removing directory iteration3
+
+==============
+ ITERATION 6
+==============
+Nov  4 13:17:00
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 86392 reads
+assembly contains 1 contig(s)
+contig length: 14904
+
+now removing directory iteration4
+
+==============
+ ITERATION 7
+==============
+Nov  4 13:17:41
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 91312 reads
+assembly contains 1 contig(s)
+contig length: 14896
+
+now removing directory iteration5
+
+==============
+ ITERATION 8
+==============
+Nov  4 13:18:26
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 97593 reads
+assembly contains 1 contig(s)
+contig length: 14908
+
+now removing directory iteration6
+
+==============
+ ITERATION 9
+==============
+Nov  4 13:19:12
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 101045 reads
+assembly contains 1 contig(s)
+contig length: 14912
+
+now removing directory iteration7
+
+==============
+ ITERATION 10
+==============
+Nov  4 13:20:00
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 105294 reads
+assembly contains 1 contig(s)
+contig length: 14904
+
+now removing directory iteration8
+
+==============
+ ITERATION 11
+==============
+Nov  4 13:20:48
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 108941 reads
+assembly contains 1 contig(s)
+contig length: 14908
+
+now removing directory iteration9
+
+==============
+ ITERATION 12
+==============
+Nov  4 13:21:41
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 113612 reads
+assembly contains 1 contig(s)
+contig length: 14912
+
+now removing directory iteration10
+
+==============
+ ITERATION 13
+==============
+Nov  4 13:22:33
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 117407 reads
+assembly contains 1 contig(s)
+contig length: 14904
+
+now removing directory iteration11
+
+==============
+ ITERATION 14
+==============
+Nov  4 13:23:28
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 121348 reads
+assembly contains 1 contig(s)
+contig length: 14908
+
+now removing directory iteration12
+
+==============
+ ITERATION 15
+==============
+Nov  4 13:24:25
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 124846 reads
+assembly contains 1 contig(s)
+contig length: 14912
+
+now removing directory iteration13
+
+==============
+ ITERATION 16
+==============
+Nov  4 13:25:22
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 128310 reads
+assembly contains 1 contig(s)
+contig length: 14904
+
+now removing directory iteration14
+
+==============
+ ITERATION 17
+==============
+Nov  4 13:26:22
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 130725 reads
+assembly contains 1 contig(s)
+contig length: 14903
+
+now removing directory iteration15
+
+==============
+ ITERATION 18
+==============
+Nov  4 13:27:23
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 131611 reads
+assembly contains 1 contig(s)
+contig length: 14907
+
+now removing directory iteration16
+
+==============
+ ITERATION 19
+==============
+Nov  4 13:28:24
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 132407 reads
+assembly contains 1 contig(s)
+contig length: 14899
+
+now removing directory iteration17
+
+==============
+ ITERATION 20
+==============
+Nov  4 13:29:25
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 133103 reads
+assembly contains 1 contig(s)
+contig length: 14903
+
+now removing directory iteration18
+
+==============
+ ITERATION 21
+==============
+Nov  4 13:30:26
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 133404 reads
+assembly contains 1 contig(s)
+contig length: 14907
+
+now removing directory iteration19
+
+==============
+ ITERATION 22
+==============
+Nov  4 13:31:27
+
+
+recover backbone by running miraconvert on maf file
+
+
+fishing readpool using mirabait (k = 31)
+
+
+running mapping assembly using MIRA
+
+readpool contains 133306 reads
+assembly contains 1 contig(s)
+contig length: 14899
+
+now removing directory iteration20
+
+MITObim has reached a stationary read number after 22 iterations!!
+
+if you found MITObim useful, please cite:
+Hahn C, Bachmann L and Chevreux B. (2013) Reconstructing mitochondrial genomes directly from genomic next-generation sequencing reads -
+a baiting and iterative mapping approach. Nucl. Acids Res. 41(13):e129. doi: 10.1093/nar/gkt371
+
+Nov  4 13:32:28
+
+removed ‘teu1-reads.fastq’

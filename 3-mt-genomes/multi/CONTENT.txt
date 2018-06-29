@@ -1,0 +1,8 @@
+total 28K
+drwxr-xr-x 4 4.0K Nov  1  2016 der
+drwxr-xr-x 4 4.0K Nov  1  2016 let
+drwxr-xr-x 4 4.0K Nov  1  2016 teu3
+drwxr-xr-x 4 4.0K Nov  1  2016 thy1
+drwxr-xr-x 4 4.0K Nov  1  2016 mix
+drwxr-xr-x 4 4.0K Nov  1  2016 teu1
+drwxr-xr-x 4 4.0K Nov  1  2016 tru2

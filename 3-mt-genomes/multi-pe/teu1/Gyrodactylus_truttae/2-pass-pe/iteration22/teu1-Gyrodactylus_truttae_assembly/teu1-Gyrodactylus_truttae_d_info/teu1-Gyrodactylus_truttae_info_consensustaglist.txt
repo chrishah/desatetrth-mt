@@ -1,0 +1,252 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	1629	1629	1629	1629	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2817	2817	2817	2817	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2824	2824	2824	2824	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	2910	2910	2910	2910	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3013	3013	3013	3013	1	SRMc	81	90	0	81	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3134	3134	3134	3134	1	SRMc	26	80	90	0	26	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3224	3224	3224	3224	1	SRMc	79	79	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3338	3338	3338	3338	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3346	3346	3346	3346	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3350	3350	3350	3350	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3354	3354	3354	3354	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3458	3458	3458	3458	1	SRMc	76	0	0	90	76	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3504	3504	3504	3504	1	SRMc	73	0	0	90	73	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3751	3751	3751	3751	1	SRMc	85	90	85	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3864	3864	3864	3864	1	SRMc	89	0	0	90	89	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	3982	3982	3982	3982	1	SRMc	77	0	0	90	77	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4115	4115	4115	4115	1	SRMc	83	0	86	0	83	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4277	4277	4277	4277	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4412	4412	4410	4410	1	SRMc	88	90	0	0	0	88	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4413	4413	4411	4411	1	WRMc	85	90	0	0	0	85	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4552	4552	4549	4549	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4605	4605	4602	4602	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4617	4617	4614	4614	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4647	4647	4644	4644	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4666	4666	4663	4663	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4817	4817	4814	4814	1	SRMc	89	89	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4870	4870	4867	4867	1	SRMc	82	0	0	90	82	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	4938	4938	4935	4935	1	SRMc	80	0	0	90	80	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5046	5046	5043	5043	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5081	5081	5069	5069	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5089	5089	5077	5077	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5093	5093	5081	5081	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5095	5095	5083	5083	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5098	5098	5086	5086	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5101	5101	5089	5089	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5102	5102	5090	5090	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5111	5111	5099	5099	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5113	5113	5101	5101	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5136	5136	5124	5124	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5149	5149	5137	5137	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5150	5150	5138	5138	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5175	5175	5163	5163	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5178	5178	5166	5166	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5226	5226	5214	5214	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5250	5250	5238	5238	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5259	5259	5247	5247	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5261	5261	5249	5249	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5281	5281	5269	5269	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5290	5290	5278	5278	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5305	5305	5293	5293	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5310	5310	5298	5298	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5383	5383	5371	5371	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5398	5398	5386	5386	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5430	5430	5418	5418	1	IUPc							Strain 'teu1': K
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5430	5430	5418	5418	1	STMS							Solved vote:  / txt (4) G 30  is in  
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5430	5430	5418	5418	1	UNSc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5473	5473	5461	5461	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5485	5485	5473	5473	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	5494	5494	5482	5482	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6082	6082	6070	6070	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6089	6089	6077	6077	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6115	6115	6103	6103	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6175	6175	6163	6163	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6228	6228	6216	6216	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6270	6270	6257	6257	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6272	6272	6259	6259	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6278	6278	6265	6265	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6287	6287	6274	6274	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6393	6393	6380	6380	1	SRMc	78	0	0	90	78	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6518	6518	6505	6505	1	SRMc	36	75	90	0	0	36	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6576	6576	6563	6563	1	SRMc	83	0	0	90	83	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6692	6692	6679	6679	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6694	6694	6681	6681	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6696	6696	6683	6683	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6706	6706	6693	6693	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6713	6713	6700	6700	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6729	6729	6716	6716	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6732	6732	6719	6719	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6771	6771	6758	6758	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6780	6780	6767	6767	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6781	6781	6768	6768	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6785	6785	6772	6772	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6796	6796	6783	6783	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	6918	6918	6905	6905	1	SRMc	80	0	0	90	80	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7061	7061	7048	7048	1	SRMc	83	0	0	90	83	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7072	7072	7059	7059	1	IUPc							Strain 'teu1': M
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7072	7072	7059	7059	1	STMS							Solved vote:  / txt (4) C 30  is in  
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7072	7072	7059	7059	1	UNSc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7078	7078	7064	7064	1	SRMc	87	0	0	0	90	87	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7079	7079	-1	-1	1	SRMc	31	31	0	0	82	90	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7268	7268	7253	7253	1	SRMc	82	82	90	0	84	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7401	7401	7386	7386	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7437	7437	7422	7422	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7446	7446	7431	7431	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7447	7447	7432	7432	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7513	7513	7498	7498	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7519	7519	7504	7504	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7523	7523	7508	7508	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7526	7526	7511	7511	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7569	7569	7554	7554	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7577	7577	7562	7562	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7599	7599	7584	7584	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7604	7604	7589	7589	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7621	7621	7606	7606	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7626	7626	7611	7611	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7639	7639	7624	7624	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7672	7672	7657	7657	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7678	7678	7663	7663	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7680	7680	7665	7665	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7682	7682	7667	7667	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7684	7684	7669	7669	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7685	7685	7670	7670	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7686	7686	7671	7671	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7690	7690	7675	7675	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7693	7693	7678	7678	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7713	7713	7698	7698	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7731	7731	7716	7716	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7732	7732	7717	7717	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7770	7770	7755	7755	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7772	7772	7757	7757	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7774	7774	7759	7759	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7786	7786	7771	7771	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7789	7789	7774	7774	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7790	7790	7775	7775	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7794	7794	7779	7779	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7795	7795	7780	7780	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7854	7854	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7855	7855	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7856	7856	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7857	7857	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7858	7858	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7859	7859	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7860	7860	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7861	7861	-1	-1	1	SROc							high
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	7872	7872	7849	7849	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8015	8015	7992	7992	1	SRMc	75	0	0	90	75	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8136	8136	8113	8113	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8149	8149	8126	8126	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8281	8281	8258	8258	1	SRMc	83	83	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8459	8459	8436	8436	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8484	8484	8461	8461	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8488	8488	8465	8465	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8489	8489	8466	8466	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8491	8491	8468	8468	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8548	8548	8525	8525	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8566	8566	8543	8543	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8585	8585	8562	8562	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8589	8589	8566	8566	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8613	8613	8590	8590	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8729	8729	8706	8706	1	SRMc	86	86	0	90	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8781	8781	8758	8758	1	SRMc	90	0	90	0	90	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8906	8906	8883	8883	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8935	8935	8912	8912	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	8952	8952	8929	8929	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9059	9059	9036	9036	1	SRMc	90	90	0	90	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9223	9223	9200	9200	1	SRMc	81	81	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9339	9339	9316	9316	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9341	9341	9318	9318	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9361	9361	9338	9338	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9367	9367	9344	9344	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9370	9370	9347	9347	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9425	9425	9402	9402	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9563	9563	9540	9540	1	SRMc	90	0	0	90	90	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9579	9579	9556	9556	1	SRMc	85	85	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9684	9684	9661	9661	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9685	9685	9662	9662	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9696	9696	9673	9673	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9721	9721	9698	9698	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9748	9748	9725	9725	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9908	9908	9885	9885	1	SRMc	33	87	90	0	33	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9918	9918	9895	9895	1	SRMc	88	0	0	90	88	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	9965	9965	9942	9942	1	SRMc	84	0	0	90	84	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10073	10073	10050	10050	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10074	10074	10051	10051	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10075	10075	10052	10052	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10076	10076	10053	10053	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10091	10091	10068	10068	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10093	10093	10070	10070	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10131	10131	10108	10108	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10147	10147	10124	10124	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10150	10150	10127	10127	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10153	10153	10130	10130	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10183	10183	10160	10160	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10200	10200	10177	10177	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10328	10328	10305	10305	1	SRMc	81	0	0	90	81	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10375	10375	10352	10352	1	SRMc	81	0	0	90	81	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10476	10476	10453	10453	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10481	10481	10458	10458	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10487	10487	10464	10464	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10520	10520	10497	10497	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10535	10535	10512	10512	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10560	10560	10537	10537	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10562	10562	10539	10539	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10565	10565	10542	10542	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10606	10606	10583	10583	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10650	10650	10627	10627	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10704	10704	10681	10681	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10723	10723	10700	10700	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	10852	10852	10829	10829	1	SRMc	88	0	0	90	88	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11059	11059	11036	11036	1	SRMc	84	0	0	90	84	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11210	11210	11187	11187	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11219	11219	11196	11196	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11250	11250	11227	11227	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11258	11258	11235	11235	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11259	11259	11236	11236	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11261	11261	11238	11238	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11267	11267	11244	11244	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11268	11268	11245	11245	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11278	11278	11255	11255	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11280	11280	11257	11257	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11283	11283	11260	11260	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11289	11289	11266	11266	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11303	11303	11280	11280	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11305	11305	11282	11282	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11311	11311	11288	11288	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11312	11312	11289	11289	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11317	11317	11294	11294	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11320	11320	11297	11297	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11326	11326	11303	11303	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11328	11328	11305	11305	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11429	11429	11406	11406	1	SRMc	87	0	0	90	87	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11452	11452	11429	11429	1	SRMc	76	76	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11625	11625	11602	11602	1	SRMc	30	82	90	0	0	30	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11752	11752	11729	11729	1	SRMc	85	0	0	90	85	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11869	11869	11846	11846	1	SRMc	27	84	89	27	0	37	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	11910	11910	11886	11886	1	WRMc	79	90	0	0	0	79	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12025	12025	12001	12001	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12026	12026	12002	12002	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12144	12144	12120	12120	1	SRMc	85	0	0	90	85	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12171	12171	12147	12147	1	SRMc	86	0	0	90	86	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12273	12273	12249	12249	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12483	12483	12459	12459	1	SRMc	79	0	0	90	79	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12584	12584	12560	12560	1	SRMc	90	90	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12756	12756	12732	12732	1	SRMc	71	71	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12777	12777	12753	12753	1	SRMc	83	83	90	0	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	12912	12912	12888	12888	1	SRMc	29	29	90	76	0	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13056	13056	13032	13032	1	SRMc	83	0	90	0	83	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13127	13127	13103	13103	1	SRMc	78	0	78	0	90	0	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13343	13343	-1	-1	1	WRMc	81	81	0	0	0	83	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13344	13344	13318	13318	1	SRMc	81	89	0	0	0	81	
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13473	13473	13446	13446	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13476	13476	13449	13449	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13568	13568	13541	13541	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13599	13599	13572	13572	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13633	13633	13606	13606	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13644	13644	13617	13617	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13656	13656	13629	13629	1	ESDN							
+tru1|Gyrodactylus_truttae_ciruclar_14823_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb_bb	13781	13781	13753	13753	1	SRMc	78	0	0	90	78	0	

@@ -1,0 +1,26 @@
+Extract the relevant information from the results table of the selective COI mapping.
+
+```bash
+cat ../../../2-selective-COI-mapping/table.tsv |cut -f 1,3 > let_sp-proportions.txt
+```
+
+Prepare reference to be used for this sample.
+
+```bash
+mkdir seed_sal-der
+cat ../../references/G.* > seed_sal-der/G.sal-der.mt.fasta
+```
+
+Run MITObim using both mitogenomes as reference at the same time and allowing for only 2 mismatches per read.
+
+
+
+####
+Rerun with paired end data.
+
+```bash
+mkdir seed_sal-der_pe
+cat ../../references/G.* > seed_sal-der_pe/G.sal-der.mt.fasta
+cd seed_sal-der_pe
+```
+

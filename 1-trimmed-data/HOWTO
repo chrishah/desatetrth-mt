@@ -1,0 +1,12 @@
+#extend using flash and keep only extended fragments that are longer than 100 bp
+for a in $(ls -1 . | cut -d "-" -f 1 |sort -n | uniq); do echo -e "\nprocessing: $a"; flash --interleaved-input $a-trimmed-min50-interleaved.fastq.gz --to-stdout 2> $a.flash.log| perl -ne '$h=$_; $s=<>; $p=<>; $q=<>; if (length($s) > 100){print "$h$s$p$q"}' | gzip > $a.extended.minlength-100bp.fastq.gz; done
+
+qsub merge.qsub
+
+
+#extract only sequences of at least 120bp length
+for a in $(ls -1 *interleaved* | cut -d "-" -f 1 |sort -n | uniq)
+do
+        echo -e "\nprocessing: $a"
+	zcat $a.extended.minlength-100bp.fastq.gz | perl -ne '$h=$_; $s=<>; $p=<>; $q=<>; if (length($s) > 120){print "$h$s$p$q"}' | gzip > $a.extended.minlength-120bp.fastq.gz
+done

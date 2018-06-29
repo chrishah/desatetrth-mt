@@ -1,0 +1,9 @@
+total 1.1M
+-rwxr-xr-x 1 278K Jun 24  2016 Gyro Mito alignment.fas
+-rwxr-xr-x 1 262K Nov  3  2016 new-seqs.fas
+-rwxr-xr-x 1 159K Nov  3  2016 der-fin.fas
+-rwxr-xr-x 1 102K Nov  3  2016 teuchis-align-fin.fas
+-rwxr-xr-x 1  73K Nov  3  2016 tru-fin.fas
+-rwxr-xr-x 1 189K Nov  3  2016 thy-sal.fas
+drwxr-xr-x 2 4.0K Jun  7 23:28 teu1
+drwxrwxr-x 2 4.0K Jun  7 23:43 teu1_2

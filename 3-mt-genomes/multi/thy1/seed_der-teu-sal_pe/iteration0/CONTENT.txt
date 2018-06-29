@@ -1,0 +1,7 @@
+total 33M
+drwxr-xr-x 6 4.0K Nov  1  2016 thy1-G.der.teu.sal.mt_assembly
+-rwxr-xr-x 1 1.3M Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  32M Nov  3  2016 thy1-readpool-it0.fastq
+-rwxr-xr-x 1  44K Nov  3  2016 backbone_it0_initial_G.der.teu.sal.mt.fna
+-rwxr-xr-x 1  410 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  44K Nov  3  2016 temp_baitfile.fasta

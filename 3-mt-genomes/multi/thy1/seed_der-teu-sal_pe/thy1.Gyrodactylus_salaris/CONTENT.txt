@@ -1,0 +1,12 @@
+total 6.4M
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration2
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration3
+-rwxr-xr-x 1  674 Nov  3  2016 thy1.Gyrodactylus_salaris.MITObim.slurm.sh
+-rwxr-xr-x 1 2.7K Nov  3  2016 log.138842.out
+-rwxr-xr-x 1 6.3M Nov  3  2016 thy1.Gyrodactylus_salaris.interleaved.fastq.gz
+-rwxr-xr-x 1    0 Nov  3  2016 log.138842.err
+-rwxr-xr-x 1  15K Nov  3  2016 Gyrodactylus_salaris.reference.fasta
+-rwxr-xr-x 1  605 Nov  3  2016 HOWTO
+-rwxr-xr-x 1 1013 Nov  3  2016 thy1.sal.14785.for-testing.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 thy1.sal.circular.14785.renamed.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 thy1.sal.circular.14785.fasta

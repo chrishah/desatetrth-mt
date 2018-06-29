@@ -1,0 +1,11 @@
+total 199M
+-rwxr-xr-x 1 189M Nov  3  2016 thy1-G.der.teu.sal.mt_info_readtaglist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-G.der.teu.sal.mt_info_readrepeats.lst
+-rwxr-xr-x 1 2.6K Nov  3  2016 thy1-G.der.teu.sal.mt_info_assembly.txt
+-rwxr-xr-x 1 599K Nov  3  2016 thy1-G.der.teu.sal.mt_info_debrislist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-G.der.teu.sal.mt_info_WARNINGS_critical.txt
+-rwxr-xr-x 1  443 Nov  3  2016 thy1-G.der.teu.sal.mt_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 thy1-G.der.teu.sal.mt_info_WARNINGS_medium.txt
+-rwxr-xr-x 1  352 Nov  3  2016 thy1-G.der.teu.sal.mt_info_contigstats.txt
+-rwxr-xr-x 1  73K Nov  3  2016 thy1-G.der.teu.sal.mt_info_consensustaglist.txt
+-rwxr-xr-x 1 9.6M Nov  3  2016 thy1-G.der.teu.sal.mt_info_contigreadlist.txt

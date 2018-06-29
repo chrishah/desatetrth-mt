@@ -1,0 +1,7 @@
+total 80K
+-rw-rw-r-- 1  18K Jun  8 00:07 NC1-NC2-sensu-thymalli.fas
+-rw-rw-r-- 1 4.5K Jun  8 00:07 der-NC1-NC2-b.fas
+-rw-rw-r-- 1 7.4K Jun  8 00:07 teu-NC1-NC2-b.fas
+-rw-rw-r-- 1 4.5K Jun  8 00:07 tru-NC1-NC2-b.fas
+-rw-rw-r-- 1  17K Jun  8 00:07 Gyro repeat2.fas
+-rw-rw-r-- 1  15K Jun  8 00:07 Gyro repeat1.fas

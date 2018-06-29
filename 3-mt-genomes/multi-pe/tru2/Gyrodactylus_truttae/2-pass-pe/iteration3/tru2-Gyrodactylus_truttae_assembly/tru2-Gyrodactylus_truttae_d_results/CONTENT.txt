@@ -1,0 +1,18 @@
+total 80M
+-rwxr-xr-x 1 15K Nov  4  2016 tru2-Gyrodactylus_truttae_out.wig
+-rwxr-xr-x 1 45K Nov  4  2016 tru2-Gyrodactylus_truttae_out_tru2.unpadded.fasta.qual
+-rwxr-xr-x 1 15K Nov  4  2016 tru2-Gyrodactylus_truttae_out_tru2.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  4  2016 tru2-Gyrodactylus_truttae_out_tru2.padded.fasta.qual
+-rwxr-xr-x 1 15K Nov  4  2016 tru2-Gyrodactylus_truttae_out_tru2.padded.fasta
+-rwxr-xr-x 1 184 Nov  4  2016 tru2-Gyrodactylus_truttae_out.tcs
+-rwxr-xr-x 1 45K Nov  4  2016 tru2-Gyrodactylus_truttae_out_Gyrodactylus_truttae.unpadded.fasta.qual
+-rwxr-xr-x 1 15K Nov  4  2016 tru2-Gyrodactylus_truttae_out_Gyrodactylus_truttae.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  4  2016 tru2-Gyrodactylus_truttae_out_Gyrodactylus_truttae.padded.fasta.qual
+-rwxr-xr-x 1 15K Nov  4  2016 tru2-Gyrodactylus_truttae_out_Gyrodactylus_truttae.padded.fasta
+-rwxr-xr-x 1 45K Nov  4  2016 tru2-Gyrodactylus_truttae_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 15K Nov  4  2016 tru2-Gyrodactylus_truttae_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  4  2016 tru2-Gyrodactylus_truttae_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 15K Nov  4  2016 tru2-Gyrodactylus_truttae_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 25M Nov  4  2016 tru2-Gyrodactylus_truttae_out.maf
+-rwxr-xr-x 1 105 Nov  4  2016 _tmprecreate
+-rwxr-xr-x 1 55M Nov  4  2016 tru2-Gyrodactylus_truttae_out.caf

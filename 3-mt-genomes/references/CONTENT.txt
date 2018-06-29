@@ -1,0 +1,4 @@
+total 36K
+-rwxr-xr-x 1 15K Nov  3  2016 G.salaris.mt.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 G.derjavinoides.mt.fasta
+-rwxr-xr-x 1 475 Nov  4  2016 references_fofn.txt

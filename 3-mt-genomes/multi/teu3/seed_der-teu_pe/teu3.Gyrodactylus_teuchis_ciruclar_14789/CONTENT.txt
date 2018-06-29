@@ -1,0 +1,12 @@
+total 14M
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration1
+drwxr-xr-x 3 4.0K Nov  1  2016 iteration2
+-rwxr-xr-x 1  14M Nov  3  2016 teu3.Gyrodactylus_teuchis_ciruclar_14789.interleaved.fastq.gz
+-rwxr-xr-x 1  15K Nov  3  2016 teu3.teu.circular.14789.renamed.fasta
+-rwxr-xr-x 1    0 Nov  3  2016 log.138838.err
+-rwxr-xr-x 1 2.5K Nov  3  2016 log.138838.out
+-rwxr-xr-x 1 1013 Nov  3  2016 teu3.teu.14789.for-testing.fasta
+-rwxr-xr-x 1  609 Nov  3  2016 HOWTO
+-rwxr-xr-x 1  719 Nov  3  2016 teu3.Gyrodactylus_teuchis_ciruclar_14789.MITObim.slurm.sh
+-rwxr-xr-x 1  15K Nov  3  2016 Gyrodactylus_teuchis_ciruclar_14789.reference.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 teu3.teu.circular.14789.fasta

@@ -1,0 +1,4 @@
+total 12K
+drwxr-xr-x 4 4.0K Nov  4  2016 Gyrodactylus_truttae
+drwxr-xr-x 4 4.0K Nov  4  2016 Gyrodactylus_teuchis
+drwxr-xr-x 4 4.0K Nov  4  2016 Gyrodactylus_derjavinoides

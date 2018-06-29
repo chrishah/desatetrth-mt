@@ -1,0 +1,18 @@
+total 162M
+-rwxr-xr-x 1  45K Nov  3  2016 mix-G.der.teu.tru.mt_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 134K Nov  3  2016 mix-G.der.teu.tru.mt_out_mix.padded.fasta.qual
+-rwxr-xr-x 1  310 Nov  3  2016 mix-G.der.teu.tru.mt_out.tcs
+-rwxr-xr-x 1 110M Nov  3  2016 mix-G.der.teu.tru.mt_out.caf
+-rwxr-xr-x 1 134K Nov  3  2016 mix-G.der.teu.tru.mt_out_G.der.teu.tru.mt.unpadded.fasta.qual
+-rwxr-xr-x 1  45K Nov  3  2016 mix-G.der.teu.tru.mt_out_AllStrains.padded.fasta
+-rwxr-xr-x 1  45K Nov  3  2016 mix-G.der.teu.tru.mt_out_mix.padded.fasta
+-rwxr-xr-x 1  45K Nov  3  2016 mix-G.der.teu.tru.mt_out_mix.unpadded.fasta
+-rwxr-xr-x 1 134K Nov  3  2016 mix-G.der.teu.tru.mt_out_mix.unpadded.fasta.qual
+-rwxr-xr-x 1  45K Nov  3  2016 mix-G.der.teu.tru.mt_out_G.der.teu.tru.mt.padded.fasta
+-rwxr-xr-x 1   90 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1 134K Nov  3  2016 mix-G.der.teu.tru.mt_out_G.der.teu.tru.mt.padded.fasta.qual
+-rwxr-xr-x 1  52M Nov  3  2016 mix-G.der.teu.tru.mt_out.maf
+-rwxr-xr-x 1  42K Nov  3  2016 mix-G.der.teu.tru.mt_out.wig
+-rwxr-xr-x 1 134K Nov  3  2016 mix-G.der.teu.tru.mt_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1  45K Nov  3  2016 mix-G.der.teu.tru.mt_out_G.der.teu.tru.mt.unpadded.fasta
+-rwxr-xr-x 1 134K Nov  3  2016 mix-G.der.teu.tru.mt_out_AllStrains.unpadded.fasta.qual

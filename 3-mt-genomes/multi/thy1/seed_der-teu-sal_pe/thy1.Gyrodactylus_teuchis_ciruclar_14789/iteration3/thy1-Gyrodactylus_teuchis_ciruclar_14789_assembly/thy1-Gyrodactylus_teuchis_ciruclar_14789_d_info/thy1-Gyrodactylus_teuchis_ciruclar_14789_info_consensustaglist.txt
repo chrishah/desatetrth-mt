@@ -1,0 +1,21 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	9710	9710	9710	9710	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10033	10033	10033	10033	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10039	10039	10039	10039	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10043	10043	10043	10043	1	IUPc							Strain 'thy1': Y
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10043	10043	10043	10043	1	STMS							Solved vote:  / txt (4) C 30  is in  
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10043	10043	10043	10043	1	UNSc							high
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10177	10177	10177	10177	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10180	10180	10180	10180	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10184	10184	10184	10184	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	10281	10281	10281	10281	1	SRMc	86	0	90	0	86	0	
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	13013	13026	13013	13026	14	MCVc							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	13086	13086	13086	13086	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	13111	13111	13111	13111	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	13136	13136	13136	13136	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	13192	13192	13192	13192	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	13266	13266	13266	13266	1	ESDN							
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb_bb_bb	13266	13266	13266	13266	1	STMS							Solved vote:  / txt (4) T 30  is in  

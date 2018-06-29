@@ -1,0 +1,10 @@
+total 56K
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration1
+drwxr-xr-x 3 4.0K Oct 29  2016 iteration2
+-rwxr-xr-x 1  15K Nov  3  2016 thy2.circular.14785.renamed.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 thy2.circular.14785.fasta
+-rwxr-xr-x 1 1013 Nov  3  2016 thy2.14785.for-testing.fasta
+-rwxr-xr-x 1  733 Nov  3  2016 MITObim.salaris.seed.slurm.sh
+-rwxr-xr-x 1 2.3K Nov  3  2016 log.138455.out
+-rwxr-xr-x 1    0 Nov  3  2016 log.138455.err
+-rwxr-xr-x 1  712 Nov  3  2016 HOWTO

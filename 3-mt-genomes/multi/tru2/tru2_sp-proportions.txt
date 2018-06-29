@@ -1,0 +1,5 @@
+	tru2
+derjavinoides	0.005
+salaris	0.001
+teuchis	0.305
+truttae	0.690

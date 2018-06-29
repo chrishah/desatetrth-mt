@@ -1,0 +1,7 @@
+total 48K
+drwxr-xr-x 3 4.0K Oct 30  2016 iteration1
+drwxr-xr-x 3 4.0K Oct 30  2016 iteration2
+-rwxr-xr-x 1  29K Nov  3  2016 G.der-teu.mt.fasta
+-rwxr-xr-x 1  692 Nov  3  2016 MITObim.slurm.sh
+-rwxr-xr-x 1 3.1K Nov  3  2016 log.138495.out
+-rwxr-xr-x 1    0 Nov  3  2016 log.138495.err

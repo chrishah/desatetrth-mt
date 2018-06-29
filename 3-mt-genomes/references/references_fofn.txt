@@ -1,0 +1,4 @@
+Gyrodactylus_derjavinoides	/home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/references/G.derjavinoides.mt.fasta
+Gyrodactylus_salaris	/home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/references/G.salaris.mt.fasta
+Gyrodactylus_teuchis	/home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/clean/teu2/seed_salaris/teu2.circular.14789.renamed.fasta
+Gyrodactylus_truttae	/home/478358/WORKING/GYRO/mt-genomes/3-mt-genomes/clean/tru1/seed_salaris_pe/tru1.circular.14823.renamed.fasta

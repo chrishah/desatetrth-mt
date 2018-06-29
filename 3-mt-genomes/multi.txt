@@ -1,0 +1,7 @@
+der	Gyrodactylus_derjavinoides,Gyrodactylus_salaris
+let	Gyrodactylus_derjavinoides,Gyrodactylus_salaris
+mix	Gyrodactylus_derjavinoides,Gyrodactylus_teuchis,Gyrodactylus_truttae
+teu1	Gyrodactylus_teuchis,Gyrodactylus_truttae
+teu3	Gyrodactylus_derjavinoides,Gyrodactylus_teuchis
+thy1	Gyrodactylus_derjavinoides,Gyrodactylus_salaris
+tru2	Gyrodactylus_teuchis,Gyrodactylus_truttae

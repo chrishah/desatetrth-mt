@@ -1,0 +1,23 @@
+total 352K
+-rwxr-xr-x 1 15K Nov  3  2016 der.der.circular.14739.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 der.sal.circular.14787.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 let.der.circular.14739.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 let.sal.circular.14786.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 mix.der.circular.14740.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 mix.teu.circular.14781.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 mix.tru.circular.14828.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 Palsbu.circular.14785.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 Rauma.circular.14789.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 sal.circular.14785.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 teu1.teu.circular.14798.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 teu1.tru.circular.14828.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 teu2.circular.14789.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 teu3.der.circular.14739.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 teu3.teu.circular.14789.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 teu4.circular.14792.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 thy1.der.circular.14741.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 thy1.sal.circular.14785.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 thy2.circular.14785.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 tru1.circular.14823.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 tru2.teu.circular.14789.renamed.rolled.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 tru2.tru.circular.14827.renamed.rolled.fasta

@@ -1,0 +1,347 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+KR080729.1|Gyrodactylus_truttae_COI_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+KR080712.1|Gyrodactylus_teuchis_COI_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	32	32	32	32	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	44	44	44	44	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	65	65	65	65	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	69	69	69	69	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	92	92	92	92	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	104	104	104	104	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	109	109	109	109	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	112	112	112	112	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	131	131	131	131	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	188	188	188	188	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	200	200	200	200	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	221	221	221	221	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	228	228	228	228	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	232	232	232	232	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	246	246	246	246	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	270	270	270	270	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	282	282	282	282	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	286	286	286	286	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	287	287	287	287	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	294	294	294	294	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	307	307	307	307	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	308	308	308	308	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	311	311	311	311	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	312	312	312	312	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	314	314	314	314	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	315	315	315	315	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	326	326	326	326	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	331	331	331	331	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	332	332	332	332	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	348	348	348	348	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	353	353	353	353	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	357	357	357	357	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	362	362	362	362	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	366	366	366	366	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	376	376	376	376	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	379	379	379	379	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	381	381	381	381	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	384	384	384	384	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	389	389	389	389	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	395	395	395	395	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	418	418	418	418	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	428	428	428	428	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	445	445	445	445	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	454	454	454	454	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	467	467	467	467	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	479	479	479	479	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	483	483	483	483	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	512	512	512	512	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	522	522	522	522	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	527	527	527	527	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	532	532	532	532	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	543	543	543	543	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	568	568	568	568	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	573	573	573	573	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	576	576	576	576	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	600	600	600	600	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	605	605	605	605	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	617	617	617	617	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	650	650	650	650	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	651	651	651	651	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	655	655	655	655	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	674	674	674	674	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	690	690	690	690	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	695	695	695	695	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	701	701	701	701	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	706	706	706	706	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	724	724	724	724	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	748	748	748	748	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	752	752	752	752	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	759	759	759	759	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	770	770	770	770	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	777	777	777	777	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	794	794	794	794	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	798	798	798	798	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	799	799	799	799	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	857	857	857	857	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	943	943	943	943	1	SRMc	85	85	90	0	0	0	
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	982	982	982	982	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	986	986	986	986	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1046	1046	1046	1046	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1055	1055	1055	1055	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1077	1077	1077	1077	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1091	1091	1091	1091	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1098	1098	1098	1098	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1098	1098	1098	1098	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1101	1101	1101	1101	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1105	1105	1105	1105	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1132	1132	1132	1132	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1149	1149	1149	1149	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1159	1159	1159	1159	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1166	1166	1166	1166	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1169	1169	1169	1169	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1181	1181	1181	1181	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1185	1185	1185	1185	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1189	1189	1189	1189	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1195	1195	1195	1195	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1196	1196	1196	1196	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1206	1206	1206	1206	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1238	1238	1238	1238	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1243	1243	1243	1243	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1244	1244	1244	1244	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1251	1251	1251	1251	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1254	1254	1254	1254	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1279	1279	1279	1279	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1291	1291	1291	1291	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1311	1311	1311	1311	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1319	1319	1319	1319	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1352	1352	1352	1352	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1362	1362	1362	1362	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1365	1365	1365	1365	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1383	1383	1383	1383	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1413	1413	1413	1413	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1438	1438	1438	1438	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1512	1512	1512	1512	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1514	1514	1514	1514	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1514	1514	1514	1514	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1515	1515	1515	1515	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1526	1526	1526	1526	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1531	1531	1531	1531	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1533	1533	1533	1533	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1560	1560	1560	1560	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1571	1571	1571	1571	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1596	1596	1596	1596	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1600	1600	1600	1600	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1610	1610	1610	1610	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1622	1622	1622	1622	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1630	1630	1630	1630	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	8	8	8	8	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	19	19	19	19	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	37	37	37	37	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	44	44	44	44	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	45	45	45	45	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	61	61	61	61	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	81	81	81	81	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	84	84	84	84	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	88	88	88	88	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	92	92	92	92	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	101	101	101	101	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	104	104	104	104	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	105	105	105	105	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	114	114	114	114	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	116	116	116	116	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	120	120	120	120	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	124	124	124	124	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	168	168	168	168	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	216	216	216	216	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	264	264	264	264	1	SRMc	90	0	90	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	273	273	273	273	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	276	276	276	276	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	365	365	365	365	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	371	371	371	371	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	372	372	372	372	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	373	373	373	373	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	374	374	374	374	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	381	381	381	381	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	384	384	384	384	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	388	388	388	388	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	396	396	396	396	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	407	407	407	407	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	414	414	414	414	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	421	421	421	421	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	427	427	427	427	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	431	431	431	431	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	432	432	432	432	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	440	440	440	440	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	449	449	449	449	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	454	454	454	454	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	456	456	456	456	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	466	466	466	466	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	481	481	481	481	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	482	482	482	482	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	485	485	485	485	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	487	487	487	487	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	498	498	498	498	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	523	523	523	523	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	527	527	527	527	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	528	528	528	528	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	547	547	547	547	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	554	554	554	554	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	560	560	560	560	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	561	561	561	561	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	569	569	569	569	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	589	589	589	589	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	601	601	601	601	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	605	605	605	605	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	606	606	606	606	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	607	607	607	607	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	611	611	611	611	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	619	619	619	619	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	620	620	620	620	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	632	632	632	632	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	642	642	642	642	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	646	646	646	646	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	659	659	659	659	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	664	664	664	664	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	667	667	667	667	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	684	684	684	684	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	698	698	698	698	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	723	723	723	723	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	732	732	732	732	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	747	747	747	747	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	749	749	749	749	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	754	754	754	754	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	760	760	760	760	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	765	765	765	765	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	766	766	766	766	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	769	769	769	769	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	770	770	770	770	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	777	777	777	777	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	783	783	783	783	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	793	793	793	793	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	795	795	795	795	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	796	796	796	796	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	797	797	797	797	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	807	807	807	807	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	811	811	811	811	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	816	816	816	816	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	821	821	821	821	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	825	825	825	825	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	828	828	828	828	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	836	836	836	836	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	845	845	845	845	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	846	846	846	846	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	850	850	850	850	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	851	851	851	851	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	859	859	859	859	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	861	861	861	861	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	874	874	874	874	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	880	880	880	880	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	898	898	898	898	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	907	907	907	907	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	914	914	914	914	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	915	915	915	915	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	926	926	926	926	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	927	927	927	927	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	928	928	928	928	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	929	929	929	929	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	943	943	943	943	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	949	949	949	949	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	950	950	950	950	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	956	956	956	956	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	960	960	960	960	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	967	967	967	967	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	982	982	982	982	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	985	985	985	985	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	986	986	986	986	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	989	989	989	989	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	995	995	995	995	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	999	999	999	999	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1000	1000	1000	1000	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1004	1004	1004	1004	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1007	1007	1007	1007	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1013	1013	1013	1013	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1030	1030	1030	1030	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1030	1030	1030	1030	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1033	1033	1033	1033	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1049	1049	1049	1049	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1054	1054	1054	1054	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1055	1055	1055	1055	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1057	1057	1057	1057	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1062	1062	1062	1062	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1063	1063	1063	1063	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1091	1091	1091	1091	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1102	1102	1102	1102	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1118	1118	1118	1118	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1125	1125	1125	1125	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1126	1126	1126	1126	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1127	1127	1127	1127	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1129	1129	1129	1129	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1131	1131	1131	1131	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1136	1136	1136	1136	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1142	1142	1142	1142	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1147	1147	1147	1147	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1157	1157	1157	1157	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1169	1169	1169	1169	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1172	1172	1172	1172	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1182	1182	1182	1182	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1184	1184	1184	1184	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1201	1201	1200	1200	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1227	1227	1226	1226	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1237	1237	1236	1236	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1238	1238	1237	1237	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1240	1240	1239	1239	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1244	1244	1243	1243	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1250	1250	1249	1249	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1252	1252	1251	1251	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1255	1255	1254	1254	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1258	1258	1257	1257	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1261	1261	1260	1260	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1262	1262	1261	1261	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1272	1272	1271	1271	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1275	1275	1274	1274	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1290	1290	1289	1289	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1303	1303	1302	1302	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1311	1311	1310	1310	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1327	1327	1326	1326	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1342	1342	1341	1341	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1348	1348	1347	1347	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1349	1349	1348	1348	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1350	1350	1349	1349	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1360	1360	1359	1359	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1363	1363	1362	1362	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1375	1375	1374	1374	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1378	1378	1377	1377	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1382	1382	1381	1381	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1391	1391	1390	1390	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1420	1420	1419	1419	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1437	1437	1436	1436	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1438	1438	1437	1437	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1455	1455	1454	1454	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1457	1457	1456	1456	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1469	1469	1468	1468	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1470	1470	1469	1469	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1471	1471	1470	1470	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1472	1472	1471	1471	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1475	1475	1474	1474	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1490	1490	1489	1489	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1492	1492	1491	1491	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1496	1496	1495	1495	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1497	1497	1496	1496	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1501	1501	1500	1500	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1512	1512	1511	1511	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1513	1513	1512	1512	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1516	1516	1515	1515	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1520	1520	1519	1519	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1528	1528	1527	1527	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1531	1531	1530	1530	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1539	1539	1538	1538	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1540	1540	1539	1539	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1546	1546	1545	1545	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1550	1550	1549	1549	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1563	1563	1562	1562	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1564	1564	1563	1563	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1565	1565	1564	1564	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1568	1568	1567	1567	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1583	1583	1582	1582	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1583	1583	1582	1582	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1615	1615	1614	1614	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1636	1636	1635	1635	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1637	1637	1636	1636	1	ESDN							
+AF479750.4|Gyrodactylus_salaris_COI_bb	1646	1646	1645	1645	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1685	1685	1684	1684	1	SROc							high

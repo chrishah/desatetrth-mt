@@ -1,0 +1,141 @@
+#
+# conName	fromPadded	toPadded	fromUnPadded	toUnPadded	len	type	SNPqual	qualA	qualC	qualG	qualT	qual*	comment
+#
+KR080729.1|Gyrodactylus_truttae_COI_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+KR080712.1|Gyrodactylus_teuchis_COI_bb	0	4	0	4	5	MIRA							Assembled with MIRA
+KR080712.1|Gyrodactylus_teuchis_COI_bb	0	743	0	743	744	MCVc							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	761	761	761	761	1	IUPc							Strain 'thy1': Y
+KR080712.1|Gyrodactylus_teuchis_COI_bb	761	761	761	761	1	STMS							Solved vote:  / txt (4) A 30  is in  
+KR080712.1|Gyrodactylus_teuchis_COI_bb	761	761	761	761	1	UNSc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	767	767	767	767	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	770	770	770	770	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	771	771	771	771	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	773	773	773	773	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	776	776	776	776	1	ESDN							
+KR080712.1|Gyrodactylus_teuchis_COI_bb	776	776	776	776	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	779	779	779	779	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	782	782	782	782	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	785	785	785	785	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	794	794	794	794	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	800	800	800	800	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	803	803	803	803	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	818	818	818	818	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	833	833	833	833	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	845	845	845	845	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	854	854	854	854	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	863	863	863	863	1	SROc							high
+KR080712.1|Gyrodactylus_teuchis_COI_bb	873	1354	873	1354	482	MCVc							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	32	32	32	32	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	44	44	44	44	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	104	104	104	104	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	118	199	118	199	82	MCVc							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	221	221	221	221	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	246	246	246	246	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	254	254	254	254	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	314	314	314	314	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	315	315	315	315	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	332	332	332	332	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	389	389	389	389	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	527	527	527	527	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	576	576	576	576	1	IUPc							Strain 'thy1': Y
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	576	576	576	576	1	STMS							Solved vote:  / txt (4) T 30  is in  
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	576	576	576	576	1	UNSc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	650	650	650	650	1	SRMc	84	84	87	0	0	0	
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	695	695	695	695	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	833	833	833	833	1	SRMc	87	88	87	0	0	0	
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	857	857	857	857	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	958	958	958	958	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	960	960	960	960	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	982	982	982	982	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	986	986	986	986	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1091	1091	1091	1091	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1098	1098	1098	1098	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1130	1130	1130	1130	1	ESDN							
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1181	1181	1181	1181	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1243	1243	1243	1243	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1413	1413	1413	1413	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1485	1485	1485	1485	1	SRMc	84	0	84	0	85	0	
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1514	1514	1514	1514	1	SROc							high
+EF446760.1|Gyrodactylus_derjavinoides_COI_bb	1630	1630	1630	1630	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	44	44	44	44	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	55	55	55	55	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	81	81	81	81	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	84	84	84	84	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	105	105	105	105	1	SRMc	73	90	0	90	0	73	
+AF479750.4|Gyrodactylus_salaris_COI_bb	110	110	110	110	1	SRMc	87	0	0	90	87	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	114	114	114	114	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	153	153	153	153	1	SRMc	88	90	0	88	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	157	157	157	157	1	SRMc	87	0	90	87	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	168	168	168	168	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	177	177	177	177	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	187	187	187	187	1	SRMc	90	90	0	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	204	204	204	204	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	216	216	216	216	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	219	219	219	219	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	222	222	222	222	1	SRMc	88	0	90	0	88	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	237	237	237	237	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	240	240	240	240	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	279	279	279	279	1	SRMc	90	90	0	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	318	318	318	318	1	SRMc	89	89	0	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	339	339	339	339	1	SRMc	87	0	0	90	0	87	
+AF479750.4|Gyrodactylus_salaris_COI_bb	340	340	340	340	1	SRMc	87	0	0	90	0	87	
+AF479750.4|Gyrodactylus_salaris_COI_bb	341	341	341	341	1	SRMc	87	0	90	0	0	87	
+AF479750.4|Gyrodactylus_salaris_COI_bb	342	342	342	342	1	SRMc	87	0	0	0	90	87	
+AF479750.4|Gyrodactylus_salaris_COI_bb	344	344	343	343	1	SRMc	87	0	0	0	90	87	
+AF479750.4|Gyrodactylus_salaris_COI_bb	376	376	375	375	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	382	382	381	381	1	SRMc	90	0	0	90	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	385	385	384	384	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	400	400	399	399	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	406	406	405	405	1	SRMc	89	89	0	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	445	445	444	444	1	SRMc	67	67	90	0	89	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	490	490	489	489	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	499	499	498	498	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	502	502	501	501	1	SRMc	39	39	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	511	511	510	510	1	SRMc	90	0	90	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	529	529	528	528	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	532	532	531	531	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	610	610	609	609	1	WRMc	72	0	90	0	0	72	
+AF479750.4|Gyrodactylus_salaris_COI_bb	611	611	610	610	1	SRMc	34	0	90	0	90	34	
+AF479750.4|Gyrodactylus_salaris_COI_bb	613	613	612	612	1	SRMc	89	89	0	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	620	620	619	619	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	685	685	684	684	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	703	703	702	702	1	SRMc	88	0	90	0	88	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	712	712	711	711	1	SRMc	63	0	90	0	85	63	
+AF479750.4|Gyrodactylus_salaris_COI_bb	724	724	723	723	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	748	748	747	747	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	766	766	765	765	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	778	778	777	777	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	802	802	801	801	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	814	814	813	813	1	SRMc	90	90	0	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	877	877	876	876	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	895	895	894	894	1	SRMc	90	90	0	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	901	901	900	900	1	SRMc	23	0	90	23	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	952	952	951	951	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1040	1040	1039	1039	1	SRMc	80	80	90	0	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1121	1121	1120	1120	1	SRMc	29	0	90	29	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1123	1123	1122	1122	1	SRMc	70	90	0	90	0	70	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1141	1141	1140	1140	1	SRMc	89	0	89	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1144	1144	1143	1143	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1238	1238	1236	1236	1	SRMc	90	0	0	90	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1256	1256	1254	1254	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1263	1263	1261	1261	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1290	1290	1288	1288	1	SRMc	90	90	0	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1337	1337	1335	1335	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1340	1340	1338	1338	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1355	1355	1353	1353	1	SRMc	31	90	31	88	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1379	1379	1377	1377	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1382	1382	1380	1380	1	SRMc	88	88	0	90	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1389	1389	1387	1387	1	SRMc	88	90	0	88	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1391	1391	1389	1389	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1392	1392	1390	1390	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1418	1418	1416	1416	1	SRMc	89	0	0	89	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1421	1421	1419	1419	1	SRMc	87	0	90	0	87	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1449	1449	1447	1447	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1481	1481	1479	1479	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1487	1487	1485	1485	1	SRMc	90	0	0	90	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1532	1532	1530	1530	1	SRMc	90	90	90	0	0	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1544	1544	1542	1542	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1584	1584	1582	1582	1	SROc							high
+AF479750.4|Gyrodactylus_salaris_COI_bb	1630	1630	1628	1628	1	SRMc	90	0	90	0	90	0	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1647	1647	1645	1645	1	SRMc	26	90	0	90	0	26	
+AF479750.4|Gyrodactylus_salaris_COI_bb	1686	1686	1684	1684	1	SROc							high

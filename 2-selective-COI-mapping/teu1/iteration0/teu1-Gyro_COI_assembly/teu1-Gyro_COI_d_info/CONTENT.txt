@@ -1,0 +1,11 @@
+total 5.6M
+-rwxr-xr-x 1    0 Nov  3  2016 teu1-Gyro_COI_info_WARNINGS_medium.txt
+-rwxr-xr-x 1 4.4M Nov  3  2016 teu1-Gyro_COI_info_readtaglist.txt
+-rwxr-xr-x 1  15K Nov  3  2016 teu1-Gyro_COI_info_consensustaglist.txt
+-rwxr-xr-x 1  21K Nov  3  2016 teu1-Gyro_COI_info_debrislist.txt
+-rwxr-xr-x 1  443 Nov  3  2016 teu1-Gyro_COI_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu1-Gyro_COI_info_readrepeats.lst
+-rwxr-xr-x 1  420 Nov  3  2016 teu1-Gyro_COI_info_contigstats.txt
+-rwxr-xr-x 1 1.2M Nov  3  2016 teu1-Gyro_COI_info_contigreadlist.txt
+-rwxr-xr-x 1    0 Nov  3  2016 teu1-Gyro_COI_info_WARNINGS_critical.txt
+-rwxr-xr-x 1 2.5K Nov  3  2016 teu1-Gyro_COI_info_assembly.txt

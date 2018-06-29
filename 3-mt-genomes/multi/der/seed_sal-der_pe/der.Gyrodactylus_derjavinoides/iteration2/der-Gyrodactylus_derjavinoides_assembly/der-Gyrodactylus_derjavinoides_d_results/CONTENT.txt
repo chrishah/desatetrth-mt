@@ -1,0 +1,19 @@
+total 154M
+-rwxr-xr-x 1 65M Nov  3  2016 der-Gyrodactylus_derjavinoides_out.caf
+-rwxr-xr-x 1 45K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_der.padded.fasta.qual
+-rwxr-xr-x 1 29M Nov  3  2016 der-Gyrodactylus_derjavinoides_out.maf
+-rwxr-xr-x 1 15K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_Gyrodactylus_derjavinoides.padded.fasta
+-rwxr-xr-x 1 184 Nov  3  2016 der-Gyrodactylus_derjavinoides_out.tcs
+-rwxr-xr-x 1 45K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_Gyrodactylus_derjavinoides.padded.fasta.qual
+-rwxr-xr-x 1 15K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_der.unpadded.fasta
+-rwxr-xr-x 1 120 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1 15K Nov  3  2016 der-Gyrodactylus_derjavinoides_out.wig
+-rwxr-xr-x 1 15K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 15K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_Gyrodactylus_derjavinoides.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 15K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_der.padded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_Gyrodactylus_derjavinoides.unpadded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 der-Gyrodactylus_derjavinoides_out_der.unpadded.fasta.qual
+-rwxr-xr-x 1 60M Nov  3  2016 der-Gyrodactylus_derjavinoides_out.ace

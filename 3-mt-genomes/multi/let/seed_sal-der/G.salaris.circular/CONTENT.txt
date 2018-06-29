@@ -1,0 +1,4 @@
+total 24K
+-rwxr-xr-x 1  609 Nov  3  2016 HOWTO
+-rwxr-xr-x 1 1013 Nov  3  2016 let.sal.14786.for-testing.fasta
+-rwxr-xr-x 1  15K Nov  3  2016 let.sal.circular.14786.fasta

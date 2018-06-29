@@ -1,0 +1,11 @@
+total 15M
+-rwxr-xr-x 1    0 Nov  4  2016 tru2-Gyrodactylus_teuchis_info_WARNINGS_medium.txt
+-rwxr-xr-x 1    0 Nov  4  2016 tru2-Gyrodactylus_teuchis_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  4  2016 tru2-Gyrodactylus_teuchis_info_readrepeats.lst
+-rwxr-xr-x 1  443 Nov  4  2016 tru2-Gyrodactylus_teuchis_info_WARNINGS_minor.txt
+-rwxr-xr-x 1  14M Nov  4  2016 tru2-Gyrodactylus_teuchis_info_readtaglist.txt
+-rwxr-xr-x 1  12K Nov  4  2016 tru2-Gyrodactylus_teuchis_info_debrislist.txt
+-rwxr-xr-x 1  204 Nov  4  2016 tru2-Gyrodactylus_teuchis_info_contigstats.txt
+-rwxr-xr-x 1 1.6M Nov  4  2016 tru2-Gyrodactylus_teuchis_info_contigreadlist.txt
+-rwxr-xr-x 1  25K Nov  4  2016 tru2-Gyrodactylus_teuchis_info_consensustaglist.txt
+-rwxr-xr-x 1 2.6K Nov  4  2016 tru2-Gyrodactylus_teuchis_info_assembly.txt

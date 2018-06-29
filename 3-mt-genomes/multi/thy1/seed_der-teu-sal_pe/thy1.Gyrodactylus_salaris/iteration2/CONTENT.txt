@@ -1,0 +1,7 @@
+total 20M
+drwxr-xr-x 6 4.0K Nov  1  2016 thy1-Gyrodactylus_salaris_assembly
+-rwxr-xr-x 1 444K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  3  2016 backbone_it2_initial_Gyrodactylus_salaris.fna
+-rwxr-xr-x 1  19M Nov  3  2016 thy1-readpool-it2.fastq
+-rwxr-xr-x 1  422 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  15K Nov  3  2016 temp_baitfile.fasta

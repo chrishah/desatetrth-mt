@@ -1,0 +1,7 @@
+total 11M
+drwxr-xr-x 6 4.0K Oct 29  2016 Rauma-G.salaris.mt_assembly
+-rwxr-xr-x 1  391 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1 444K Nov  3  2016 hashstat.bin
+-rwxr-xr-x 1  15K Nov  3  2016 temp_baitfile.fasta
+-rwxr-xr-x 1 9.9M Nov  3  2016 Rauma-readpool-it2.fastq
+-rwxr-xr-x 1  15K Nov  3  2016 backbone_it2_initial_G.salaris.mt.fna

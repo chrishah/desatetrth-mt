@@ -1,0 +1,11 @@
+total 91M
+-rwxr-xr-x 1  82M Nov  3  2016 let-G.sal.der.mt_info_readtaglist.txt
+-rwxr-xr-x 1  50K Nov  3  2016 let-G.sal.der.mt_info_consensustaglist.txt
+-rwxr-xr-x 1 2.6K Nov  3  2016 let-G.sal.der.mt_info_assembly.txt
+-rwxr-xr-x 1    0 Nov  3  2016 let-G.sal.der.mt_info_WARNINGS_medium.txt
+-rwxr-xr-x 1  19K Nov  3  2016 let-G.sal.der.mt_info_debrislist.txt
+-rwxr-xr-x 1  443 Nov  3  2016 let-G.sal.der.mt_info_WARNINGS_minor.txt
+-rwxr-xr-x 1    0 Nov  3  2016 let-G.sal.der.mt_info_WARNINGS_critical.txt
+-rwxr-xr-x 1    0 Nov  3  2016 let-G.sal.der.mt_info_readrepeats.lst
+-rwxr-xr-x 1 8.3M Nov  3  2016 let-G.sal.der.mt_info_contigreadlist.txt
+-rwxr-xr-x 1  281 Nov  3  2016 let-G.sal.der.mt_info_contigstats.txt

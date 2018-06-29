@@ -1,0 +1,7 @@
+total 30M
+drwxr-xr-x 6 4.0K Oct 29  2016 sal-G.salaris.mt_assembly
+-rwxr-xr-x 1  30M Nov  3  2016 sal-readpool-it5.fastq
+-rwxr-xr-x 1  16K Nov  3  2016 temp_baitfile.fasta
+-rwxr-xr-x 1  385 Nov  3  2016 manifest.conf
+-rwxr-xr-x 1  16K Nov  3  2016 backbone_it5_initial_G.salaris.mt.fna
+-rwxr-xr-x 1 455K Nov  3  2016 hashstat.bin

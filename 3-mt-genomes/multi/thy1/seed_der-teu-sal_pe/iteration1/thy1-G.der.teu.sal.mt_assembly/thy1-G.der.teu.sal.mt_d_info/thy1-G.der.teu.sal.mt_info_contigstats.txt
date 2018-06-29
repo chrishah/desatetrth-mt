@@ -1,0 +1,4 @@
+# name              	length	av.qual	#-reads	mx.cov.	av.cov	GC%	CnIUPAC	CnFunny	CnN	CnX	CnGap	CnNoCov
+NC_010976.1|Gyrodactylus_derjavinoides_bb_bb	14795	86	1966	51	15.30	31.71	1	0	40	0	0	0
+NC_008815.1|Gyrodactylus_salaris_bb_bb	14886	88	106611	1705	683.14	37.15	0	0	0	0	51	0
+teu2|Gyrodactylus_teuchis_ciruclar_14789_bb_bb	14792	25	2002	450	15.51	33.16	2	0	9709	0	4	0

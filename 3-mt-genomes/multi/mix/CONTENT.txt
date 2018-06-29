@@ -1,0 +1,4 @@
+total 12K
+drwxr-xr-x 5 4.0K Nov  1  2016 seed_der-teu-tru
+drwxr-xr-x 7 4.0K Nov  1  2016 seed_der-teu-tru_pe
+-rwxr-xr-x 1  917 Nov  3  2016 HOWTO

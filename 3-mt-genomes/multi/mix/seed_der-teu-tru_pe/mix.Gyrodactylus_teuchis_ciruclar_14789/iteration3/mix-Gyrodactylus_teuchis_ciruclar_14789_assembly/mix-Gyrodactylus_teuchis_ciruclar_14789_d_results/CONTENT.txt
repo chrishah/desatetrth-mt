@@ -1,0 +1,18 @@
+total 82M
+-rwxr-xr-x 1 45K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_mix.unpadded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_AllStrains.unpadded.fasta.qual
+-rwxr-xr-x 1 57M Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out.caf
+-rwxr-xr-x 1 15K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_AllStrains.unpadded.fasta
+-rwxr-xr-x 1 26M Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out.maf
+-rwxr-xr-x 1 15K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_Gyrodactylus_teuchis_ciruclar_14789.padded.fasta
+-rwxr-xr-x 1 15K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_AllStrains.padded.fasta
+-rwxr-xr-x 1 147 Nov  3  2016 _tmprecreate
+-rwxr-xr-x 1 15K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_Gyrodactylus_teuchis_ciruclar_14789.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_mix.padded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_AllStrains.padded.fasta.qual
+-rwxr-xr-x 1 184 Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out.tcs
+-rwxr-xr-x 1 15K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_mix.unpadded.fasta
+-rwxr-xr-x 1 45K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_Gyrodactylus_teuchis_ciruclar_14789.padded.fasta.qual
+-rwxr-xr-x 1 45K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_Gyrodactylus_teuchis_ciruclar_14789.unpadded.fasta.qual
+-rwxr-xr-x 1 15K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out_mix.padded.fasta
+-rwxr-xr-x 1 16K Nov  3  2016 mix-Gyrodactylus_teuchis_ciruclar_14789_out.wig
